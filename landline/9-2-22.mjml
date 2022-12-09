@@ -1,0 +1,384 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The Colorado River’s alfalfa problem
+</mj-title>
+    <mj-preview>Growing less hay is the only way to keep the river’s water system from collapsing. &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wc&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">September 1, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>The West has an alfalfa problem</h1>
+          <h2>It’s time for hay farmers to come to the Colorado River water-conservation table</h2>
+          <p>In June, Bureau of Reclamation Commissioner Camille Calimlim Touton told the Colorado River Basin states that they needed to reduce water consumption by 2-to-4 million acre-feet &mdash; or as much as 30% of the seven states&rsquo; total use &mdash; to save the system from collapsing. It was an enormous ask, unprecedented in scope, and probably the first time a Reclamation official&rsquo;s words ever went viral.</p>
+<p>A few weeks later, I stood on a dusty trail in Page, Arizona, looking out at Glen Canyon Dam and wondering whether such huge cuts were even possible, without, say, shutting off every irrigation canal into California. And how could the states possibly manage such a huge reduction while also fulfilling their legal obligation <a href="https://www.hcn.org/articles/colorado-river-basin-tribes-work-to-protect-their-water-rights?utm_source=wc&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">to deliver an equally large amount of additional water</a> to the 30 tribes in the Colorado River Basin?</p>
+<p>Part of the answer lay right in front of me: The trail I was hiking followed the edge of the local golf course, an emerald green carpet on the parched red earth. I wondered how much water you could save by cutting off every golf course in the West. Then I started ticking off other water-saving measures:</p>
+<ul>
+<li>Tear up the turf lawns;</li>
+<li>Shut down water-guzzling coal power plants;</li>
+<li>Drain private swimming pools, and ban new ones;</li>
+<li>Shut off those Las Vegas fountains*;</li>
+<li>Halt new housing growth;</li>
+<li>Make water recycling the norm;</li>
+<li>Plug the leaks in water-distribution systems;</li>
+<li>Ban water-guzzling data centers in arid areas;</li>
+<li>Structure water rates in a way that discourages waste;</li>
+<li>And put water-flow restrictors on LA-area celebrities&rsquo; homes to keep them from wasting water.</li>
+</ul>
+<ul style="list-style:none;">
+<li>*The infamous Bellagio Fountain is <a href="https://www.hcn.org/issues/46.1/the-vegas-paradox?utm_source=wc&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">fed by a private well from a now-defunct golf course, not by the Colorado River</a>.</li>
+</ul>
+<p>Surely that would do it. Especially the last item, given that Kim Kardashian <a href="https://www.latimes.com/california/story/2022-08-22/kim-kardashian-kevin-hart-california-drought-water-waste?utm_id=65463&sfmc_id=3421533" target="_blank" rel="noopener">was just busted</a> for using 232,000 gallons more than she was supposed to &mdash; and doing so in just one month. (Sylvester Stallone was equally guilty.) But when I sat down to tally up the savings all this added up to, I still came up short. Way short.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>459 acre-feet</h4>
+Average annual water used to irrigate a golf course in the Southwest, according to the U.S. Golf Association. (1 acre-foot = 325,851 gallons)
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>300</h4>
+          Number of golf courses in Arizona, according to <em>Golf Arizona</em>.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>145 million gallons</h4>
+Daily <a href="https://www.eia.gov/beta/electricity/data/browser/?rid=103544&env=57fd342020cdebbdd1a18d95390292d11b13cd56c9b9b1411392f7dba3e56af3#/topic/1?agg=2,0,1&fuel=50400524&pt=&pm=&sec=e0o&geo=0200000001vo&wd=&ws=&wsn=&wt=&freq=A&datecode=2020&tab=water-source&rse=0&maptype=0&ltype=pin&ctype=linechart&end=201710&start=200101" target="_blank" rel="noopener">consumptive water use</a> of power plants in Colorado River Basin states, which amounts to about 162,000 acre-feet per year.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Now, 2 million acre-feet is a huge amount of water: enough to fill more than 1 million Olympic-size swimming pools. To get to Touton&rsquo;s upper goal, you&rsquo;d need to drain 2.2 million monster-sized pools. Hell, you could shut off every water tap in Las Vegas, and you&rsquo;d still come up 2-million-swimming-pools&rsquo;-worth short &mdash; or about 1 trillion gallons. In fact, you could halt <em>all</em> municipal water consumption in the Colorado River Basin &mdash; dry out Phoenix and Tucson lawns, deprive Los Angeles and Denver of showers and toilet flushing &mdash; and it still wouldn&rsquo;t be quite enough.</p>
+          <p>&ldquo;There&rsquo;s not 2 million acre-feet of municipal use within the Lower Basin (Nevada, California and Arizona) and probably just above that if you look basin-wide,&rdquo; said Colby Pellegrino, a deputy general manager of the Southern Nevada Water Authority in an executive roundtable in August. &ldquo;To think this problem can just be solved by cities just is wrong,&rdquo; she continued. &ldquo;Agriculture has to step up to the table.&rdquo;</p>
+          <p>But I come from a long line of western Colorado farmers, and my instinctive reaction to this kind of talk is: <em>Them&rsquo;s fighting words! </em>We Upper Basin folks learn early on about &ldquo;first in time, first in right,&rdquo; and that if you don&rsquo;t put all of your allotted water on your fields, it&rsquo;ll run downstream to overflow Las Vegas&rsquo; lavish fountains, the swimming pools of Phoenix and Hollywood celebrities&rsquo; private forests. The notion of &ldquo;buying and drying&rdquo; farms so the cities can keep growing is anathema.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>2.6 million acre-feet</h4>
+Amount of Colorado River water California&rsquo;s Imperial Irrigation District is <a href="https://www.usbr.gov/lc/region/g4000/hourly/forecast.pdf" target="_blank" rel="noopener">expected to consume</a> this year, most of which goes to agriculture.
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>244,635 acre-feet</h4>
+          Amount of Colorado River water Nevada is expected to consume this year. That&rsquo;s less than half the amount of water that evaporates off of Lake Mead each year.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>75%</h4>
+          Portion of Utah&rsquo;s Colorado River use consumed by agriculture in 2018.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>But once I calmed down, I realized that Pelligrino has a point. See, if you want to cut water consumption, you have to tackle the biggest water users. And the biggest user of Colorado River water, by far, is not lawns, not Vegas golf courses (<a href="https://www.hcn.org/issues/46.1/the-vegas-paradox?utm_source=wc&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">mostly irrigated by recycled wastewater</a>), not the Bellagio fountain, not even Kardashian or Stallone. It&rsquo;s agriculture, which historically has accounted for up to <a href="https://www.usbr.gov/lc/region/programs/crbstudy/finalreport/Technical%20Report%20C%20-%20Water%20Demand%20Assessment/TR-C_Appendix10_FINAL.pdf" target="_blank" rel="noopener">80% of all consumptive water use</a> in the Colorado River Basin. Not only do crops need more water than houses, but in most cases, farmers have senior rights to the bulk of the water. And of all the crops grown in the region, alfalfa and hay fields collectively are the thirstiest.</p>
+          <p>That&rsquo;s not just because alfalfa uses a lot of water, though it does &mdash; about <a href="https://www.northbaybusinessjournal.com/article/specialsections/these-are-the-california-crops-that-use-the-most-water/#:~:text=Alfalfa,%204.48%20acre%20feet%20per%20acre" target="_blank" rel="noopener">1.5 million gallons per acre per year,</a> rivaled only for thirstiness by almonds and pistachios. It&rsquo;s also because so much of the West&rsquo;s agricultural land is devoted to growing alfalfa. Colorado, Utah and Arizona farmers irrigated about <a href="https://www.nass.usda.gov/AgCensus/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">4.1 million acres</span></a> of crops in 2017, and nearly half of those acres were in alfalfa. The Colorado River Basin&rsquo;s largest single water consumer is the Imperial Irrigation District in Southern California, which draws <a href="https://www.usbr.gov/lc/region/g4000/wtracct.html?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">some 2.6 million acre-feet</a> from the river each year, nearly all of which goes to crops. About one-third of the district&rsquo;s irrigated acreage is devoted to alfalfa, which annually consumes at least 400,000-acre feet of Colorado River water &mdash; more than Nevada&rsquo;s entire allotment.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+   <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>3 to 6 acre-feet</h4>
+Amount of water needed annually to irrigate an acre of alfalfa. The amount is greater in hotter, drier climates.
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>3 million</h4>
+          Acres of irrigated agricultural land in Western states (including the Colorado River Basin) planted with alfalfa grown for forage (hay), grazing or seed in 2022.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$880 million</h4>
+Value of hay shipped overseas last year from Colorado River Basin states, most of which went to China, Japan and Saudi Arabia.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+  <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>If the Rocky Mountains&rsquo; winter snowpack is like a huge reservoir that feeds the Colorado River system, then the alfalfa fields stretching from western Colorado to Southern California comprise a sort of anti-reservoir, sucking up a good portion of the water in order to feed beef and dairy cattle in the U.S., China, even <a href="https://www.azcentral.com/story/opinion/op-ed/2022/08/11/saudi-firm-fodomonte-pay-arizona-groundwater-use/10271103002/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">Saudi Arabia</a>. If you were to stop filling up the alfalfa anti-reservoir, or fallow all of the alfalfa fields in the Colorado River Basin, you&rsquo;d come up with Touton&rsquo;s desired cuts and then some fairly quickly. It&rsquo;s simple math.</p>
+          <p>Which is not to say doing so would be pretty, painless, politically palatable or even possible. Buying and drying up small farms en masse would threaten rural economies and cultures. Many farmers grow alfalfa or other hay as a side crop &mdash; it&rsquo;s reliable, relatively easy to care for, provides multiple harvests during the long growing season and gains value during drought. If farmers were forced to get rid of their hay, their operations might no longer be viable, and the cost of beef and dairy products would certainly go up. Gone would be the experience of rolling down the windows on a summer&rsquo;s eve and inhaling the poignant aroma of a freshly cut field. Gone the bucolic sight of the long sunset shadows cast by the bales &mdash; all replaced by patches of dusty, noxious-weed-breeding ground or yet more residential sprawl.</p>
+          <p>Most of us can probably agree that farms should not be dried to allow cities to grow heedlessly, or to allow urban folks to water big lawns or enable Kim Kardashian to do whatever the heck she does with all that water. In the past, Phoenix&rsquo;s sprawl has gobbled up citrus groves and cotton fields, and Colorado&rsquo;s Front Range cities have bought and fallowed distant farms to accommodate houses and lawns. That, too, must stop. The goal here is not to transfer the water from farms to cities, but from farms and cities back to the river itself &mdash; or, rather, to the <em>rivers</em>, plural. The Klamath River in southern Oregon and Northern California is in crisis as well, and the Great Salt Lake is rapidly shrinking. Alfalfa fields are a primary culprit in both cases.</p>
+          <p>So, banning alfalfa is not the answer. But <a href="https://www.desertsun.com/story/news/environment/2022/08/14/sending-mississippi-water-west-feasible-experts-weigh/10282030002/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">piping Mississippi River water</a> over the Rockies or building <a href="https://www.azcentral.com/story/news/local/arizona-environment/2022/06/27/arizona-lawmakers-bank-billion-dollars-augment-and-save-water/7736861001/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">billion-dollar, energy-intensive desalination plants</a> to enable farmers to continue dumping water on hundreds of thousands of acres of cattle fodder is simply insane. It&rsquo;s time for agriculture, and especially Big Alfalfa, to step up and give up a portion of its water either by becoming more efficient, switching to less water-intensive crops or fallowing more fields. The growers will be compensated: Congress just authorized $4&nbsp;billion in the Inflation Reduction Act for that very purpose.</p>
+          <p>Industrial-scale farmers are currently growing and irrigating some 85,000 acres of alfalfa in California&rsquo;s Imperial Valley. Cover all of that land with solar panels instead, and you&rsquo;d save desert land from industrialization, generate enough power to replace Glen Canyon Dam&rsquo;s hydroelectricity output several times over &mdash; and maybe even stave off the Colorado River&rsquo;s collapse.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>Climate change isn&rsquo;t just raising daytime high temperatures, it&rsquo;s also increasing the lowest temperatures at night. In July, for example, nights in the U.S. were the warmest on record, and in places like Phoenix, Arizona, the nighttime lows almost always exceed 80 degrees Fahrenheit. And that&rsquo;s bad for everything from sleep and wine and human health to the survival of salmon and trout, <a href="https://www.hcn.org/articles/north-climate-change-hotter-summer-nights-affect-everything-from-death-rates-to-crop-yields-to-firefighting?utm_source=wc&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">writes Sarah Trent</a> for <em>High Country News</em>. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>But have those high nighttime temperatures, lack of sleep and impending water cuts scared folks away from the hottest, driest parts of the country? Nope. A new Economic Innovation Group <a href="https://eig.org/drought-conditions-snapshot/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">study</a> finds that some of the fastest-growing areas of the nation are also most at risk from the effects of climate change. Maricopa County, home to Phoenix and those oven-like nights, tops the list, with California&rsquo;s Riverside County in third place. Bryan Walsh <a href="https://www.vox.com/2022/8/28/23322006/climate-change-heat-wave-phoenix-drought-housing-population?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">reports</a> on the findings for <em>Vox</em>. | <strong><em>Vox</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Indigenous advocates and environmentalists are urging the Biden administration to designate a new national monument in southern Nevada, and the effort is gaining momentum, <a href="https://www.latimes.com/environment/story/2022-08-28/desert-tribes-seek-monument-status-for-sacred-mountain?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">reports</a> Louis Sahag&uacute;n for the <em>Los Angeles Times</em>. At the proposed monument&rsquo;s center is Avi Kwa Ame, a mountain held sacred by at least a dozen Mojave Desert tribes. The surrounding biologically rich and diverse area has been targeted by the mining industry and utility-scale wind power developers in the past. | <strong><em>Los Angeles Times</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>This year&rsquo;s Southwest monsoon season may very well go down in history as the summer of the <a href="https://www.smithsonianmag.com/smart-news/southwestern-flash-floods-submerge-cars-strand-national-park-visitors-180980618/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">flash flood</a>, especially in national parks. Over the last few weeks, floods have ravaged roads in <a href="https://www.theguardian.com/us-news/2022/aug/10/death-valley-floods-climate-crisis?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">Death Valley National Park</a>, <a href="https://www.currentargus.com/story/news/2022/08/22/carlsbad-caverns-new-mexico-flooding-200-stranded/65413575007/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">stranded about 150 people</a> in Carlsbad Caverns National Park, <a href="https://www.theguardian.com/us-news/2022/aug/23/arizona-woman-missing-jetal-agnihotri-utah-zion-floods?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">killed a hiker</a> in Zion National Park and <a href="https://sjrnews.com/outdoors-public-lands-san-juan-county/storm-flash-flood-damages-state-rt-211-dry-valley?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">washed out the entrance road</a> to a portion of Canyonlands National Park. A good portion of Moab was <a href="https://moabsunnews.com/2022/08/25/city-rebuilds-after-flood-damage/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank" rel="noopener">inundated by a 100-year flood</a> that roared down the normally tame Mill Creek, while kayakers caught big waves in raging arroyos in Tucson and the rain-swollen Gila River in southern New Mexico forced evacuations.| <strong><em>Smithsonian, Guardian, Carlsbad Current-Argus, Moab Sun News</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>We received a number of smart responses to last week&rsquo;s call for ideas about how to cut water use and save the Colorado River, some of which were fodder for today&rsquo;s <em>Landline</em>. One person suggested banning agricultural exports; several folks said golf courses and lawns should be done away with; others that cities should tighten water-use rules and enforce them; and, yes, some even suggested ending alfalfa farming.</p>
+<p>This week, we&rsquo;re going for another hot-button topic: <strong>Why should/shouldn&rsquo;t the Diablo Canyon nuclear power plant in California keep operating past its scheduled 2025 retirement date?</strong></p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+<mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

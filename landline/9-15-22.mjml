@@ -1,0 +1,299 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The Green New Deal didn’t crash California’s grid
+</mj-title>
+    <mj-preview>Climate change is wrecking the electricity system. &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wc&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">September 15, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Climate change — not renewables — is straining the grid</h1>
+          <h2>California avoids rolling blackouts throughout record heat
+wave </h2>
+          <p>The text message dinged and bleeped and buzzed millions of phones shortly after 5 p.m. on Tuesday, Sept. 6, spreading panic across the Golden State. It was the notification that so many Californians had feared and anticipated &mdash; the signal that soon the entire state would be plunged into an un-air-conditioned dystopia of its own making, otherwise known as rolling blackouts.&nbsp;</p>
+<p>Conservative <a href="https://www.washingtontimes.com/news/2022/sep/7/california-green-dream-could-become-a-nightmare/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">pundits</a> <a href="https://kdminer.com/news/2022/sep/10/column-things-are-not-cool-california/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">had</a> <a href="https://www.eenews.net/articles/both-gop-and-dems-see-vindication-in-calif-grid-misery/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">prophesied</a> <a href="https://thefederalist.com/2022/09/07/welcome-to-the-green-new-deal-california/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">this</a> <a href="https://www.newsweek.com/california-heat-wave-another-warning-renewable-energy-switch-1740220?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">moment</a> for months, warning that California would pay for forsaking fossil fuels and choosing solar and wind and geothermal power instead. Then the mainstream media piled on with headlines asking: How could the state possibly handle a <a href="https://www.nytimes.com/2022/09/01/us/california-heat-wave-flex-alert-ac-ev-charging.html?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">flood of new electric vehicles</a> draining the grid when it couldn&rsquo;t keep the lights on now?</p>
+<p>So, let&rsquo;s unpack that. It&rsquo;s true that the rapid buildup of solar power has made it more difficult to manage the grid and that it&rsquo;s important to adjust the timing of EV charging. But the transition away from fossil fuels isn&rsquo;t the source of the woes, it&rsquo;s an attempt to mitigate the real problem: A warming climate. And that is caused by, well, burning fossil fuels.&nbsp;</p>
+<p>To get a better understanding of what&rsquo;s really going on here, let&rsquo;s go back to that Tuesday, when California&rsquo;s grid teetered on the brink of darkness.&nbsp;</p>
+<p>The day dawned pleasantly enough, with temperatures in the 70s or 80s in most places. It wouldn&rsquo;t stay that way. The sun beat down, and as the day wore on, the mercury climbed. By mid-afternoon, all-time highs were being set from Sacramento (116 degrees Fahrenheit) to Napa (114 degrees) to San Jose (109 degrees). Daily and monthly records toppled across the southern part of the state. Folks revved up their air conditioners to keep homes and businesses habitable.&nbsp;</p>
+<p>A single air conditioner uses a lot of electricity. When millions of them are working hard at the same time, it puts a significant amount of demand on the power grid. On Tuesday, Sept. 6, the overall demand on California&rsquo;s grid climbed sharply in concert with the rising temperatures.&nbsp;</p>
+<p>Grid operators&rsquo; primary job is to &ldquo;follow the load,&rdquo; or match power supplies to the overall demand, lest the entire system collapse. <a href="https://www.hcn.org/issues/53.8/infographic-climate-change-wreaks-havoc-on-the-electricity-grid?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">Heat makes their job harder</a> not only by increasing demand, but also by diminishing the supplies. Heat <a href="https://www.drought.gov/sectors/energy?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">saps efficiency</a> from natural gas, coal and nuclear power plants by warming up the water used to cool them. Hydropower dams lose generating capacity when reservoir levels drop due to drought and evaporation. Even solar panels become less efficient as the temperature climbs.</p>
+<p>Still, for most of that afternoon, all went smoothly on the California grid because solar and wind output was so high, offsetting about 30% of the total demand. Then the sun started sinking toward the horizon, and solar generation plummeted. But the heat didn&rsquo;t ebb and the power demand continued to climb, hitting a new record high of 52,000 megawatts &mdash; 25% greater than a typical summer weekday &mdash; at about 5 p.m.</p>
+<p>Emergency natural gas generators were fired up across the state to fill the gap and new battery storage kicked in. But if demand didn&rsquo;t subside &mdash; if too many people kept their air conditioners on full-blast &mdash; it would outpace supply. If power supplies just aren&rsquo;t there, then grid operators must reduce demand on the system by implementing planned rotating outages, also known as rolling blackouts. If operators don&rsquo;t do this, they risk the grid doing its own load-shedding in the form of uncontrollable blackouts and <a href="https://www.hcn.org/issues/45.9/haywired?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">catastrophic failures</a> that could cascade into neighboring states.&nbsp;</p>
+<p>Rolling outages rarely last more than a couple of hours and they are staggered, so the entire state doesn&rsquo;t plummet into darkness at the same time. Nevertheless, they can be as politically damaging to state leadership as high gasoline prices are to a U.S. president. California last experienced rolling blackouts two years ago, during an extreme heat event in August, when nearly 500,000 people lost power for anywhere from 15 minutes to two and a half hours. It raised questions about Gov. Gavin Newsom&rsquo;s energy policies and sparked his recent push to keep <a href="https://www.hcn.org/articles/nuclear-energy-the-divide-over-diablo?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">Diablo Canyon nuclear plant open</a> past its planned 2025 retirement. Officials will do all they can to avoid power outages.&nbsp;</p>
+<p>Still, after pulling out all the stops, grid operators on Tuesday acknowledged via an emergency alert that outages appeared to be on the way, seemingly affirming fossil fuel advocates&rsquo; gleeful predictions that the energy transition would throw the state back to the Stone Age &mdash; or whatever they call the time before electricity. The state braced for a night of stifling heat, darkness and even dimmed laptop screens. Instead of Netflix and chilling, Californians would be forced to read by candlelight and sweat.&nbsp;</p>
+<p>Yet at 5:48 p.m., when demand remained at an unsustainable 50,388 megawatts, state officials sent out another text, this time urging Californians to unplug their devices, ease off on the AC and otherwise do what they could to conserve power. Enough folks heeded the call that in the ensuing hour, demand fell by more than 3,000 megawatts &mdash; or almost one-and-a-half Diablo Canyon nuclear plants&rsquo; worth.&nbsp;</p>
+<p>It did the trick. At about 9 p.m. Californians&rsquo; phones dinged and buzzed and chirped yet again with another message from CAISO, the grid operator: The emergency was over, crisis averted, put away the candles and get back to your binge-watching. A few days later, the heat finally eased. There were no statewide rolling outages, the grid stood up to extreme weather, and fossil fuel advocates&rsquo; attempt to politically weaponize the predicted blackouts fell flat.&nbsp;</p>
+<p>Here&rsquo;s a few things to keep in mind, especially when you hear rhetoric about this near-miss being the result of green energy policies:&nbsp;</p>
+<ul>
+<li>It wasn&rsquo;t just green-state Californians who were asked to conserve power. Folks in deep-red, fossil fuel-friendly <a href="https://cowboystatedaily.com/2022/09/07/just-like-california-southwest-wyoming-energy-company-tells-customers-to-conserve-power/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">Wyoming</a> and <a href="https://www.kqed.org/news/11924828/grid-operators-again-call-for-energy-conservation-to-avoid-rolling-blackouts?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">Utah</a> also were urged to adjust their thermostats.</li>
+<li>Californians were asked to refrain from charging their electric vehicles and take other steps to conserve <em>only</em> between 4 p.m. and 9 p.m., when demand on the grid and the price of electricity are high. It&rsquo;s not exactly the extreme hardship it&rsquo;s made out to be.&nbsp;</li>
+<li>In coming years, <a href="https://www.greenbiz.com/article/case-bidirectional-ev-charging-growing-stronger?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">bi-directional EV charging</a> will become far more widespread and allow EV owners to sell their EV battery&rsquo;s power back to the grid during these times, <a href="https://www.nrdc.org/experts/max-baumhefner/how-electric-cars-and-trucks-improve-grid-reliability?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">enhancing grid stability</a>.&nbsp;&nbsp;</li>
+<li>California&rsquo;s battery storage, much of it installed in the last couple of years, played a massive part in keeping the lights on when solar dropped off in the evening. For a brief period on Sept. 6, battery output reached <a href="https://www.caiso.com/TodaysOutlook/Pages/supply.html#section-batteries-trend?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">2,800 megawatts</a>, more than that of Diablo Canyon nuclear plant, the state&rsquo;s largest single generator. A couple dozen of those megawatts came from residential batteries owned by participants in Tesla&rsquo;s <a href="https://www.teslarati.com/tesla-california-virtual-power-plant-crosses-3500-home-mark/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">&ldquo;virtual power plant&rdquo;</a> pilot program. Utilities continue to bring more battery power online, further bolstering grid stability.&nbsp;</li>
+<li>In the days following California&rsquo;s grid emergency, Oregon utilities <a href="https://www.oregonlive.com/wildfires/2022/09/oregon-wildfires-utilities-plan-power-shutoffs-to-over-40000-as-risk-grows.html?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">shut off power</a> to about 40,000 people. The reason: To reduce the risk of their equipment sparking wildfires during hot, dry and windy conditions. High winds and storms took out power to all of <a href="https://eu.azcentral.com/story/news/local/arizona/2022/09/05/storm-knocks-out-power-bullhead-city/7996330001/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">Bullhead, Arizona,</a> in the early days of the emergency and left about <a href="https://www.nbclosangeles.com/news/local/storm-knocks-out-power-to-thousands-of-ladwp-customers/2982134/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">30,000 Los Angelenos in the dark</a> following the heat wave. Extreme weather is clearly a much greater <a href="https://www.hcn.org/blogs/goat/climate-change-is-already-impacting-the-energy-sector?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-15-Landline" target="_blank" rel="noopener">threat</a> to the grid than green energy policies.&nbsp;</li>
+</ul>
+<p>As for the politicians and pundits bellyaching about the &ldquo;torture&rdquo; of energy conservation and the &ldquo;nightmare&rdquo; of keeping their thermostats at 78 degrees, a reminder: Millions of people don&rsquo;t have the luxury of adjusting their air conditioners, either because they <a href="https://www.eia.gov/consumption/residential/data/2020/hc/pdf/HC%25207.8.pdf" target="_blank" rel="noopener">don&rsquo;t have air conditioning</a> at all or can&rsquo;t afford the electricity to run their units. Tens of thousands more are unhoused, enduring this and other heat spells in tents or on sidewalks. And agricultural and other outdoor workers toil in the <a href="https://www.icphd.org/media/managed/medicalproviderupdates/Heat_Report_089072022.pdf" target="_blank" rel="noopener">deadly heat</a> day after day, whether there are rolling blackouts or not. Climate change will continue to make these heat events worse and imperil more and more people.&nbsp;</p>
+<p>Amid the bluster and the tragedy of the latest heat wave there was a glimmering beacon of hope. In the end, it wasn&rsquo;t coal or natural gas or nuclear power or batteries or any sort of technology that saved the California grid; it was <em>Californians</em>, themselves. And they did it not by building more of something &mdash; be it wind turbines or nuclear reactors &mdash; but by using less.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>A couple of decades ago, the Federal Emergency Management Agency presented new flood maps to the city of Livingston, Montana, showing hundreds of homes were at high risk of flooding. City officials didn&rsquo;t like what they saw and pushed back, commissioning their own map that excluded about 95% of the floodplains that appeared on the federal maps. That meant those properties weren&rsquo;t required to get flood insurance, something that many homeowners regretted this summer, when catastrophic flooding ravaged the Greater Yellowstone Region, including Livingston. Livingston resident Nick Mott reports on the alarming politicization of flood maps for <em>HCN</em>, <a href="https://www.hcn.org/articles/north-flooding-rising-rivers-dont-necessarily-follow-the-lines-on-a-map" target="_blank" rel="noopener">writing:</a> &ldquo;Real risk, I learned, doesn&rsquo;t always follow the lines on a map.&rdquo; | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Speaking of maps, the federal government just launched an <a href="https://resilience.climate.gov/#assessment-tool" target="_blank" rel="noopener">interactive mapping tool</a> that allows users to track climate hazards in real-time. The Climate Mapping for Resilience and Adaptation site includes several layers, showing extreme heat warnings, drought severity, active wildfires and flooding. | <strong>Climate.gov</strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Just days after federal land managers <a href="https://www.blm.gov/press-release/blm-and-usda-forest-service-begin-new-land-use-planning-process-bears-ears-national" target="_blank" rel="noopener">began the process</a> of creating a management plan for Bears Ears National Monument in southeastern Utah, the five tribal nations that make up the coalition that originally proposed national monument designation released their <a href="https://www.bearsearscoalition.org/wp-content/uploads/2022/08/FINAL_BENM_LMP_08252022.pdf" target="_blank" rel="noopener">proposed plan</a>. The plan is a must-read for anyone interested in the history of the landscape in and around the national monument. And it also serves as a primer on collaborative land management. One of the initiatives setting it apart from similar plans: A proposal to create an auditory department that would protect the sonic environment of the place, as <a href="https://sourcenm.com/2022/09/07/preserving-the-natural-sonic-environment-in-bears-ears/" target="_blank" rel="noopener">Shaun Griswold reports</a> for <em>Source NM</em>. | <strong>BLM.gov, bearsearscoalition.org, <em>Source NM</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We heard from you!</h3>
+          <p>We received a flurry of responses to our piece on alfalfa&rsquo;s role in the Colorado River Basin. This is one of our favorites:</p>
+          <blockquote>
+          <p>My name is Nancy Soares and I live in Southern Oregon. Klamath Falls is right over the hill, and the constant battles over water between fish and wildlife, farmers, and Indigenous people have been going on ever since Europeans came West. Water wars aren&rsquo;t new. What&rsquo;s new is your mention of alfalfa.</p>
+<p>In the &rsquo;70s, my late mother, a committed environmentalist, talked about the insanity of growing water-intensive crops like alfalfa and rice in an arid environment, basically a desert. She and others foresaw today&rsquo;s crisis.</p>
+<p>It&rsquo;s heartening to me to hear alfalfa mentioned as a culprit, and also a solution. People don&rsquo;t eat alfalfa. They eat beef, it&rsquo;s true, but consumption of beef has been dropping as humans adopt healthier lifestyles. Even fast-food chains are offering vegetarian burgers these days.</p>
+<p>Reality suggests that beef will be out of the range of most Americans pocketbooks soon but is that really bad? When you add up the global price of climate change disruptions, famine, flood, drought, and migration how much will it cost?</p>
+<p>Can we live without beef, and the alfalfa that feeds the cattle? Sure. Can we live without water? No. We are facing hard choices but the choice to do without alfalfa, and even beef, is a no-brainer. There are other crops, maybe not so lucrative but definitely less water-intensive. And your point about agriculture stepping up as using the lion&rsquo;s share of the water that&rsquo;s no longer available is right on.</p>
+<p>In Klamath, people&rsquo;s wells are drying up. Now householders have to truck in water. Can you imagine having to do that for the rest of your life, and your children&rsquo;s lives, and so on? There are a lot of reasons for that but the biggest one is that the aquifer is drying out and not getting replenished. Agriculture is literally sucking the land dry. Eventually there won&rsquo;t be any water for ag either, and the area that could have sustained a balanced economy will be a profitless desert.</p>
+<p>We could turn this situation around, but changes need to be made. Where there&rsquo;s a will there&rsquo;s a way. But do we have the will?</p>
+<p>Thanks for your insightful article. It gives me some hope.</p>
+<p>Sincerely,<br>Nancy Soares</p>
+  			</blockquote>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-09-01-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+<mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

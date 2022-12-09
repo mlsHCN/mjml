@@ -1,0 +1,237 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="26px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="16px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" padding="10px 45px"></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      h1 {
+      font-family: GT-America-Compressed, Impact, Arial;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial;
+      font-size: 22px;
+      line-height: 28px;
+      font-weight: normal;
+      }
+      h3 {
+      font-family: GT-America-Compressed, Impact, Arial;
+      font-size: 20px;
+      line-height: 26px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h4 {
+      font-family: GT-America-Compressed, Arial;
+      font-size: 16px;
+      line-height: 18px;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:vGT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+    </mj-style>
+  </mj-head>
+
+  #DD3826
+  <mj-body background-color="#fff">
+    <mj-section padding-bottom="0px">
+      <mj-column padding-bottom="0px">
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px"></mj-image>
+        <mj-image src="https://place-hold.it/1155x550"></mj-image>
+        <mj-text>
+          <h1>Heading 1</h1>
+          <h2>Heading 2</h2>
+          <h3>Heading 3</h3>
+          <h4>Heading 4</h4>
+        </mj-text>
+        <mj-text mj-class="disclaimer">Introduction or disclaimer text is white on red. Introduction or disclaimer text is white on red. Introduction or disclaimer text is white on red. Introduction or disclaimer text is white on red.</mj-text>
+        <mj-button mj-class="button-1">Click me</mj-button>
+        <mj-button mj-class="button-2">Click me</mj-button>
+        <mj-button mj-class="button-3">Click me</mj-button>
+        <mj-text mj-class="body-text">
+          <p>Amount of petroleum the U.S. consumed in 2021, making it the world’s most gluttonous oil-guzzler by far.</p>
+          <p>Amount of oil the U.S. imported from all countries last year.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="GT-America-Compressed" font-size="28px" font-weight="bold">
+        Heading goes hereyyy
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="Arial" font-size="28px">
+        Heading goes hereyyy
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 10px">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text" height="200px">
+          <h3>Heading 3</h3>
+Amount of petroleum the U.S. consumed in 2021, making it the world’s most gluttonous oil-guzzler by far.</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text" height="200px">
+          <h3>Heading 3</h3>
+Amount of oil the U.S. imported from all countries last year.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text" height="200px">
+          <h3>Heading 3</h3>
+Amount of that oil that came from Russia.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>HCN’s Theo Whitcomb <a href="new">reports this week</a> on a new report documenting the accomplishments — or lack thereof — of the 1972 Clean Water Act. According to the <a href="new">Environmental Integrity Project’s analysis</a>, about half of the nation’s waterways are, 50 years later, still “impaired,” meaning they are janky, the fish that can survive there are inedible and you <a href="new">probably don’t want</a> to take a dip in these brooks, lakes or rivers.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ 
+    <mj-section>
+
+      <mj-column mj-class="pullquote">
+        <mj-text mj-class="pullquote-text">
+            “Our nation must be fair to the poorest among us, so we will  
+            increase aid to needy Americans to cope with rising energy 
+            prices. We often think of conservation only in terms of 
+            sacrifice. In fact, it is the most painless and immediate ways 
+            of rebuilding our nation’s strength. Every gallon of oil each 
+            one of us saves is a new form of production. It gives us   
+            more freedom, more confidence, that much more control  
+            over our own lives.”</mj-text>
+        <mj-text mj-class="pullquote-name">— President Jimmy Carter, 1979</mj-text>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column mj-class="poll">
+        <mj-text><h3>Reader poll</h3>
+          <em>Can't see the poll below? <a href="%%DISPLAY_MSG%%" target="_blank">View this email in a browser</a>.</em>
+          </mj-text>
+        <mj-text mj-class="form-text">
+          <form action="http://whatcounts.com/bin/poll" method="GET">
+	<input type="hidden" name="realm_id" value="3391" />
+	<input type="hidden" name="id" value="1" />
+	<input type=hidden name="sid" value="%%SUBSCRIBER_ID_TAG%%">
+	<div>
+		<div>What if this question is really long and goes to two lines on a mobile device?</div>
+			<label class="radio"><input type="radio" data-toggle="radio" id="a1" name="a" value="1" /></label>
+	<label for="a1" onclick="return setRadio('a1');">
+		Offer taxpayer funded per-vehicle cash rebates, a la California’s proposal. 
+
+	</label>
+	<br />
+	<label class="radio"><input type="radio" data-toggle="radio" id="a2" name="a" value="2" /></label>
+	<label for="a2" onclick="return setRadio('a2');">
+		Option 2
+	</label>
+	<br />
+	<label class="radio"><input type="radio" data-toggle="radio" id="a3" name="a" value="3" /></label>
+	<label for="a3" onclick="return setRadio('a3');">
+		Option 3
+	</label>
+	<br />
+
+		<p><input type="submit" value="Submit" /></p>
+	</div>
+</form>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?src=enewsletter" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to <span css-class="contact">%%email%%</span> because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

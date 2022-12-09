@@ -1,0 +1,339 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The funky politics of wildfire right now  
+</mj-title>
+    <mj-preview>After New Mexico’s record-breaking fires, the politics of wildfire are morphing into weird configurations.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Landline, a newsletter about public lands of the Western U.S." padding="10px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">July 7, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>More wilderness, more … wildfire?</h1>
+          <h2>As the West reckons with decades of suppression and mismanagement, some politicians are exploiting the politics of wildfire in peculiar ways.</h2>
+          <p><span class="dropCap">O</span>n June 23, the U.S. House Subcommittee on Public Lands held a hearing on, among other things, a proposed bill that would designate just over 13,000 acres of the Rio Grande del Norte National Monument in northwestern New Mexico as wilderness. I dropped in on the hearing virtually, not expecting much debate: The proposed area is relatively small, it’s inside a national monument and is therefore already protected, and it has broad local support. If I were a Republican, I’d get behind this just to bolster my green credentials and bipartisan bravado.
+</p>
+<p>Instead, Rep. Russ Fulcher, an Idaho Republican, launched into a soliloquy about the Hermits Peak/Calf Canyon Fire, which has thus far scorched about 345,000 acres in another part of northern New Mexico, becoming the state’s largest blaze on record. Behind him, huge photos of what he described as the fire’s “Armageddon” aftermath loomed ominously. I watched in consternation, wondering why on earth he was talking about a blaze 100 miles away from and in a completely different eco-zone than the proposed wilderness. Had his minder accidentally sent him to the wrong hearing?</p>
+<p>But it turns out that Fulcher <em>was</em> there on purpose, out to oppose the wilderness bill with the help of pretzel logic and outright falsehoods — using the Hermits Peak blaze as a reason to not designate <em>any</em> wilderness at all.</p>
+          <p>More than that, he used the occasion to hammer on a <a href="https://republicans-naturalresources.house.gov/uploadedfiles/2022-06-27_westerman-newhouse_to_moore_re_prescribed_fires.pdf?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">talking point</a> that has gained traction this year as wildfires rage from Alaska to Arizona: We’ve got to “manage” our forests — i.e., log them and thin them and, in the words of a certain former president, “rake” the forest floor — to prevent catastrophic wildfires like the one at Hermits Peak. This viewpoint literally considers a forest in its natural state as “an untended garden: It will grow and grow until it chokes itself to death and is ultimately consumed by catastrophic fire,” as Rep. Tom McClintock, R-Calif., put it in a 2021 statement condemning the Forest Service practice of sometimes allowing remote wildfires to burn. “The U.S. Forest Service was formed to remove excess growth before it can burn and to preserve our forests in a healthy condition from generation to generation. Or more simply, to do a little gardening.”</p>
+          <p>The thing is, you can’t really do this sort of “gardening” in a wilderness area. And that leads us to Fulcher’s argument. “This fire started in the Pecos Wilderness Area,” Fulcher said, “(and) further validates that failing to mechanically thin overgrown forest before igniting a prescribed burn is recipe for a disaster. More wilderness means more wildfire.”</p>
+          <p>If you slow down, read this carefully, and think about what he’s saying here, you’ll see what I mean by pretzel logic.</p>
+          <p>For starters, neither the Hermits Peak Fire nor the Calf Canyon Fire (the two eventually merged) started in a wilderness area. The Hermits Peak Fire began on April 6 as the Gallinas-Las Dispensas prescribed burn. The low-intensity burn, years in the planning, was intended to reduce fuel buildup and lower the risk of a catastrophic wildfire in Las Vegas, New Mexico. But unexpected and erratic winds blew the blaze out of control into forest desiccated by climate change. The Calf Canyon Fire began later, when a still-smoldering slash pile that was burned in January as part of the same project sparked its own blaze (also outside the wilderness area). And those slash piles? They were there because, contrary to Fulcher’s assertion, there had been mechanical thinning done in the area prior to the burn.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>8,300 acres</h4>
+Size of the Gallinas-Las Dispensas fire treatment and prescribed burn area.
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>5,221 acres</h4>
+Amount of the area that was mechanically treated and thinned prior to the April 6 prescribed burn.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>3.4 million acres</h4>
+Area treated nationwide with prescribed fire, mechanical thinning and managed wildfires in 2021.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>As for his “more wilderness means more wildfires” trope? That’s a bit more nuanced.</p>
+          <p>By now, even die-hard Republicans have to acknowledge that part of the reason wildfires are so intense and catastrophic now is because, more than a century ago, the U.S. Forest Service began suppressing every fire as soon as it was reported in order to keep all that valuable timber from going up in smoke. That, combined with the absence of Indigenous cultural burning, has led to a “fire deficit” in most of the West’s forests, harming the ecosystem’s health and allowing fuels to build up. Climate change-caused warming, atmospheric thirst and drought have dried out those fuels, making them that much more flammable and, as Rep. Raúl Grijalva, D-Ariz., pointed out in the June 23 hearing, “causing the fire season to become the fire year.”</p>
+          <p>In the 1960s and 1970s, forest managers began to acknowledge that fire was actually beneficial and that knee-jerk fire suppression was doing more harm than good. So they began allowing some naturally ignited fires in wilderness and other remote areas to burn — a policy also known as “appropriate management response,” or AMR — with the aim of erasing a portion of the deep fire deficit, while also reducing the risk to firefighters. In this case, as Fulcher pointed out, more wilderness <em>has</em> resulted in more wildfire — but it’s been, you know, um, “good” wildfire. A <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac13ee/meta?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">study</a> published last year in <em>Environmental Research Letters</em> found that while fewer fires were ignited in roadless areas, the number of acres burned in them was greater than in areas of forest with roads. Yet another <a href="https://www.mdpi.com/1999-4907/13/5/793/htm?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">study</a> released this May found that “increasing the management of natural ignition fires for resource objectives can reduce the risk of future wildfires reaching WUI (wildland-urban interface) areas, as well as reducing the severity of fires in neighboring wildlands.”</p>
+          <p>In other words, more fire of the type that occurs in wilderness is exactly what we need to make our forests and communities more resistant to climate change-exacerbated megafires. Fulcher and company might know this, even if they eschew that kind of nuance during moments of political theater like the one on display at the June 23 hearing. Fulcher and 24 of his Republican colleagues recently sent a letter to U.S. Forest Service Chief Randy Moore, urging him to “use essential tools — including prescribed burns — safely and effectively to restore these landscapes to natural fire intervals.”</p>
+          <p>Common sense would tell us that these “essential tools” would include managed, less-than-full-suppression wildfires in wilderness and other remote areas. But politics says something different. McClintock, source of the aforementioned “gardening” quote and a signee of the letter calling for more prescribed burns, titled a 2021 press release: <a href="https://mcclintock.house.gov/newsroom/columns/sorry-forest-service-fire-is-not-our-friend?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">“Fire is NOT our Friend.”</a> He then went on to blame catastrophic wildfires on the “let it burn” policy (which is not actually a policy) and on “radical” environmentalists for killing “forest management” — i.e., commercial logging.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>4.4 million acres</h4>
+          Minimum amount of land burned annually in California prior to 1800, either naturally or due to Indigenous forest management, according to a <a href="https://www.sierraforestlegacy.org/Resources/Conservation/FireForestEcology/FireScienceResearch/FireHistory/FireHistory-Stephens07.pdf?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">2007 study</a>.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>2.6 million acres</h4>
+Area of land burned in California wildfires in 2021.
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>9</h4>
+Minimum number of California’s 20 most destructive wildfires sparked by powerlines or other utility equipment.
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$4.4 billion</h4>
+Amount spent by federal agencies on wildfire suppression in 2021.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>It would be one thing if this sort of political posturing was limited to congressional hearings and press releases, but it tends to seep into land management policy, too. Last year, after a lightning-sparked wildfire in California blew up and spread into populated areas, California Gov. Gavin Newsom, D, condemned the Forest Service for not aggressively attacking the fire at its start. Shortly thereafter, the Forest Service <a href="https://wildfiretoday.com/2021/08/03/forest-service-chief-says-wildfires-will-be-suppressed-rather-than-managed-for-now/?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">said it would suppress rather than manage</a> all wildfires “for now.” This spring, Forest Service Chief Moore suspended all prescribed burns across the forests for 90 days after New Mexico Gov. Michelle Lujan Grisham admonished the agency for allowing the Hermits Peak Fire to happen. <em>Yeesh.</em></p>
+          <p>The pause gives Fulcher and friends an opening to promote more gardening. Their letter continues: “It is now more important than ever that the agency fully — and immediately — utilize other tools, such as mechanical thinning, to continue treating the millions of acres of forest land at risk of experiencing catastrophic wildfires.” Federal land managers seem eager to comply: Montana’s Bitterroot National Forest is <a href="https://montanafreepress.org/2022/06/27/forest-service-proposes-plan-to-limit-fire-danger-in-the-bitterroot/?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">moving forward</a> with a “forest health improvement” project on 144,000 acres to reduce fuel buildup and fire risk. The project includes commercial timber harvesting on as much as 55,000 acres.</p>
+          <p>Even if the project does reduce fire danger — and many conservationists argue that it won’t — what’s the point? It won’t save any homes from going up in flames because it’s far away from communities. It seems as if the goal here is to spend oodles of taxpayer dollars to chop down the forest so it doesn’t burn and then to spend even more money suppressing any fires that may ignite there. Is Fulcher’s plan to replicate this type of gardening project across all 193 million acres of Forest Service land?</p>
+          <p>Climate change, coupled with more than a century of fire suppression, is forcing a new approach to how we deal with wildfires. The old paradigm of trying to nip every ignition in the bud for political expediency simply doesn’t work. Nor can a herd of gardeners mechanically weed out all the fuel buildup in all the fire-prone forests, no matter how energetically they wield their rakes, or even treat it all with prescribed burns. Even the idea of <em>fighting</em> fires makes no sense. To paraphrase pyrogeographer Crystal A. Kolden: We don’t try to stop, control, contain or fight hurricanes. So why do we do that with fires?</p>
+          <p>It makes far more sense to start with mitigating fire danger near homes and other structures, whether through building codes, land-use rules that prohibit building in certain areas, or creating defensible space around communities with the help of thinning or prescribed burns. Resume Indigenous cultural burning as well. And, instead of risking firefighters’ lives to suppress remote lightning-sparked fires, manage those fires as natural prescribed burns that do the otherwise difficult, dangerous and expensive work of reducing fuel buildup. It’s time to bring the natural rhythm of fire back to the land and get politics — and this weird idea of gardening — out of it.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>A federal appeals court last month denied Apache Stronghold’s bid to block a proposed copper mining project at Chi’chil Bildagoteel, also known as Oak Flat, a site east of Phoenix held sacred by Apache and other Southwestern tribal members. Debra Utacia Krol <a href="https://www.azcentral.com/story/news/local/arizona/2022/06/28/9th-circuit-court-denies-appeal-stop-copper-mine-oak-flat/7750393001/?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">reports for the <em>Arizona Republic</em></a> that two of the three judges acknowledged the Apache people’s ties to the land, but determined that federal religious freedom laws would not allow the grassroots group to block the project. Apache Stronghold, represented by the Becket Fund for Religious Liberty, said it plans to take the case to the U.S. Supreme Court. How it will fare there is a tossup: As Nick Martin <a href="https://www.hcn.org/articles/indigenous-affairs-justice-law-the-supreme-courts-attack-on-tribal-sovereignty-explained?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">reports</a> for <em>High Country News</em>, the court’s majority has been hostile toward tribal sovereignty. But it favors religious liberty — at least as far as a certain kind of religious sovereignty is concerned. Will that ethos apply to Indigenous religions as well? (<em>Arizona Republic</em>, <em>High Country News</em>) </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>A long-running bid (a pipe dream, perhaps?) to build a 338-mile pipeline to carry billions of gallons of water from the Green River in Utah to Colorado’s populous Front Range got a financial boost from a new investor, <a href="https://coloradosun.com/2022/06/14/project-water-utah-to-front-range-funding/?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">reports Chris Outcalt for the <em>Colorado Sun</em></a>. Aaron Million has been plotting the project for over a decade and has thus far been stymied by opposition from conservationists and by Utah’s rejection of his application for a water right. Million said the Colorado River Compact provides a legal basis for his bid, but he seems to be missing the part in which the Compact grossly overestimated the amount of water in the river. The project would further diminish flows into Lake Powell, which have shrunk the reservoir <a href="https://www.hcn.org/issues/54.6/south-water-powells-looming-power-problem?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">to critically low levels</a>. (<em>Colorado Sun</em>)</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Ahhh, summer, the season to get out on those public lands and enjoy the serenity (crowds), the solitude (backcountry traffic jams), freedom (overworked emergency services) and the quaint local culture (out-of-control housing prices, labor shortages and strained infrastructure). There’s probably not much that can be done to limit the post-COVID crowds, but gateway towns are trying to better manage them in a way that reaps the economic benefits while mitigating some of the negative impacts. And, as Heather Hansman <a href="https://www.hcn.org/articles/growth-sustainability-how-growing-western-rec-towns-might-hold-onto-their-futures?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">reports</a> for <em>High Country News</em>, they’re getting help from the GNAR (Gateway and Natural Resource Amenities) Initiative at Utah State University.</p>
+          <p>
+Danya Rumore, who started the program, told Hansman: “Much of the work is going to be changing the narrative around planning, and right now it’s such a political element. People say they don’t want change, but we don’t have a no-growth tool, so we have to get people on board to figure out what kind of community they want to be.” (<em>High Country News</em>)</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Are you traveling through the West in the coming weeks and months? Tell us about the strategies you employ to deal with (or escape) the crowds while visiting public lands during the summer season. And if you live in a gateway community, we’d love to hear from you, too, about your experience when summertime visitors swell your town’s population.</p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

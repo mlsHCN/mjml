@@ -1,0 +1,193 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Georgia, Times New Roman, serif" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>What do you think of the Landline?
+</mj-title>
+    <mj-preview>Tell us what you think about this email newsletter.&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-10-27-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States. Jonathan Thompson, your regular host, is gone fishing this week, but we’d like to take this opportunity to ask about your experience with the <em>Landline</em> so far. </mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <h1>Tell us what you think about the Landline</h1>
+          <h2>Share your feedback on this email newsletter in a quick survey</h2>
+          <p>We&rsquo;re six months into the <em>Landline</em>&rsquo;s run &mdash; 12 editions &mdash;&nbsp;and we want to hear from you how it&rsquo;s been going. Take our quick, two-minute survey to share your feedback.&nbsp;</p>
+          </mj-text>
+        <mj-button mj-class="button-1" href="https://www.surveymonkey.com/r/LFHXDQ8%%STOP%%?p1=[p1_value]&p2=[p2_value]&icn=[icn_value]&fe=[fe_value]&l=[l_value]">Take the Landline survey</mj-button>
+        <mj-text mj-class="body-text"><p>If you&rsquo;re thinking <em>Wait, another survey?</em>, you&rsquo;re not wrong &mdash; you might have separately received an email recently asking you to take our latest reader survey. This (shorter!) survey is just about the <em>Landline</em>. We really do appreciate your time when taking these and will lay off with the surveys for a while.</p>
+          <p>You can find <a href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-10-27-Landline" target="_blank">past editions of the <em>Landline</em> on hcn.org.</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-10-27-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-10-27-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+  </mj-body>
+    
+</mjml>

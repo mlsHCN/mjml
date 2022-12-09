@@ -1,0 +1,358 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Compressed, Impact, Arial;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 10px;
+      }
+      h3 {
+      font-family: GT-America-Compressed, Impact, Arial;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Compressed, Impact, Arial;
+      font-size: 20px;
+      line-height: 24px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:vGT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Welcome to the Landline: a new newsletter from High Country News</mj-title>
+    <mj-preview>What “energy independence” means — and has always meant — for public lands in the Western United States.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Landline, a newsletter about public lands of the Western U.S." padding="10px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the first installment of the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">May 12, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>What the Ukraine war means for Western lands</h1>
+          <h2>War hawks and climate hawks alike are calling for energy independence</h2>
+          <p>Three decades ago, when I was a carefree 20-year-old, I took a year off college, and my friend and I set out for Mexico in my 1967 AMC Rambler, eager to camp on the beach and flourish on fish, sunshine and lots of cheap beer. We made it as far as Tucson, where we watched President George H.W. Bush announce that the U.S. had commenced bombing Iraq to eject Saddam Hussein from oil-rich Kuwait. We postponed our Mexico sojourn and hit the anti-war protest trail, forsaking the beach for the couches of friends and trading fish for free meals with the Hare Krishnas. The slogan chanted in the streets — from Santa Fe, Albuquerque, Tucson to Colorado Springs — was simple: “No Blood for Oil!”</p>
+          <p>Now, as Russia rains artillery on Ukrainian civilians and Californians drive to Mexico <a href="https://www.newsweek.com/californians-mexico-cheap-gas-prices-rise-1691890">to buy cheap gas</a>, an inverted version of it rings through the streets of social media: “No Oil for Blood!” Just about everyone, war hawks and climate hawks, Democrats and Republicans, wants the world to stop buying Russian oil and gas (and uranium, nickel and palladium — even vodka) and thereby defund Putin’s war machine. And most will loudly say, “We need energy independence!”</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>7.5 billion barrels</h4>
+Amount of petroleum the United States consumed in 2021, making it by far the world’s most gluttonous oil-guzzler.</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>2.24 billion barrels</h4>
+Amount of oil the U.S. imported from all countries last year.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>72.6 million barrels</h4>
+Amount of that oil that came from Russia.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>We might agree on Ukraine, but the harmony ends when we try to define energy independence and the best way to achieve it. I can’t help getting a bit anxious, not because I disagree with the sentiment, but because history shows that whatever path we take toward energy independence — whether by upping fossil fuel production or transitioning to green power — it’s likely to plow through the Western U.S. and its public lands.</p>
+          <p><strong>The competing factions include:</strong></p>
+          <p><strong>• Rep. Lauren Boebert</strong>, the pistol-packing, tantrum-throwing Colorado Republican congresswoman. At this year’s State of the Union address, she wore her faction’s slogan emblazoned on her black satin shawl — “Drill, Baby, Drill!” This camp, comprising mostly Republicans and industry flacks, has weaponized high energy prices, <a href="https://twitter.com/RepBoebert/status/1496901475997392917">blaming them</a> on the Biden administration’s cancellation of the Keystone XL pipeline and its oil and gas leasing pause (which is <a href="https://www.hcn.org/articles/south-latest-biden-pledged-to-stop-drilling-on-public-lands-what-happened">over</a>, by the way). They see the Ukraine crisis as an excuse to “unleash” drill rigs on the public lands, echoing former Halliburton CEO and U.S. Vice President Dick Cheney’s industry-friendly, environment-wrecking policies in the wake of 9/11 and the second Iraq War.
+</p>
+          <p><strong>• Rep. Raúl Grijalva</strong>, the unflinching Arizona Democrat, responded by calling “bullshit on oil and gas industry claims” — his words, not mine. He pointed out that public-lands energy policy has virtually zero effect on how much you’ll have to fork out to fill up your SUV, because gasoline prices follow oil prices, and oil prices are determined by global supply and demand. Green energy-transition folks like Grijalva and other Democrats and Western environmental groups hope that high pump prices will shock Americans into trading in gargantuan gas-guzzlers for solar- and wind-powered electric cars, bikes and public transit, because the only way to disentangle ourselves from the sticky web of the global petroleum market — and avert the worst of the climate crisis — is to wean ourselves off all fossil fuels.</p>
+          <p><strong>• President Joe Biden</strong> and his administration seem to <a href="https://www.hcn.org/articles/south-joe-biden-bidens-herky-jerky-first-year-on-western-issues">want it both ways</a>. On the one hand, Biden talks about tackling the climate crisis, phasing out internal combustion engines, streamlining renewable energy projects on public lands, <a href="https://www.hcn.org/articles/energy-industry-bidens-broken-promise-on-climate">reforming oil and gas leasing</a> and upgrading environmental protections. On the other, he hands out drilling permits <a href="https://www.landdesk.org/p/data-dump-biden-drilling-boom?r=ek6sp&s=w&utm_campaign=post&utm_medium=web">at a rate</a> that even a Cheney could love, pleads with oil and gas executives to get off their duffs and put those permits to use, and — perhaps most significantly — plans to increase U.S. natural gas exports to Europe to replace Russian gas. He wants to reform antiquated mining laws, but he also invoked the Defense Production Act to expedite mining for the so-called <a href="https://www.hcn.org/issues/54.2/infographic-energy-industry-electric-vehicles-drive-up-demand-for-green-metals">“green metals”</a> used in electric vehicles and has asked Congress for $500 million to fund the effort.</p>
+          <p>Biden’s all-of-the-above approach is reminiscent of Jimmy Carter’s during his White House tenure. Carter was elected during an energy crisis, sparked by Middle East conflict. Global crude prices shot up, sending fuel costs and inflation sky-high. Motorists emptied their wallets to fill up their giant gas-guzzlers — sometimes to find the pumps dry by the time they got there.</p>
+          <p>Carter spent most of his single term trying to solve the crisis by achieving energy independence. He’s probably best remembered for his desire <a href="https://www.landdesk.org/p/much-ado-about-a-leasing-pause?s=w">to protect public lands</a> and promote conservation (and for wearing a beige cashmere cardigan during his <a href="https://www.youtube.com/watch?v=MmlcLNA8Zhc">first televised address</a> to the nation). But he envisioned an even bigger role for fossil fuels — as long as they were produced at home.</p>
+          <p>He laid out his plan most passionately in his now-famous 1979 “crisis of confidence” speech (during which he wore a suit, not a cardigan), a heartfelt homily that castigated America’s worship of “self-indulgence and consumption.” He urged people to stop driving so damned much, to turn down the thermostat and to take public transport, because “every act of energy conservation … is an act of patriotism.”</p>
+          <p>But then the energy-independence crazy-sauce kicked in. He urged oil companies to drill more, promised to invoke the Defense Production Act and asked Congress for billions in taxpayer subsidies to kickstart mass-production of “synfuels,” such as oil shale, gasohol — a mix of gas and ethyl alcohol — and coal converted to diesel. And he repeatedly called on mining companies to develop the Interior West’s vast coal deposits. Yes, you read that right: Cashmere-sweater-wearing, thermostat-lowering, White House solar panel-installing Jimmy Carter was hot for coal. And who can blame him? It was cheap and abundant, and it wasn’t Middle Eastern oil.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$69 per barrel</h4>
+Price of Brent crude, the global benchmark for oil, on March 15, 2021.</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$112</h4>
+The price on March 6, 2022.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$200 million</h4>
+The amount BP executive Robert Horton said — in the lead-up to the first Iraq War — that each dollar increase in the price of oil adds to his company’s bottom line.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>Just to be clear: The U.S. is <em>not</em> in a 1970s-style energy crisis, Biden’s ban on Russian oil — which accounts for just 1% of the nation’s total consumption — is largely symbolic, and he’s unlikely to sign an executive order to revive the coal industry. But it’s a different story in Europe, where a serious dependence on Russian fossil fuels already has caused utility bills to triple, or even quadruple. Biden wants to ease the pain by increasing trans-Atlantic exports of LNG, or liquefied natural gas — something Western politicians urged back in 2014, after <a href="https://www.hcn.org/blogs/goat/the-new-red-dawn-putins-crimean-invasion-reaches-into-the-wests-gas-patch">Russia invaded Crimea</a>.</p>
+          <p>It’s unlikely that methane from Wyoming or Utah will cross the Atlantic anytime soon because the U.S. has only a handful of LNG export terminals in the U.S. and none on the West Coast. But the push to send it to Europe could expedite a proposed new terminal in Baja, Mexico, that would pull from Western gas fields. Once LNG starts flowing overseas, supplies will diminish here in the U.S., driving up the price of natural gas. And that could <a href="https://www.hcn.org/issues/54.5/infographic-russias-war-reverberates-in-the-west">spark new drilling</a> in natural gas-rich but oil-poor fields, ending a decade-long slump due to low commodity prices.</p>
+          <p>On the electricity side of things, rising natural gas prices will prod utilities to switch to less expensive sources of power, such as solar, wind, hydropower and, yes, nuclear and coal. The Biden administration is permitting renewable energy development on public lands at a rapid rate and has offered a $6 billion bailout to soon-to-retire nuclear plants like Diablo Canyon in California — though, unlike Carter, he is not pushing coal.</p>
+          <p>And whereas Carter hoped that synfuels would replace petroleum in cars, Biden is fostering electric vehicle adoption by subsidizing charger station construction and encouraging domestic mining for lithium and other minerals used in EV batteries. This could boost controversial <a href="https://www.hcn.org/issues/54.2/infographic-energy-industry-electric-vehicles-drive-up-demand-for-green-metals">“green metal” extraction projects</a> across the West.</p>
+          <p>Carter’s initiatives helped spark an unprecedented public-lands oil- and gas-drilling boom. His synfuel subsidies hatched an oil-shale-retorting industry that <a href="https://www.hcn.org/issues/15.7/life-after-oil-shale">flamed out</a> spectacularly in its infancy, taking western Colorado’s economy down with it. And his hankering for coal set Wyoming’s Powder River Basin on the path to becoming America’s coal bin. It all took a toll on the West’s land, people and air, but didn’t bring the nation any closer to being energy independent.</p>
+          <p>Nevertheless, it might behoove Biden to borrow one or two chapters from Carter’s energy playbook. The pleas for conservation coupled with ambitious fuel-economy standards lowered <a href="https://www.ceicdata.com/en/indicator/united-states/oil-consumption">petroleum consumption</a> — for a little while — and oil imports decreased proportionally. Americans began installing rooftop solar (as clunky as the technology was in those years), a trend that continues. And the idea of energy efficiency found a home in the nation’s collective consciousness, even if we sometimes get distracted.</p>
+          <p>Oh, and the cardigan; don’t forget the cardigan! Ideally cashmere, so you can stay warm and stylish when your thermostat’s down.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$6.50</h4>
+Average price per gallon of gasoline in Mono County, California, on March 15, 2022.</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$7.5 billion</h4>
+BP’s 2021 profits.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$2.4 billion</h4>
+Amount BP profited last year from its partnership with Rosneft, Russia’s state-owned oil company and one of Putin’s war machine’s primary sources of funds. BP says it divested from Rosneft after Russia invaded Ukraine.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Check out this email&body=This email newsletter from High Country News made me think of you. Check it out here %%DISPLAY_MSG%%">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+          <p>Ruxandra Guidi wrote a fascinating and uplifting story about an urban Los Angeles mountain lion named P-22 and the man who first spotted him via wildlife cameras. It’s a wonderful read, available in the latest print edition of <em>HCN</em> as well as <a href="https://www.hcn.org/issues/54.5/wildlife-the-lion-king-of-los-angeles">online</a>.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/divider-4.png" alt="section divider" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Every season is fire season in the age of climate change, it seems. This spring’s conflagrations took off on March 25, when a <a href="https://boulderreportinglab.org/2022/03/27/ncar-wildfire-is-another-wake-up-call-for-weary-boulder-residents/">blaze broke out</a> near the National Center for Atmospheric Research on Boulder, Colorado’s fringe, forcing the evacuation of a good portion of the city’s southwest side. It just got worse from there, especially for New Mexico. The <a href="https://inciweb.nwcg.gov/incident/8061/">McBride Fire</a> near Ruidoso destroyed 200 homes and killed two people, and by May 8, the <a href="https://inciweb.nwcg.gov/incident/8075/">Cerro Pelado Fire</a> had burned through 37,000 acres in the Jemez Mountains and was headed toward Los Alamos. And the <a href="https://inciweb.nwcg.gov/incident/8049/">Hermits Peak Fire</a> was up to a monstrous 176,000 acres and threatening Las Vegas, Mora and other New Mexico communities, with high winds and “extremely critical” fire weather settling in.</p>
+          <p>Arizona’s had it tough, too. The <a href="https://www.azcentral.com/story/news/local/arizona-wildfires/2022/04/20/tunnel-fire-burns-over-16-000-acres-near-flagstaff-state-emergency-declared/7380880001/">Tunnel Fire broke out</a> in April northeast of Flagstaff, charring through 20,000 acres — including large swaths of Sunset Crater National Monument — and several homes in the first 24 hours. It could be a long and smoky summer in the West.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/divider-3.png" alt="section divider" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p><em>High Country News</em> is and always has been about Place, an elusive word for describing our relationship with a particular landscape. How does what we call a place affect our relationship with it? Brian Oaster delves into the question in their <a href="https://www.hcn.org/issues/54.5/people-places-how-place-names-impact-the-way-we-see-landscape">latest for <em>HCN</em></a>, asking: <em>Can we even see the land underneath those names, in all its complexities? And what is the impact on the mind — especially the Indigenous mind — of a lifetime spent repeating colonizers’ names, invoking their stories?</em></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/divider-7.png" alt="section divider" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+          <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Indigenous and environmental advocates fear that proposals <a href="https://www.theguardian.com/us-news/2022/mar/28/native-americans-ban-russian-uranium">to ban Russian uranium imports</a> could revive the domestic mining industry, which poses environmental and spiritual threats to tribal nations, the <em>Guardian</em> reports. Along those lines, Arizona regulators issued a key water-quality permit to <a href="https://www.landdesk.org/p/when-history-repeats?s=w">Energy Fuels</a>, the owner of the Pinyon Plain uranium mine just outside Grand Canyon National Park, <a href="https://www.azcentral.com/story/news/local/arizona-environment/2022/04/28/arizona-grants-permit-to-pinyon-plain-uranium-mine-near-grand-canyon/9576467002/">reports Debra Utacia Krol</a> for the <em>Arizona Republic</em>. Havasupai tribal officials say they’ll continue to fight to stop the nearby mine. It’s just the latest indication that the domestic uranium industry may be on the brink of a revival as the U.S. tries to wean itself from Russian uranium. That includes a potential uptick in activity at the White Mesa Mill in southeastern Utah, which has been called “America’s cheapest radioactive waste dump.” A Grand Canyon Trust <a href="https://www.grandcanyontrust.org/blog/bears-ears-and-radioactive-waste-dump-next-door">report</a> shows the mill, on the edge of Bears Ears National Monument, has accepted 700 million pounds of hazardous waste in the last three decades. <em>HCN</em>’s Jessica Douglas <a href="https://www.hcn.org/issues/53.11/indigenous-affairs-nuclear-energy-the-nations-last-uranium-mill-plans-to-import-estonias-radioactive-waste">reported on the mill</a> last fall.</p>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+        <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/divider-1.png" alt="section divider" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>This week, we’ve been thinking a lot about gas — gas prices, gas shortages, gas alternatives. And the major inconvenience when you run out of it while en route. Tell us your craziest running-out-of-gas story, and we’ll share a few of them in the next edition of the <em>Landline</em>.</p>
+          <p>Give the <em>Landline</em> a call at <a href="tel:9706484472">(970) 648-4472</a>, or send us an email at <a href="mailto:landline@hcn.org?subject=This one time, I ran out of gas ... ">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?src=enewsletter" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+      <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

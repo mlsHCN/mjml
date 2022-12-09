@@ -1,0 +1,350 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:vGT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The shift to green energy, obstructed  
+</mj-title>
+    <mj-preview>A whole host of factors has thrown the transition away from fossil fuels to more sustainable forms of energy off track.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Landline, a newsletter about public lands of the Western U.S." padding="10px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">June 9, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Energy Transition Interruptus</h1>
+          <h2>The delayed retirement of a New Mexico coal plant illustrates the West-wide challenges facing more sustainable energy economies.</h2>
+          <p><span class="dropCap">O</span>n summer nights, I have long made pilgrimages to a high place in southwestern Colorado we call The Point, simply to sit and take in the view. I had plans to make the trip again this July to celebrate a recently expanded vista. I would drive my trusty 1989 Nissan Sentra along undulating country roads, past hay bales casting long shadows over the fragrant green stubble, past houses and double-wides dwarfed by the big late-model pickup trucks parked next to them.
+</p>
+<p>Finally, beyond the last dryland bean field, I’d gingerly make my way beyond the old drill pad to a clearing on the rimrock next to a stand of piñon and juniper. The smog-orange end-of-day light would reflect warmly off the faded aluminum of the Budweiser, Coors and Keystone Light cans discarded by long-ago partiers from nearby Cortez, and illuminate the desiccated condom hanging from a tree branch, like the molted skin of a latex lizard.</p>
+<p>The Point is not exactly wilderness, but the high promontory affords an unrivaled view of the Four Corners region, all unfurled below it: The twin humps of the Bears Ears, the jutting shapes of Monument Valley, the sharp edge of Cedar Mesa. And maybe, on a clear day, I could see Navajo Mountain. One day, maybe.</p>
+          <p>Clear days, however, are rare in these parts. For five decades, a fleet of coal-burning power plants has relentlessly spewed smog-forming, planet-warming and health-harming pollutants into the Colorado Plateau’s air, obscuring the landforms. One of those energy behemoths, the San Juan Generating Station in northwestern New Mexico, was supposed to go dark on June 30, the lost energy generation replaced by a quartet of solar installations, marking a big leap toward a more sustainable energy future. Thus, my desire — and hope — that I could soon bid adieu to at least a portion of the smog.</p>
+          <p>But now the Public Service Company of New Mexico, the state’s largest utility and the facility’s operator, says that one of the two remaining units on the plant will have to continue operating through the summer to keep the lights on.</p>
+          <p>All of which means I’ve had to postpone my party. Which is a bummer. But far more worrisome are similar delays regarding the energy transition — not just in the Four Corners region, but across the West.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>5.6 million</h4>
+Metric tons of carbon dioxide emitted by the San Juan Generating Station each year. (Source: Environmental Protection Agency)
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>1,355</h4>
+Tons of sulfur dioxide emitted by the San Juan Generating Station in 2020, less than one-fourth of what it emitted in 2013, prior to upgrading pollution controls and shutting down two of four units. (Source: New Mexico Environment Department)</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>50%</h4>
+California’s “normal” hydropower output expected to be generated this year (Source: U.S. Energy Information Administration)</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Public Service Company of New Mexico (PNM) announced its plans to ditch coal by shutting down the San Juan plant and divesting from other plants in 2017. Two years later, New Mexico passed the <a href="https://www.hcn.org/issues/51.7/climate-change-a-green-new-deal-template-gets-passed-in-new-mexico?utm_source=wc&utm_medium=email&utm_campaign=landline">Energy Transition Act</a>, which codified coal’s exit, provided a financial safety net for affected communities and gave regulators the power to require PNM to replace the lost coal power with renewables. PNM contracted with developers to build four solar plants with battery backup around northern New Mexico, all of which were slated to be online this summer.</p>
+          <p>PNM is just one of a raft of utilities making <a href="https://www.hcn.org/issues/53.2/infographic-coals-big-breakdown?utm_source=wc&utm_medium=email&utm_campaign=landline">similar plans</a>. The Salt River Project, which serves the Phoenix metro area, shut down the hulking <a href="https://www.hcn.org/issues/53.2/south-coal-the-fight-for-an-equitable-energy-economy-for-the-navajo-nation?utm_source=wc&utm_medium=email&utm_campaign=landline">Navajo Generating Station in 2019</a>. Other major coal plants, from Utah to Nevada to Montana to Colorado, have closed, are on the chopping block or are slated for conversion to cleaner-burning fuels. The transition away from coal has been underway since 2008, and it really gained momentum during the first year of the pandemic, when power consumption dropped, coal-burning plummeted, and a slew of new solar and wind proposals were put on the table.</p>
+          <p>In early 2021, the energy transition was barreling along, and I was planning my clean-air party. But last summer arrived hot and dry, and a handful of factors collided in such a way that it derailed the transition — at least for a while. They include:</p>
+          <p><strong>Climate Change:</strong> Yep, the biggest disruptor of the energy transition is the very thing the transition is supposed to avert. The ongoing drought that spans the West has significantly diminished hydropower supplies for two years running. Hoover Dam’s hydroelectric turbines are a mere shadow of their former selves, Glen Canyon Dam could <a href="https://www.hcn.org/issues/54.6/south-water-powells-looming-power-problem?utm_source=wc&utm_medium=email&utm_campaign=landline">lose all of its hydropower abilities</a> in the next year or so, and California’s hydroelectric power plants are nearly running on empty. And then there’s the heat: Air conditioners are power-guzzlers, and during extreme heat events, the demand on the grid shoots up. And when decreased supply crashes into increased demand — well, it’s never great.</p>
+          <p><strong>The supply chain:</strong> And now you may be asking, <em>What about all those solar and wind projects in the pipeline?</em> Well, they’re still in there, but the pipeline is clogged. Supply chain constraints and inflation have made it tough for developers to get the parts they need, and even when they were available, they were prohibitively <a href="https://www.seia.org/research-resources/solar-market-insight-report-2021-year-review?utm_source=HCN&utm_medium=email&utm_campaign=landline">expensive</a>, as anyone who tried to build or remodel their home in the last year probably discovered. That caused construction delays and, in some cases, outright cancellations.</p>
+          <p><strong>Geopolitics:</strong> In February, Auxin Solar, a tiny California solar panel manufacturer, accused China of dodging U.S. solar tariffs by funneling its goods through other countries, such as Malaysia, Cambodia and Vietnam. The Biden administration launched an investigation. If it finds the allegations are true, it could retroactively slap tariffs on already-imported equipment, crippling the <a href="https://www.seia.org/news/tariff-case-cuts-solar-deployment-forecasts-nearly-half-100000-jobs-risk?utm_source=HCN&utm_medium=email&utm_campaign=landline">solar industry</a>. To avoid such a fate, many developers have halted purchases of the equipment in question while the investigation proceeds, causing further delays and putting the kibosh on some projects.</p>
+          <p><strong>Cali-politics:</strong> In California, residential installations had already slowed down due to a state proposal to slash compensation rates for solar that is sold back to the grid, and perhaps even slap an additional tax on rooftop solar. That proposal is still pending.</p>
+          <p>Put all of this together, and you’ve got a recipe for making dirty air that will linger longer than expected. To fill the electricity void left by diminishing hydropower supplies and rising heat-related demand, utilities have little choice but to turn to power generated by burning natural gas — a fossil fuel that emits greenhouse gases when extracted, processed, transported and burned. That extra <a href="https://www.eia.gov/todayinenergy/detail.php?id=52638?utm_source=HCN&utm_medium=email&utm_campaign=landline">demand for natural gas</a>, in turn, causes the price to increase, which then makes coal more cost-competitive and therefore desirable to power-strapped, profit-hungry utilities. In 2021, after a decade of decline, coal consumption shot back up to 2019 levels. Arch, the huge energy corporation that owns mines in the Powder River Basin and western Colorado, says it expects to sell even more of the stuff in 2022.</p>
+          <p>Meanwhile, in New Mexico, none of the solar projects intended to replace the closed San Juan plant are yet online, thanks to interminable construction delays. PNM was thus faced with the prospect of having far less power on its grid than its customers needed and inevitably undergoing power outages. Although PNM says it tried to find other power on the open market, it wasn’t able to, in part because other utilities across the region are in the same pickle. So, it now plans on shutting just one of two units on the plant on June 30 and running the other until the end of September, which should be the end of the hot season. I mean, if the hot season ever ends, that is, which it won’t if we keep burning coal.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>33%</h4>
+          Amount of hydropower capacity Hoover Dam has lost due to falling levels in Lake Mead. (Source: U.S. Bureau of Reclamation)</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>18%</h4>
+Amount the price of utility-scale solar photovoltaic equipment increased between 2020 and the end of 2021. (Source: Solar Energy Industries Association)
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>90%</h4>
+of utility-scale solar panels that are imported from Asia. (Source: Solar Energy Industries Association)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>What happens after that is still unknown. One company hopes to keep the plant running (and polluting and indefinitely delaying my smog-free jamboree) until it can scrape up the cash ($1.4 billion, at least) to install carbon capture equipment. But Mike Eisenfeld, energy and climate director for the San Juan Citizens Alliance, says that’s nothing but a pricey pipedream that grows less and less plausible as the company misses critical benchmarks and the plant’s closing date grows nearer. When I told him I was getting anxious about the energy transition and the solar delays, he told me not to worry: The setbacks are temporary, and the solar developers would get around the obstacles and break ground within a few months. “These solar projects are a solution,” he said. “They’ll usher in a new era in the Four Corners.”</p>
+          <p>And maybe I’ll be able to hold my clean air party, at last.</p>
+<p>BREAKING: Just as we were about to go to “press” (to pixels?), we got news that the Biden administration has <a href="https://www.canarymedia.com/articles/solar/biden-to-halt-solar-tariff-threat-for-two-years-let-solar-industry-restart?utm_source=HCN&utm_medium=email&utm_campaign=landline">declared a 24-month tariff exemption</a> for the four Southeast Asian countries being investigated. That should thaw the solar equipment import freeze and allow the projects it had delayed to resume. Biden also invoked the Defense Production Act to spur domestic solar panel manufacturing, which seems a tad more productive than the previous administrations’ protectionist approach, according to reporting by <a href="https://www.canarymedia.com/articles/solar/biden-to-halt-solar-tariff-threat-for-two-years-let-solar-industry-restart?utm_source=HCN&utm_medium=email&utm_campaign=landline"><em>Canary Media</em></a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>If you don’t subscribe to the print edition of <em>HCN</em>, I’d suggest you do so now. Not because I’m a Luddite or because I’m enamored with holding whatever I’m reading in my hands (although I am), but because print is the best way to see the incredible photographs and artwork the magazine has showcased lately. Take the <a href="https://www.hcn.org/issues/54.6/photos-we-were-bombing-ourselves-for-years?utm_source=wc&utm_medium=email&utm_campaign=landline">cover piece</a> from the June edition, which pairs Emmet Gowin’s disturbing — and yet sublime — images of the Nevada Test Site with a harrowing and lovely essay by Terry Tempest Williams. Williams writes: </p>
+          <p><em>More than 900 nuclear tests were conducted over the Nevada desert and watched from rooftops by locals for entertainment during the Cold War in small towns like St. George, Utah. Residents now known as “downwinders” were unaware that each “bomb bursting in air” was to become a time bomb set inside their own bodies that would explode years later and threaten their lives.</em> | <a href="https://www.hcn.org/issues/54.6/photos-we-were-bombing-ourselves-for-years?utm_source=wc&utm_medium=email&utm_campaign=landline"><em>High Country News</em></a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>And if that doesn’t get you into an apocalyptic mood, this might: The amount of planet-warming carbon dioxide in the atmosphere now exceeds that of anytime in the last 4 million years, reaching a level that is 50% higher than in pre-industrial times, primarily owing to fossil fuel combustion, <a href="https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels?utm_source=HCN&utm_medium=email&utm_campaign=landline">according to the National Oceanic and Atmospheric Administration</a>. That puts the world on par with the Pliocene Climatic Optimum era, which occurred between 4.1 and 4.5 million years ago, when sea levels were between 5 and 25 meters higher than today. | <a href="https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels?utm_source=HCN&utm_medium=email&utm_campaign=landline">National Oceanic and Atmospheric Administration</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>To speed the energy transition along and perhaps slow the buildup of carbon in the atmosphere, the Biden administration has done its darnedest to expedite renewable energy development on public lands. Last week, the Interior Department announced that it would slash rents and other fees for solar and wind projects <a href="https://www.reuters.com/world/us/us-says-it-will-cut-costs-clean-energy-projects-public-lands-2022-06-01/?utm_source=HCN&utm_medium=email&utm_campaign=landline">by as much as 50%</a> and work to speed up the permitting process. I know some <em>Landline</em> readers may feel a bit torn by this, since it could lead to more fragile desert ecosystems getting blanketed with solar panels. But they may find some solace in the Bureau of Land Management <a href="https://subscriber.politicopro.com/article/eenews/2022/06/03/blm-slows-solar-permitting-near-death-valley-national-park-00037074?utm_source=HCN&utm_medium=email&utm_campaign=landline">giving “low-priority” status</a> to three controversial utility-scale solar projects proposed for 25,000 acres of public lands in Nevada near Death Valley National Park. This isn’t an outright rejection of the projects, but it does signal to the developers that they might have better luck building elsewhere. | <a href="https://www.reuters.com/world/us/us-says-it-will-cut-costs-clean-energy-projects-public-lands-2022-06-01/?utm_source=HCN&utm_medium=email&utm_campaign=landline"><em>Reuters</em></a>, <a href="https://subscriber.politicopro.com/article/eenews/2022/06/03/blm-slows-solar-permitting-near-death-valley-national-park-00037074?utm_source=HCN&utm_medium=email&utm_campaign=landline"><em>E&E News</em></a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+          <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>A correction: In last edition’s data points, we erroneously noted that the mercury at Antelope Lake, Nevada, hit 120 degrees Fahrenheit, setting a new April record. That is what the National Weather Service and NOAA reported. But it turns out that that particular weather station is wacky and prone to recording some super high — and inaccurate — temperature readings. Thanks to several astute readers for pointing out that data flaw and keeping us on our toes. </p>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Last time, we asked <em>Landline</em> readers to share glimpses of aridity that they have witnessed, and wow! You sure did deliver. And send us further into despair. Thanks to all of those who contributed, I guess. </p>
+          <p><em>I live in Vallejo, California, and when I moved into my current home, eight years ago, the back yard had a forest of jade plants. The excessive dryness (and because of that, the squirrels and other wildlife who eat them for their water content) has since killed them all. The redwood tree is slowly dying, as are the laurels. Dead branches plague the persimmon tree and its half-sized fruits. The ground is so dry that I haven’t considered lighting my fire pit for two years. I leave a lot of windows open, so house is dusty all of the time, making my least favorite chore even more annoying.  “Drought tolerant” plants can’t even thrive anymore. I still love everything as much as always but feel sadness and fear about what’s to come. The local screech owl flies around screeching at night and birdsong graces dawn.</em> —Marni Nacheff</p>
+            <p><em>Landline</em> is hitting the road! Jonathan is saddling up his trusty old fuel-efficient tin can and traveling the Southwest looking for stories to tell, news to investigate and ice cream to devour. He’s planning stops in Colorado, New Mexico, Utah, Arizona and maybe Wyoming and Nevada (if you give us a great reason to go). What key spots should he visit? We’d love your recommendations for microbreweries and microdistilleries; micro-powergrids and micro-utilities; roadside farm stands and coffee joints; and of course, under-reported news stories of all kinds.</p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

@@ -1,0 +1,330 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The monsoon can’t save us
+</mj-title>
+    <mj-preview>An unusually rainy Southwest summer is welcome — but much more is needed to end the water crisis.&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">August 4, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>The monsoon can’t save us</h1>
+          <h2>An unusually rainy Southwest summer is welcome — but much more is needed to end the water crisis</h2>
+          <p><span class="dropCap">A</span> summer monsoon day begins with a sliver of orange sunlight peeking over the horizon, farther north and earlier than you expect, rapidly erasing any coolness the night might have left in its wake. By midmorning, you retreat indoors to escape the heat and don’t notice the clouds piling up on the edges of the sky, cobalt blue below and white and cauliflower-puffy higher up.</p>
+<p>The first clap of distant thunder pulls you outside. The sky is dark, the wind bending cottonwoods and elms and willows almost to the ground, and you revel in the tempest and the electricity crackling through the air. The rich aroma reaches you just as the first drop of rain, huge and startlingly cold, slaps you on the forehead, making you tear up and laugh all at once.</p>
+<p>And then, the deluge.</p>
+          <p>Maybe you’re unfortunate enough to be caught driving the north road into Chaco Culture National Historical Park, which becomes slicker than snot with even a spatter of rain and turns into a muddy, visitor-stranding river during big deluges — I speak from experience here — shutting down the park entirely for a time. Or maybe you just stand out on your lawn, risking death from a wind-snapped cottonwood branch, and let the cold water wash over you. And maybe, like me, you end up gluing yourself to the <a href="https://waterwatch.usgs.gov/index.php?id=ww_current&utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">U.S. Geological Survey’s streamflow website</a> to watch flash floods careen down arroyos and inundate bone-dry riverbeds.</p>
+          <p>“No turquoise blue waters for the rafters today,” said an email from a similarly inclined friend during a July deluge. It was accompanied by a link to the Little Colorado River gauge, which showed how the near-dry “river" bed swelled up to 5,000 cubic feet per second in just a matter of hours. Grand Canyon rafters often frolic in the placid, pale blue waters of the stream. On days like that, though, probably not.</p>
+          <p>But even if you’re stuck in the ditch on the Chaco road or have your river trip selfie ruined by a flash flood, you’ve still got to celebrate. The monsoon — after a few summers of absence or, at best, patchiness — has finally returned to the Southwest with abundance, not just once, but twice this year. In New Mexico, it arrived in June, dousing the flames of the state’s two biggest recorded wildfires, and delivering four times the normal monthly level of precipitation to Albuquerque. Now it’s back again with even greater strength, resuscitating the near-dead Rio Grande. Long-fallowed fields are turning green, and farmers, many facing a shortened irrigation season thanks to a meager winter, are breathing a tremendous sigh of relief.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>3.3 inches</h4>
+Amount of rainfall Apache Junction, Arizona, received in a 24-hour period on July 28. The monthly total was 4.39 inches — four times more than normal. 
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>380 cubic feet per second</h4>Streamflow recorded in the Chaco River near its confluence with the San Juan River in New Mexico on July 27. The flow had been 3 cfs just six hours earlier.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>6 cfs; 350 cfs</h4>
+Streamflow in the Rio Grande at Bosque Farms, New Mexico, on July 29 and July 31; by Aug. 2 it had climbed up above 600 cfs.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Yet the drought — or climate change-induced aridification, if you prefer — is nowhere near over. For every headline about flash floods and highways shut down or destroyed by debris flows, there are two or three about impending water cutbacks on the Colorado River, <a href="https://twitter.com/susanmbryanNM/status/1551697038437257216?utm_source=HCN&utm_medium=email&utm_campaign=landline">dying fish</a> in the <a href="https://www.washingtonpost.com/climate-environment/2022/07/22/rio-grande-drought/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6Ijc4ODM4NzEiLCJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjU4ODQ5OTI3LCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNjYwMDU5NTI3LCJpYXQiOjE2NTg4NDk5MjcsImp0aSI6Ijg3MDM4NWYzLTU2MTktNDcyNi04NTMyLTkzOWUxYmNmNGZkOCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjIvMDcvMjIvcmlvLWdyYW5kZS1kcm91Z2h0LyJ9.W1KMmmBIgiDMoPIs4YMy6t3cjQAyVo0sDw4vMiyC708&itid=gfta&utm_source=HCN&utm_medium=email&utm_campaign=landline">drying Rio Grande</a>, and even more bodies emerging from Lake Mead’s silty muck as its waters recede.</p>
+          <p>Don’t get me wrong: The rain helps. It gives rivers a nice boost, maybe even transforming a few weak trickles into boat-worthy torrents — assuming you’re crazy enough to try to paddle a flash flood. A string of downpours can fill a smaller reservoir, extending the irrigating season for the farmers who rely on it. And when more water falls from the sky, agricultural producers don’t need to pull as much of it out of the rivers to irrigate their crops. If the above-normal precipitation keeps up through the summer and turns to snow this winter, Lake Powell may even stop shrinking.</p>
+          <p>Maybe. For a little while, anyhow. But the megadrought now gripping much of the West is not just the result of scant rain and snowfall. It’s caused by a lack of moisture combined with rising temperatures, which melt the snow earlier, dry out the soils, make plants thirstier, and speed up evaporation in reservoirs and rivers. Flows into Lake Powell did, indeed, get a bit of a boost from the recent rains, but the temperatures have consistently been in the triple digits there — as has been the case in much of the Southwest. That’s a double whammy for water levels: The lake evaporates more quickly and more water must be released through the turbines to supply enough juice to keep the air conditioners blasting. And so more and more of Lake Powell’s bathtub ring is exposed, and the drought and the water shortages continue.</p>
+          <p>As I wrote this, news arrived that Sen. Joe Manchin — the coal-loving Democrat from West Virginia — finally agreed to support a climate bill that would potentially cut planet-warming emissions by some 40% by 2030. It will be a huge step forward (fossil fuel-friendly provisions aside) if it makes it through Congress, but it won’t do much to ease the West’s desiccation anytime soon. That gives the collective users of the region’s water no choice but to cut our consumption, and fast.</p>
+          <p>Some water managers, predictably, hope to make more water, i.e. “augment supplies,” by <a href="https://coloradosun.com/2022/03/18/colorado-dams-white-river-wolf-creek-reservoir-rio-blanco-district/?utm_source=HCN&utm_medium=email&utm_campaign=landline">building more dams</a> to capture runoff from monster monsoons, <a href="https://www.steamboatpilot.com/news/spending-millions-on-forest-health-will-require-broad-cooperation-advocacy-group-says/?utm_source=HCN&utm_medium=email&utm_campaign=landline">cutting down trees to increase runoff</a>, <a href="https://www.denverpost.com/2022/03/26/colorado-cloud-seeding-snow-drought/?utm_source=HCN&utm_medium=email&utm_campaign=landline">seeding clouds</a> in the hope of increasing snowfall and building pipelines to move water from wetter to dryer places. These proposals can range from the reasonable (recycling wastewater, as the Metropolitan Water District of Southern California <a href="https://www.latimes.com/environment/story/2022-07-22/los-angeles-may-be-the-first-in-california-to-put-recycled-water-directly-in-your-tap?utm_source=HCN&utm_medium=email&utm_campaign=landline">plans to do</a>) to the zany, such as piping Mississippi River water to Arizona (as <a href="https://www.azleg.gov/legtext/55leg/1R/bills/HCM2004H.pdf?utm_source=HCN&utm_medium=email&utm_campaign=landline">proposed</a> by Arizona lawmakers) and building desalination plants in the Sea of Cortez (<a href="https://ktar.com/story/5042317/gov-doug-duceys-plan-to-use-desalinated-water-in-arizona-will-be-pricey-expert-says/?utm_source=HCN&utm_medium=email&utm_campaign=landline">Arizona’s Gov. Doug Ducey</a> and others), never mind the huge amounts of power that it would require. And then there’s Utah Gov. Spencer Cox, who simply prays for rain. But even if God’s listening and delivers, it probably won’t end the drought — not unless it’s accompanied by a miracle that makes fossil fuels noncombustible.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>1.09 inches</h4>
+          Amount of rainfall at Tonopah, Nevada’s airport on July 31, breaking the daily rainfall record. The location had received only .16 inches since March. 
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>4.3 inches</h4>
+Amount of rainfall in Ouray, Colorado, for the month of July. The monthly normal is 2.7 inches. 
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>83</h4>
+Percent of the Western U.S. that was in some level of drought as of July 26. A year earlier, it was 94%. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>We can’t build or dam or pipe our way out of this mess. The only effective way to save the Colorado, the Rio Grande and the Southwest’s other rivers is by using less water. But don’t take it from me; ask some of the finest Western water minds out there, who recently published a <a href="https://www.science.org/stoken/author-tokens/ST-631/full?utm_source=HCN&utm_medium=email&utm_campaign=landline">peer-reviewed report that found</a> the only way to stabilize the Colorado River, or to keep Lakes Powell and Mead from hitting the dreaded dead pool, is for all of the river’s users to swiftly slash their consumption.</p>
+          <p>Unfortunately, the report doesn’t tell us how to do that. What is clear is that it will not be enough just to tear out all our turf or eat fewer cheeseburgers or take shorter showers. Much, much deeper cuts — on a societal level — are needed.</p>
+          <p>It’s funny. When I think about the need to cut energy use — about riding bikes and walking more, and driving more efficient cars, or about putting solar panels on the roof and making homes more efficient, I get excited. I see it as a challenge and a chance to simplify our lives in a way that will make most people — not to mention the planet — happier and healthier.</p>
+          <p>But when I imagine a world in which we use less water, it brings only sadness and a sense of loss. It’s heartbreaking to think of all the gurgling irrigation ditches confined to pipes, surely killing the cattails and cottonwoods and willows that grow along their banks, nourished by their inefficiency. It hurts to imagine the alfalfa fields all dried up and dusty — an end to freshly cut hay and the strange beauty of the bales all lined up in the fields, casting long blue shadows on June evenings.</p>
+          <p>But the clouds are piling up again outside, the temperature is plummeting, the thunder rumbling, wind gusts singing in the leaves of the creaky old weeping willow. The rain will be here soon. Forget the streamflow gauges. I’m going out there and letting the rain wash all my sadness away.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>Burning coal makes wildfires worse by releasing carbon into the atmosphere and causing the planet to warm and the forests to dry out. But as Austyn Gaffney writes in <em>HCN</em>’s <a href="https://www.hcn.org/issues/54.8/wildfire-the-fires-below?utm_source=wc&utm_medium=email&utm_campaign=landline">latest cover story</a>, burning coal can also ignite wildfires more directly via coal seam blazes. The fires in the naturally occurring seams can be sparked by lightning or spontaneous combustion and then burn underground for years or even millennia. And occasionally, they reach the surface, sparking wildfires. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Montana’s game agency reported that 273 wolves were killed in last winter’s hunt, 25 of them from Yellowstone National Park. One radio-collared wolf raised suspicions, and when park officials investigated, they found it had been shot by a park ranger. Ryan Devereux <a href="https://www.hcn.org/articles/wolves-was-yellowstones-deadliest-wolf-hunt-in-100-years-an-inside-job?utm_source=HCN&utm_medium=email&utm_campaign=landline">delved into the ensuing investigation</a> and the politics behind the hunt for <em>The Intercept</em>, writing:</p>
+          <p><em>The killing of wolf 1233 opened a dramatic new chapter in a longer story, one in which a millionaire governor stacked a critical state game commission — long praised for its nonpartisan, science-based wildlife management — with donors who gave tens of thousands of dollars to his political campaigns, lacked wildlife management experience, expressed disdain for efforts to protect endangered species in general and wolves in particular, and had vested interests in the industries, including trophy hunting, that made (Montana Gov. Greg) Gianforte’s ascent possible.</em> | <strong><em>The Intercept</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>An aging oil and gas field in northwestern New Mexico epitomizes one of the <a href="https://www.landdesk.org/p/a-trip-through-a-sacrifice-zone-the?r=ek6sp&s=w&utm_source=HCN&utm_medium=email&utm_campaign=landline">vexing problems</a> facing advocates and regulators: How do you deal with wells that are in the state of limbo advocates call the “orphaned/non-orphaned well syndrome”? That is, the wells are defunct and their operators bankrupt—but regulators still consider the facilities to be active, going concerns, and therefore cleanup can be indefinitely delayed. | <strong><em>Land Desk</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>With monsoonal moisture comes some remarkable cloud formations. We’d love to catch a glimpse of monsoons in your backyard and some of your best pictures of the nimbus and cumulus formations that have brought our recent summer storms. Oh, and if you have some great video or pics of flash floods, send them on over, too!</p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

@@ -1,0 +1,301 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="credit-text" font-family="GT-America-Standard, Arial" align="right" font-size="10px" color="#A8A8A8" text-transform="uppercase" padding="0px 25px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: Western voters favor public lands
+</mj-title>
+    <mj-preview>Trumpism and extremism didn’t fly during the 2022 midterms.&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">November 24, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>A return to pragmatism?</h1>
+          <h2>In the West, this year&rsquo;s election results generally favored public lands conservation and moderation.</h2>
+          <p>Ammon Bundy only got 17% of the votes in the Idaho governor&rsquo;s race. <em>Phew, </em>I thought. <em>What a relief.</em> Then: <em>Wait,</em> 100,000 people voted for Ammon Bundy? <em>Yikes!</em></p>
+<p>That sorta sums up the 2022 midterm elections: Western voters generally chose pragmatism over ideology, moderation over extremism and competent governance over outright lunacy, drawing a collective sigh of relief from most reasonable folks. Voters appear to care about climate change, they don&rsquo;t want oil and gas companies running roughshod over the landscape, and they&rsquo;re still in favor of <a href="https://www.coloradocollege.edu/other/stateoftherockies/conservationinthewest/2022/2022%2520State%2520of%2520the%2520Rockies%2520Topic%2520Report%2520on%2520Public%2520Lands%2520d2%2520002.pdf" target="_blank" rel="noopener">protecting public lands</a>.&nbsp;</p>
+<p>At the same time, a fairly deranged guy who played a leading role in not one but two armed insurrections against the federal government was not only on the ballot, he even received a substantial number of votes. The radical right-wing MAGA faction of the GOP clearly endures and even dominates parts of the West.</p>
+<p>Still, if I were a political strategist for either party in Washington, D.C. (yeah, right), I&rsquo;d be urging my clients to look West right now and take heed of a few major themes from this year&rsquo;s vote.&nbsp;</p>
+<p><strong>Public lands won &mdash; even when they lost.</strong></p>
+<p>When President Joe Biden called to congratulate victorious Colorado Democrats after the election, he wore a hat commemorating his October establishment of Camp Hale-Continental Divide National Monument. It was fitting, since the designation likely helped Democratic Sen. Michael Bennet &mdash; a public-lands champion with a 90% lifetime score from the League of Conservation Voters &mdash; trounce his challenger, Republican Joe O&rsquo;Dea.</p>
+<p>Also:&nbsp;</p>
+<ul>
+<li>In Nevada, Rep. Dina Titus, who just recently introduced legislation that would establish the Avi Kwa Ame National Monument on 450,000 acres of public land held sacred by Mojave Desert Indigenous people, beat back her Republican challenger.&nbsp;</li>
+<li>Democratic Reps. Ra&uacute;l Grijalva of Arizona and Diana DeGette of Colorado &mdash; both tenacious fighters for public-land protection &mdash; decimated their opponents.&nbsp;</li>
+<li>And in New Mexico, Democratic Reps. Teresa Fern&aacute;ndez and Melanie Stansbury &mdash; both with perfect League of Conservation Voter scores &mdash; were easily re-elected. Gabriel Vasquez, a Las Cruces Democrat who founded the <a href="https://www.hcn.org/articles/social-justice-new-mexico-lawmakers-focus-on-equity-in-the-outdoors" target="_blank" rel="noopener">Nuestra Tierra Conservation Project</a>, advocated for new national monuments and was endorsed by the League of Conservation Voters, prevailed over incumbent Rep. Yvette Harrell, who is blatantly hostile to pretty much every environmental cause.&nbsp;</li>
+</ul>
+<p>Public-land defeats:</p>
+<ul>
+<li><a href="https://www.nytimes.com/interactive/2022/11/08/us/elections/results-utah.html?action=click&amp;pgtype=Article&amp;state=default&amp;module=election-results&amp;context=election_recirc&amp;region=StateNavMenu" target="_blank" rel="noopener">Utah. All of it.</a> The state&rsquo;s voters elected a slate of candidates who are actively hostile toward public-land conservation, from incumbent MAGA-Republican Sen. Mike Lee to new state Rep. Phil Lyman, who has long <a href="https://www.hcn.org/articles/is-san-juan-countys-phil-lyman-the-new-calvin-black" target="_blank" rel="noopener">battled with federal land-management agencies</a>.&nbsp;</li>
+<li>Wyoming voters elected Trump-loyalist Harriet Hageman, a longtime proponent of transferring public lands to private hands, to represent them in Congress. Hageman helped persuade a judge to toss the Clinton administration&rsquo;s roadless rule in the 1990s, prompting environmentalists to dub her the &ldquo;<a href="https://www.hcn.org/articles/wicked-witch-of-the-west" target="_blank" rel="noopener">Wicked Witch of the West</a>.&rdquo;&nbsp;</li>
+<li>Ryan Zinke, one of Trump&rsquo;s scandal-plagued &ldquo;energy dominance&rdquo; Interior secretaries, edged out Democrat Monica Tranel to represent Montana&rsquo;s 1st congressional district.</li>
+<li>Gun-toting Rep. Lauren Boebert (League of Conservation Voters score: 0) &mdash; whose husband purportedly earns six figures as an oil and gas industry &ldquo;consultant&rdquo; &mdash; had been expected to win handily in public-land-rich western Colorado. But in the end, she barely squeezed past Democrat Adam Frisch.&nbsp;</li>
+</ul>
+<p>But even in these losses, there is cause for optimism. Zinke spent a good portion of his candidacy trying to get Montana voters to <a href="https://whitefishpilot.com/news/2021/sep/29/zinke-says-hell-never-sell-public-lands/" target="_blank" rel="noopener">forget his time as Trump&rsquo;s Interior secretary</a>, during which he outdid most of his predecessors when it came to<a href="https://www.hcn.org/issues/49.22/department-of-interior-interiors-return-to-the-robber-baron-years" target="_blank" rel="noopener"> eviscerating public-lands protections</a>. Despite his devotion to industry, he has long preferred to describe himself as a Teddy Roosevelt-esque conservationist. Maybe now that he&rsquo;s no longer under Trump&rsquo;s thumb, he&rsquo;ll begin to walk the talk.&nbsp;</p>
+<p>Boebert&rsquo;s razor-thin margin in a Republican-leaning district, against a well-to-do, relatively unknown Aspen moderate, shows how unpopular she has become. It&rsquo;s worth noting that in the election run-up, Boebert came out in favor of Bennet&rsquo;s bill to <a href="https://www.bennet.senate.gov/public/index.cfm/dolores-river-national-conservation-area-proposal" target="_blank" rel="noopener">establish a Dolores River National Conservation Area</a> to protect the western Colorado watershed. Perhaps she sensed that even Republicans rather enjoy being able to hike and hunt and fish on un-industrialized public lands.</p>
+<p><strong>Voters want limits on oil and gas development, </strong>but they&rsquo;re not ready to keep it all in the ground &mdash; yet</p>
+<p>Republicans spent the past several months weaponizing high gasoline prices, trying to pin them on the Biden administration and on Democratic energy policies. They claimed that Biden&rsquo;s cancellation of the Keystone XL pipeline and oil and gas leasing pause and proposed methane rules stifled production. Although this is untrue &mdash; federal policies do little to affect the global petroleum market &mdash; the approach worked: Historically, high fuel prices tend to hurt whichever party controls Congress and the White House.&nbsp;</p>
+<p>If that gas-price shtick were to play anywhere, it would most likely be in New Mexico, where oil and gas related revenues account for as much as one-third of the state&rsquo;s budget. Yet it didn&rsquo;t happen.</p>
+<p>Instead, Democrats swept nearly every up-ticket race in what can only be called a blue tsunami:&nbsp;</p>
+<ul>
+<li>Vasquez &mdash; the aforementioned Democratic conservationist &mdash; defeated <a href="https://www.reuters.com/world/us/new-mexico-house-race-wrangles-oil-gas-climate-change-2022-11-01/" target="_blank" rel="noopener">fossil fuel-loving, climate-denying</a> MAGA-acolyte Herrell in the 2nd Congressional District, which includes New Mexico&rsquo;s share of the Permian Basin, the nation&rsquo;s busiest and most productive oilfield.</li>
+<li>Incumbent Democratic Gov. Michelle Lujan Grisham defeated Republican Trump loyalist and fossil fuel-devotee Mark Ronchetti, a TV weatherman.</li>
+<li>And voters returned Democrat Stephanie Garcia Richards to the helm of the New Mexico State Land Office, where she has pushed for <a href="https://ladailypost.com/garcia-richard-innovative-thinking-paying-off-on-state-lands/" target="_blank" rel="noopener">clean energy development</a>.&nbsp;</li>
+</ul>
+<p>Despite the Republican rhetoric, New Mexico&rsquo;s oil and gas industry has never been healthier than it is today, under state and federal Democratic control. Oil production from the Permian Basin hit an all-time high of about 5 million barrels per day, and the state is looking at a second consecutive year of record oil and gas-related revenue. The industry, unlike the consumers, <a href="https://www.hcn.org/issues/47.5/lessons-from-boom-and-bust-in-new-mexico" target="_blank" rel="noopener">thrives when oil prices are high</a>, a fact that Republicans sometimes forget.&nbsp;</p>
+<p>New Mexico Democrats also have learned to govern delicately when it comes to energy. Lujan Grisham has helped wean the state off coal-generated power and <a href="https://www.hcn.org/articles/coal-new-mexicos-landmark-coal-transition-law-faces-an-uncertain-timeline" target="_blank" rel="noopener">established safety nets</a> for workers and communities affected by the energy transition. She also tightened oil and gas regulations and stepped-up enforcement as a way to fight climate change. But she&rsquo;s certainly no keep-it-in-the-grounder, and she is an enthusiastic booster of methane-derived blue hydrogen, which could help revive the beleaguered natural gas industry in the northwestern part of the state. Vasquez is a die-hard conservationist, but when it comes to oil and gas he says he&rsquo;ll take a &ldquo;balanced&rdquo; approach, defying GOP attempts to <a href="https://nrcc.org/2022/10/06/nm-02-candidate-gabe-vasquez-called-for-shutting-down-oil-and-gas-industry/" target="_blank" rel="noopener">paint him with a greener brush</a>).&nbsp;</p>
+<p>This sort of &ldquo;balance&rdquo; &mdash; which tends to <a href="https://capitalandmain.com/new-mexicos-hydrogen-plan-environmental-legislation-that-environmentalists-hate" target="_blank" rel="noopener">make environmentalists cringe</a> &mdash; appears to be a political winner. In California, Gov. Gavin Newsom was easily re-elected. Newsom wants to phase out oil and gas drilling in the state as well as petroleum-powered cars. But he&rsquo;s also pushing to keep California&rsquo;s <a href="https://www.hcn.org/articles/nuclear-energy-the-divide-over-diablo" target="_blank" rel="noopener">last nuclear plant</a> and its natural gas plants running beyond their planned retirement dates to shore up the climate change-strained power grid.&nbsp;</p>
+<p>Similarly, Democratic Rep. Mary Peltola &mdash; who ran on a <a href="https://www.washingtonpost.com/politics/2022/10/25/tight-alaska-house-race-mary-peltola-runs-pro-fish-campaign/" target="_blank" rel="noopener">&ldquo;pro-fish, pro-family and pro-freedom&rdquo;</a> platform &mdash; is still on her way to defeating Sarah &ldquo;Drill, Baby, Drill&rdquo; Palin to represent Alaska in Congress. Peltola, who earlier defeated Palin in a special election, supports oil and gas development within limits and has even come out in favor of ConocoPhillips&rsquo; massive proposed Willow drilling project in the Alaskan Arctic.</p>
+<p><strong>Extremism doesn&rsquo;t fly in (most of) the West </strong></p>
+<p>If there was one across-the-board loser in these midterms, it was the Trump school of extremism. The MAGAs ran a slate of raucous wingnuts, er, outspoken candidates across the region, from Bundy in Idaho to Kari Lake in Arizona, who parroted Trump and bashed old-school GOPers Rep. Liz Cheney and the late Sen. John McCain during her run for governor. Very few succeeded. Bundy was bashed by incumbent Republican Idaho Gov. Brad Little, and Lake lost to Democrat Katie Hobbs, who supports clean energy, tribal sovereignty, rational immigration reform and economic justice. (Lake, of course, refuses to concede).&nbsp;</p>
+<p>Other MAGA losses include:</p>
+<ul>
+<li>Arizona Democratic Sen. Mark Kelly defeated Trump-endorsed white nationalist Blake Masters, whose <a href="https://boingboing.net/2022/11/12/watch-the-creepy-blake-masters-campaign-ad-where-he-plays-with-a-silenced-handgun.html" target="_blank" rel="noopener">campaign ads</a> showcased him cooing to semi-automatic firearms in a serial-killer bedroom voice. That might have gotten him elected Mayor of Crazytown, but it sure as heck didn&rsquo;t sway Arizona voters.</li>
+</ul>
+<ul>
+<li>Democrat Adrian Fontes defeated Republican election-denier <a href="https://azmaga.republican/mark-finchem/" target="_blank" rel="noopener">Mark Finchem</a> in the race for Arizona secretary of State.&nbsp;</li>
+<li>In Nevada, incumbent Catherine Cortez Masto held off Republican Adam Laxalt, a Trump loyalist with ties to the fossil fuel industry.</li>
+<li>Michele Fiore, who supported the Bundy clan during their Nevada standoff with federal agents and in the Oregon <a href="https://www.theguardian.com/lifeandstyle/shortcuts/2015/dec/08/las-vegas-republican-michele-fiore-christmas-card-weapons" target="_blank" rel="noopener">armed</a> occupation of a wildlife refuge, lost her race for Nevada state treasurer.&nbsp;</li>
+<li>As of Nov. 22, Alaska Sen. Lisa Murkowski was leading Trump-endorsed challenger Kelly Tshibaka and was expected to win.&nbsp;</li>
+</ul>
+<p><strong>It would behoove national Republicans to take a cue from Wyoming</strong> &mdash; though <em>not</em> from Harriet Hageman</p>
+<p>From a distance, Wyoming seems like a MAGA stronghold, through and through. After all, Hageman decisively deposed arch-conservative Rep. Liz Cheney in the primaries only because of Cheney&rsquo;s lack of fealty for Trump.&nbsp;</p>
+<p>But consider, for a moment, Gov. Mark Gordon, who easily won re-election. He&rsquo;s a Republican and a conservative &mdash; but a conservationist? Well, no, he&rsquo;s not what you&rsquo;d call an environmentalist in, say, Colorado. But for a Wyoming Republican he is surprisingly moderate on green issues.&nbsp;&nbsp;</p>
+<p>Sure, Gordon denounced the Biden administration&rsquo;s moratorium on oil and gas leasing, calling it&nbsp;<a href="https://www.energy.senate.gov/services/files/BAEB9A1D-6D39-48E4-8099-2310FCDE2301" target="_blank" rel="noopener">&ldquo;draconian.&rdquo;</a> But he also acknowledges <a href="https://powelltribune.com/stories/governor-mark-gordon-wyoming-can-solve-climate-crisis,23607" target="_blank" rel="noopener">anthropogenic global warming</a> and touts carbon capture and wind, solar and nuclear power as means to fight it. Gordon tepidly supported Trum, but <a href="https://twitter.com/GovernorGordon/status/1346947233720135689" target="_blank" rel="noopener">condemned</a> the Jan. 6 invasion of the U.S. Capitol. (Earlier this year, the former president dissed Gordon on a Wyoming radio show for failing to adequately support him.)</p>
+<p>Gordon&rsquo;s background has a greener tint to it than he lets on during campaign seasons. (Fun fact: He actually served on the <em>High Country News </em>Board of Directors from 2000-2004, as did Idaho Gov. Brad Little during the 1990s.) Gordon was also the treasurer of the national Sierra Club, where he fought coalbed methane drilling. In scathing&nbsp;<a href="https://books.google.gr/books?id=v_cyAQAAMAAJ&amp;pg=RA1-PP7&amp;lpg=RA1-PP7&amp;dq=Mark+Gordon+%252522sierra+club%252522&amp;source=bl&amp;ots=w3281j6Nda&amp;sig=ACfU3U3zlD17oe0cinMK8a53yJRuXMpZeQ&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiQoeXb46v0AhWQCewKHYpXBdYQ6AF6BAgREAM%23v=onepage&amp;q=Mark%252520Gordon%252520%252522sierra%252520club%252522&amp;f=false" target="_blank" rel="noopener">comments</a> opposing a plan to drill in Wyoming&rsquo;s Shoshone National Forest in the 1980s, Gordon wrote: &ldquo;Is it worth it? Does it make sense to impair the wild value of these potential additions to the Washakie and North Absaroka Wildernesses? Is it worth it?&rdquo;</p>
+<p>Hageman, along with Trump-endorsed Foster Friess, challenged Gordon in the 2018 primaries, and hard-liner Rex Rammell went after him this year for being inadequately conservative. But Wyoming voters were not impressed. According to a <em>Morning Consult</em><a href="https://morningconsult.com/2022/07/19/democratic-governors-are-resisting-bidens-decline/" target="_blank" rel="noopener">poll</a> conducted this summer, Gordon is the most popular governor in America. That&rsquo;s in spite of &mdash; or most likely because of &mdash; his relatively middle-of-the-road ways.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>The four dams on the lower Klamath River are finally <a href="https://www.hcn.org/articles/indigenous-affairs-dams-the-klamath-dams-are-coming-down?utm_source=wcn1&utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank" rel="noopener">coming down.</a> On Nov. 17, federal regulators voted unanimously to order the surrender of the dam project&rsquo;s license, removing the final hurdle to removal of the hydroelectricity-generating and fish-harming structures in Oregon and California. <em>High Country News</em>&rsquo; B. &ldquo;Toastie&rdquo; Oaster reports that demolition is expected to begin in 2024. &ldquo;The Klamath salmon are coming home,&rdquo; said Joseph James, the chairman of the Yurok Tribe, in a statement. &ldquo;The people have earned this victory and with it, we carry on our sacred duty to the fish that have sustained our people since the beginning of time.&rdquo; | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>And a new but notably makeshift wall is going up along the Arizona-Mexico border. The Trump administration did not finish building its &ldquo;powerful&rdquo; steel wall along the border before being booted from the White House. And so outgoing Arizona Republican Gov. Doug Ducey set out to fill in the gaps, using stacked storage containers. <em>High Country News</em>&rsquo; Caroline Tracey visited the new segment &mdash; which slashes through the Coronado National Memorial &mdash; recently and <a href="https://www.hcn.org/articles/south-borderlands-the-environmental-consequences-of-gov-duceys-rogue-border-wall?utm_source=wcn1&utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank" rel="noopener">reports that it is a mess</a>; one section has already tipped over. It&rsquo;s unlikely to do much to stop humans, but it <em>will</em> impede migrating wildlife and, Tracey writes, could have &ldquo;significant environmental consequences for one of the world&rsquo;s most unique ecosystems.&rdquo; | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Your news tips, comments, ideas and feedback are appreciated and often shared. Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

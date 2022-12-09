@@ -1,0 +1,345 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The rise of the restoration economy 
+</mj-title>
+    <mj-preview>Filling the economic void left by the extraction economy by healing the land.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Landline, a newsletter about public lands of the Western U.S." padding="10px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">July 21, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Can a restoration economy rise from the wreckage of the West?</h1>
+          <h2>Conservationists turn to healing the land, water and people to fill economic voids left by extraction</h2>
+          <p><span class="dropCap">I</span>n late June, Soren Jespersen, Jennifer Thurston and I stood on a western Colorado mesa overlooking the valley floor where the town of Uravan once sat, with its neat rows of houses, a hospital, even a swimming pool. Thurston, who runs the mining watchdog group INFORM Colorado, explained that Uravan was so contaminated from decades of uranium milling that every trace of it was bulldozed and entombed nearby. Nearby Naturita was also contaminated, though the town survives as a shell of itself. She gestured toward a canted granite stone in a field of gravel and weeds. On it were etched these words:
+</p>
+          </mj-text>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/NATURITA_stone_2.png" padding="0px" width="400px" alt="NATURITA, COLORADO. DATE OF CLOSURE: JUNE 2, 1998. DRY TONS OF TAILINGS: 971,762. RADIOACTIVITY: 79 CURIES, RA-226"/>
+        <mj-text mj-class="body-text">
+<p>“Kinda looks like a gravestone, doesn’t it?” Jespersen, of the Colorado Wildlands Project, said, as the mid-morning sun beat down from a cloudless blue sky.</p>
+<p>In a way, it is: a gravestone marking the final resting place of the radioactive waste from one of the Southwest’s vanished uranium mills. It also symbolizes the death of the industry itself, which fueled the region’s economy for much of the latter half of the 20th century even as it blighted the landscape, poisoned rivers and sickened many workers. </p>
+          <p>But here in the Uravan Mineral Belt, which more or less overlaps with the Dolores River Watershed, the industry never quite died. Instead, it entered a zombified state of dormancy. And now — with uranium prices on the rise and a renewed interest in low-carbon nuclear power — the domestic uranium industry is showing new signs of life, with companies snatching up mining claims and <a href="https://anfieldenergy.com/2022/02/anfield-energy-to-complete-a-mineral-resource-report-for-four-of-its-west-slope-project-mines/?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">reassessing long-idled mines</a>.</p>
+          <p>“Here we go again,” Jespersen said as we drove down the San Miguel River to its confluence with the Dolores. “Are we going to stumble blindly down the same path?”</p>
+          <p>Both Thurston and Jespersen’ organizations are working hard to avert a repeat of the mining frenzy that caused the mess we saw at Uravan. Colorado Wildlands is aiming for landscape-scale conservation to keep mining and other industry from trashing relatively undisturbed lands, while Thurston doggedly fights to “bring <a href="https://www.landdesk.org/p/scrappy-watchdogs-gear-up-for-a-new?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">regulations into modern times</a> and the future (and) convincing the government it’s not 1872 anymore.”</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$120 million</h4>
+Cost of the 20-year-long cleanup of the town and uranium mill at Uravan, Colorado.
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>13 million cubic yards</h4>
+<em>(enough to fill nearly four Great Pyramids of Giza)</em><br />
+Amount of mill tailings, sludge and other contaminated debris removed from the Uravan site and buried in repositories.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>3,500</h4>
+Estimated number of abandoned uranium mines in the Four Corners region, few of which have been reclaimed.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>When industry abandoned this region, it not only left behind environmental wreckage, it also left the economy in tatters. Unlike Uravan, Naturita did not fall victim to the bulldozer’s blade. But unlike Telluride, about 50 miles upstream, Naturita has yet to find another industry to replace the jobs, tax revenue or even the culture that uranium mining — along with a <a href="https://tristate.coop/nucla-station-retires-service?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">nearby coal plant and mine that closed in 2019</a> — offered the rural community. That leaves an economic vacuum just begging to be filled.</p>
+          <p>Both Jespersen and Thurston are acutely aware that if no other solution appears, the local people will do everything they can <a href="https://www.energyfuels.com/news-releases?item=295&utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">to bring the nuclear zombie</a> —  radioactive waste-oozing sores and all — back to life. The prospect is enough to drive any pessimists to Naturita’s Mother Lode (née Yellow Cake) bar to drown their sorrows. Instead, Jesperson and Thurston launched into a hopeful dialogue about potential economic solutions.</p>
+          <p>“There’s opportunity here,” Jespersen said, hopefully. And various initiatives have tried to capitalize on that opportunity, but over the last four decades, nothing’s really worked.</p>
+          <p>“A lot of people are trying to figure it out,” Thurston said, gazing out at the stunning cliffs that line the Paradox Valley, so named because the Dolores River cuts through it perpendicularly. “But what’s the right business?”</p>
+          <p>For decades, communities jilted by extractive industries turned to recreation and tourism for salvation, capitalizing on their proximity to public lands. Many of the efforts successfully lured new businesses and wealth to the towns. But that success has brought problems of its own. Jespersen pointed to Moab, which began promoting a free-for-all brand of motorized recreation on public lands back in the 1960s, and is now plagued by the dire combination of underpaid service jobs, overpriced homes and a loud and lawless fossil-fueled, ATV-roaring atmosphere. Thurston, meanwhile, said the town she grew up in — Telluride — “isn’t there anymore because they saw recreation as a panacea.”</p>
+          <p>“It has to be a combination of things,” Jespersen said. “There is no silver bullet. Why not do something that’s more about healing the land?”</p>
+          <p>“There are about as many jobs in cleanup and reclamation as in mining,” said Thurston, who is prone to geek out on the technical aspects of mine permitting and uranium processing. “It could keep that sector alive, in a way.” Indeed, there are some 1,300 mining-related sites in the Dolores River Watershed, alone, and from the looks of things you could put a lot of people to work repairing the damaged landscape.</p>
+          <p>In 1993, a labor organizer named Tony Mazzochi planted the seed for the Just Transition movement when he called for a <a href="https://www.greenleft.org.au/content/answer-jobs-environment-conflict?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">“Superfund for workers”</a> that would guarantee full wages and benefits to those who “lose their jobs in the wake of the country’s drastically needed environmental cleanup.” Jespersen and Thurston were suggesting something like that with a twist: Let Superfund <em>become</em> the Just Transition; the displaced workers can shift into cleanup mode, getting the same wages and benefits as they did when they were mining or drilling.</p>
+          <p>Perhaps the future of this battered region lies less in throwing everything into growing hemp, desperately squeezing cash out of tourists and mountain bikers, or transforming out-of-work coal miners and roughnecks into solar installers, than in the restoration or land-healing industry, in which displaced miners clean up the mines; former oil rig workers plug and remediate old oil and gas wells; and one-time loggers earn good wages reseeding burned zones, eradicating tamarisk and other invasive species and doing other ecosystem restoration work. It certainly could be a piece of a robust, diversified economy for communities like Naturita.</p>
+          <p>Imagine the old townsite of Gladstone, Colorado, now a part of the Bonita Peak Superfund site designated in the wake of the 2015 Gold King Mine blowout, converted into an open-air laboratory for researching solutions to acid mine drainage. Imagine the hundreds of laid-off workers at the Kayenta Mine on Arizona’s Black Mesa continuing to work for another <a href="https://ieefa.org/wp-content/uploads/2018/12/Opportunity-for-Navajo-Nation-in-Post-Coal-Reclamation-Economy_December-2018.pdf?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">five to seven years</a> cleaning up the site and then installing solar panels in its place. Picture an oil and gas well-plugging industry that generates revenue while reducing emissions of methane and other pollutants from abandoned facilities.</p>
+          <p>It would be expensive, yes. But there is plenty of money out there to pay for it, including federal infrastructure funds, reclamation bonds posted by companies (which, admittedly, are woefully inadequate), and the billions and billions of dollars of profit the oil and gas and uranium and mining corporations have reaped from the land and communities over the decades. Why not tap into that?</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$4.7 billion; $11.3 billion; $3 billion</h4>
+          Amount allocated by the federal infrastructure bill passed by Congress last year for, respectively: Abandoned and orphaned oil and gas well plugging and cleanup; coal mine reclamation; abandoned hardrock (including uranium) mine reclamation and cleanup.
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$361 million</h4>
+Estimated cost for the Public Service Company of New Mexico to abandon the San Juan Generating Station coal power plant later this year; costs include $30 million for reclamation of the associated coal mine and $40 million in just transition funds for affected workers and communities. 
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$917 million</h4>
+Peabody Energy’s 2021 EBITDA, a measure of profit. Peabody owns the Kayenta Mine, which shut down in 2019, and has yet to launch a full reclamation effort, which could employ more than 100 miners for up to seven years, according to analysts. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>Hurdles remain, including companies’ reluctance to give up on mines and wells and shut them down because doing so triggers cleanup requirements and forecloses on the chance to one day reopen them. One of Thurston’s big fights has been to get state regulators <a href="https://www.landdesk.org/p/scrappy-watchdogs-gear-up-for-a-new?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">to enforce their own regulations</a> requiring that mines lose their “active” operating status after years of sitting idle.</p>
+          <p>Hurdles, however, can be overcome. And the time is ripe to launch the land-healing economy and embark on real restoration — “a full physical, spiritual, and intellectual involvement with the Earth, and an emphasis on the primacy of human relationships over the accumulation of personal wealth,” as Barry Lopez, the renowned nature writer who died in 2020, wrote in his 1991 introduction to <em>Helping Nature Heal: An introduction to environmental restoration</em>, by Richard Nilsen. Lopez went on:</p>
+          <p><em>Restoration work is not fixing beautiful machinery. … It is accepting an abandoned responsibility. It is a humble and often joyful mending of biological ties, with a hope clearly recognized that working from this foundation we might, too, begin to mend human society.</em></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>When floods ripped through the Yellowstone Region last month, it was a human <a href="https://www.hcn.org/articles/landline-in-the-wake-of-fires-and-floods?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">tragedy</a>, destroying homes, battering the tourism economy and upending lives. But as Nick Mott thoughtfully <a href="https://www.hcn.org/issues/54.9/north-flooding-could-breathe-life-into-yellowstone-ecosystem?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">explains</a> in a recent <em>High Country News</em> piece, the floods are already yielding benefits for the environment. Willows and cottonwoods, for example, need flood-scoured landscapes to propagate, and floods that rearrange riverbeds also create new spawning grounds for fish. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Also from the not-quite-as-bad-as-we-first-thought beat: Though an early July Supreme Court ruling that nullified the Obama-era Clean Power Plan definitely limited the ways in which the Environmental Protection Agency can regulate greenhouse gases from the power sector, it didn’t hobble the agency entirely. In fact, <a href="https://www.hcn.org/issues/54.9/south-the-epa-has-more-options-to-rein-in-climate-change-than-you-think?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">writes Elizabeth Shogren</a> for <em>HCN</em>, it leaves many of the EPA’s regulatory tools intact. Meanwhile, climate advocates can take heart in the continued decline of the coal burning power industry, even though the Clean Power Plan never took effect. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>If you’re at all interested in the woes of the Colorado River — and you should be if you live in or care about the West — then you’d better start following Ian James, the <em>Los Angeles Times</em>’ water reporter. He has an <a href="https://www.latimes.com/california/story/2022-07-15/scientists-have-long-warned-of-a-colorado-river-crisis?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">excellent piece</a> on how for decades experts and conservationists warned federal and state officials that there wasn’t enough water in the Colorado River to keep supplying all those who rely on it — and that the river was shrinking. For the most part, the officials didn’t listen. And now they — and the river — are in crisis. | <strong><em>Los Angeles Times</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Our last <em>Landline</em> on the wacky politics of wildfire really pushed some buttons and had our phone ringing off the hook! Here’s just one of the many thoughtful responses we received (edited for brevity):</p>
+            <p><em>I had a 30+ year career with the Forest Service as a biologist, line officer and fire manager, and I am still active in the summer as a long-term fire analyst and strategic operations planner — so your column resonated with me, and I'd say you got it mostly right.</em></p>
+            <p><em>I must challenge you on one paragraph, however. You refer to the Bitterroot National Forest projects to thin forests as plans to "chop down the forest,” and claim that the projects are meaningless because they are too far from communities.</em></p>
+            <p><em>First, understory thinning, removing the younger (post fire suppression-aged) trees and leaving the larger, older trees, creates forest structures that are well set up to survive fire. Chopping down the forest gives the impression that the Forest Service is laying waste to forests to save them. I can tell you from plenty of experience in dry forests that this sort of thinning leaves a visually (and ecologically) appealing forest — one I would be happy as a fire manager to work with.</em></p>
+            <p><em>Second, you advocate for allowing more fires to roam across the landscape, and I couldn't agree more. I spent the last few years of my career advocating for such an approach, and I coupled this with planning large-scale forest thinning projects to facilitate exactly that approach to fire management. The fact that the Bitterroot is planning thinning projects in the backcountry may very well be intended to set up landscapes for more wildfire, and to set up fire mangers for success in managing these fires.</em></p>
+            <p><em>My mantra is that we need to create landscapes that allow us to have fires that are safer, cheaper, and bigger. It's the only way out of this mess, and it happens through well placed thinning and prescribed burning projects in the backcountry and in the WUI, and then the commitment of fire managers and line officers to see it through.</em></p>
+            <p><em>Here's to more fire! — William Aney, Pendleton, Oregon</em></p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

@@ -1,0 +1,385 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:vGT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: In the wake of fires and floods  
+</mj-title>
+    <mj-preview>Climate disasters across the West wreak havoc on economies and livelihoods.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Landline, a newsletter about public lands of the Western U.S." padding="10px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">June 23, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Flooded, scorched and thirsty</h1>
+          <h2>A climate-catastrophe kick-off to the West’s summer. </h2>
+          <p><span class="dropCap">T</span>he image that popped up on my Twitter feed last week was beyond alarming, it was  surreal: An entire house, a big one, sliding off its foundations and floating slowly down the muddy, swollen Yellowstone River. It was such an unexpected sight, so bizarre, that I could do little more than gawk at it, mutter an expletive and scroll down to the next crazy image of disaster.</p>
+<p>But then I read the caption, and that stopped me: This wasn’t just some random building, it was an apartment complex that housed several Yellowstone National Park employees and their families. Some of them, <a href="https://missoulian.com/news/gardiner-cooke-city-flooding-its-going-to-be-a-rough-summer/article_d60f6df6-e5df-5724-afca-d4329439cf3c.html?utm_source=HCN&utm_medium=email&utm_campaign=landline">according to the <em>Missoulian</em></a>, had spent more than two decades there. Now they are effectively homeless in a place where housing is even more prohibitively expensive than elsewhere in the West. As the river ate away at the bank underneath the structure, and the whole thing slowly collapsed into the water, one resident told the <em>Missoulian</em> that bystanders laughed. Some of them even took selfies of the spectacle.</p>
+<p>As someone who regularly follows disasters, from fires to floods to fallowed fields, I understand the tendency to view catastrophe in the abstract, as if it’s just a movie. But too often we forget that every disaster, however cinematic it may be, no matter how unreal it might seem, leaves real and suffering victims in its wake.</p>
+          <p>Even before this summer began, the West had its share of calamities, some caused by too much rain, others by too little and some by the two extremes occurring together. I don’t call these “natural” disasters; they may be so to some extent, but they are too often exacerbated by human-caused climate change. Warming temperatures not only dry out soil and vegetation by <a href="https://www.dri.edu/new-study-shows-robust-increases-in-atmospheric-thirst-across-much-of-us-during-past-40-years/?utm_source=HCN&utm_medium=email&utm_campaign=landline">increasing atmospheric thirst</a>, they can also cause <a href="https://climate.nasa.gov/news/2740/climate-change-may-lead-to-bigger-atmospheric-rivers/?utm_source=HCN&utm_medium=email&utm_campaign=landline">more intense — if less frequent — atmospheric rivers</a>, like the one that dumped its watery load on the Greater Yellowstone area in June.</p>
+          <p>The resulting downpour was accompanied by warm air, which rapidly melted a snowpack sitting on already saturated soils. The earth simply couldn’t absorb all of that moisture.   Debris flows careened down slopes, and streams and rivers were transformed into monstrous deluges that tore out entire bridges and devoured roads, cutting off communities, damaging at least 150 homes in Red Lodge and shutting down the Billings water treatment plant. The water left a trail of destruction well above the 100-year floodplain. It was, in fact, what laypeople call a 500-year flood, meaning that, according to the U.S. Geological Survey, <a href="https://www.usgs.gov/news/state-news-release/usgs-media-alert-usgs-crews-continue-measure-and-assess-yellowstone-river?utm_source=HCN&utm_medium=email&utm_campaign=landline">there is a 1 in 500 chance</a> of an event of this magnitude occurring during any given year.</p>
+          <p>While some portions of Yellowstone — including Old Faithful — were only closed for a week, other areas and entrances may remain closed for weeks or even months, <a href="https://wyofile.com/flood-fallout-already-devastating-tourism-in-mt-gateways/?utm_source=HCN&utm_medium=email&utm_campaign=landline">dealing a massive blow to the tourism industry</a> — and to the thousands of people living north of the park in Montana whose communities rely on the park for their livelihoods.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>49,400 cubic feet per second</h4>
+Peak level of the Yellowstone River in Corwin Springs, Montana, on June 13, about two and a half times greater than 24 hours earlier. (Source: U.S. Geological Survey)
+ </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>32,000 cubic feet per second</h4>
+Previous record high for that same river gauge, set in 1918. Similar levels were reached in 1996 and 1997. (Source: USGS)</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>10,000</h4>
+Approximate number of Yellowstone National Park visitors forced to evacuate due to the flooding. (Source: USGS)</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>2.9 million</h4>
+Number of people who visited Yellowstone last July, August and September. (Source: National Park Service)</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Meanwhile, as the skies opened up on the Northern Rockies, climate-related disasters of another sort plagued Alaska and the Southwest:</p>
+          <p><strong>Fires scorch tens of thousands of acres in Arizona.</strong> Even as Yellowstone was being swamped, the Pipeline Fire on Nuvatukaovi (Hopi) or Dookʼoʼoosłííd (Navajo) — the San Francisco Peaks — ripped through Arizona forests desiccated by the worst drought in 1,200 years. The blaze, which grew more than 25,000 acres in a few days, forced the evacuation of thousands of people and shut down the region’s major north-south artery. The Pipeline Fire and two smaller blazes nearby sent a massive plume of smoke northeastward, sullying skies as far away as Wyoming. A thick blanket of smoke settled in southwestern Colorado valleys, smothering mountains behind a yellowish-gray curtain and imbuing the day’s last light with an apocalyptic ochre hue.</p>
+          <p><strong>And Alaska burns, too.</strong> As of mid-June, some 55 active fires were burning across Alaska, most of them started by a series of thunderstorms that hurtled down an estimated 5,000 lightning strikes in the western part of the state. The East Fork Fire had grown to nearly 185,000 acres and threatened the Yup’ik village of St. Mary’s, forcing some residents to evacuate by boat and plane, while others stayed behind to keep the fire at bay, as <a href="https://www.npr.org/2022/06/13/1104449914/alaska-yupik-tundra-fire?utm_source=HCN&utm_medium=email&utm_campaign=landline">reported</a> by NPR’s Olivia Ebertz. Smoke from the fires reached all the way to southern Oregon.</p>
+          <p><strong>New Mexico’s record-breaking fires continue to grow.</strong> Amid all this, fires continued to ravage huge swaths of New Mexico. The Hermits Peak/Calf Canyon blaze is approaching 350,000 acres in size, and the Black Fire is almost that big — meaning that the two largest fires on record in the state are burning at the same time. The fires have destroyed hundreds of homes and upended countless lives, the smoke has made life miserable — and dangerous — for communities near and far, and three firefighters were injured, one seriously, when a helicopter dumped a load of water on them.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>3,150</h4>
+          Number of structures threatened by the Pipeline Fire in Arizona. As of June 17, two had been destroyed. (Source: Southwest Coordination Center)</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>903</h4>
+Number of structures destroyed by the Hermits Peak/Calf Canyon Fires in New Mexico as of June 17. More than 12,000 were threatened. (Source: SWCC)
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$234.6 million</h4>
+Estimated cost to fight the Hermits Peak/Calf Canyon Fires in New Mexico as of June 17. (Source: SWCC)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p><strong>A river in crisis.</strong> And then there’s the rapidly disappearing Colorado River, upon which 40 million people — and fish and ecosystems — rely. “What has been a slow-motion train wreck for 20 years is accelerating, and the moment of reckoning is near,” said John Entsminger, general manager of the Southern Nevada Water Authority, at a congressional hearing on the  ongoing megadrought. The people and industries that draw from the river are using more water than actually exists, meaning something’s gotta give, or, as Entsminger put it, the states must practice a “degree of demand management previously considered unattainable.” Which is to say: They — meaning <em>we</em>, if we live in the Southwest — have to use less water. <em>A lot less</em> water.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>16.5 million-acre feet</h4>
+          Amount of water allotted to the seven Colorado River Basin States and Mexico in the Colorado River Compact. This is at least 2-million-acre feet more than the average annual flows — and the river is shrinking. (Source: U.S Bureau of Reclamation)</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>2.8 million acre-feet</h4>
+Arizona’s full annual allotment of Colorado River water. (Source: AZwater.gov)
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>2-to-4-million acre-feet</h4>
+Amount by which Bureau of Reclamation Commissioner Camille Calimlim Touton says the states that rely on the Colorado River must cut their annual water consumption in coming years. (Source: U.S. Bureau of Reclamation)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>Some of you might be thinking: <em>That’s easy, just get rid of those ostentatiously wasteful Las Vegas fountains and golf courses and swimming pools!</em> Yeah, that would be nice, except it wouldn’t actually save that much. In Las Vegas, at least, the golf courses and giant fountains <a href="https://www.hcn.org/issues/46.1/the-vegas-paradox?utm_source=wc&utm_medium=email&utm_campaign=landline">mostly use reclaimed wastewater and “nuisance” groundwater</a>, meaning runoff from golf courses and the like that gets pumped out of parking garages. Collectively, the city’s resorts use only a fraction of Nevada’s relatively piddly allotment. Indeed, even if you emptied out Vegas and shut off the massive pumps pulling water from near the bottom of Lake Mead, you wouldn’t get close to hitting Touton’s goal.</p>
+          <p>The simple truth is that farmers, collectively, are the <a href="https://www.landdesk.org/p/data-dump-is-colorado-river-demand?utm_source=HCN&utm_medium=email&utm_campaign=landline">thirstiest Colorado River gulpers by far</a>. It’s no wonder then that Patrick O’Toole, a Wyoming rancher and president of the Family Farm Alliance, feels like he and his compatriots have a target painted on their backs. He warned that taking water off the farm will send food production overseas and devastate family farms, large and small. “I can tell you the stress our people are feeling, that’s unprecedented,” O’Toole told the congressional committee. “Our families are under attack.”</p>
+          <p>What he didn’t say is that a lot of those farmers aren’t raising food; they’re growing alfalfa and other hay crops, and an awful lot of that hay gets shipped overseas. But whether we’re talking about fields of alfalfa or potatoes being fallowed, real people will be forced to pay the price of a changing climate.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>300,000 acre-feet</h4>
+          Nevada’s entire annual allotment from the Colorado River, all of which goes to the Las Vegas area and is drawn from Lake Mead by massive intakes. That’s about half as much as is lost from Lake Mead to evaporation each year. (Source: Colorado River Commission of Nevada)</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>8 million acre-feet</h4>
+Approximate amount of Colorado River water consumed by agriculture each year. (Source: U.S. Bureau of Reclamation)
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$1 billion</h4>
+Approximate value of alfalfa hay U.S. farmers export to Saudi Arabia, China and Japan each year. (Source: Foreign Agricultural Service at the U.S. Department of Agriculture)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>Journalist Nick Mott, who lives in Livingston, Montana, less than a half mile from the Yellowstone River and experienced the flooding, wrote a powerful <a href="https://www.hcn.org/articles/yellowstone-area-flooding-upends-lives-and-portends-a-new-climate-reality?utm_source=wc&utm_medium=email&utm_campaign=landline">tale of disaster and resilience</a> for <em>High Country News</em>.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Some victims of climate change are too frequently overlooked: the unhoused people in scorching cities like Las Vegas and Phoenix, where summer high temperatures hit the triple digits almost daily. Last year, 339 people died of heat-related causes in Maricopa County, Arizona, home of Phoenix; 130 of them were unhoused. “If 130 homeless people were dying in any other way, it would be considered a mass casualty event,” Kristie L. Ebi, a professor of global health at the University of Washington, <a href="https://apnews.com/article/climate-science-health-and-environment-4f23d928ea637d239147c0e4adbad6dc?utm_source=HCN&utm_medium=email&utm_campaign=landline">told the Associated Press</a>.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>The Biden administration and five tribal nations have <a href="https://www.washingtonpost.com/climate-environment/2022/06/20/bears-ears-national-monument-tribes/?utm_source=HCN&utm_medium=email&utm_campaign=landline">reached a historic agreement</a> giving the tribes management powers over Bears Ears National Monument. When then-President Barack Obama established the 1.3-million-acre national monument in southeastern Utah in 2016, he built in a management role for a Bears Ears Commission, made up of one elected official from each of the five tribes: The Navajo Nation, the Ute Mountain Ute Tribe, the Hopi Tribe, the Ute Indian Tribe of the Uintah and Ouray Reservation and the Pueblo of Zuni. But when the Trump administration eviscerated the monument, it replaced the commission with a group of people, most of whom opposed to the monument in the first place. When Biden restored the national monument, he also brought back the original makeup of the commission.</p>
+          <p>“Today, instead of being removed from a landscape to make way for a public park, we are being invited back to our ancestral homelands to help repair them and plan for a resilient future,” Carleton Bowekaty, co-chair of the Bears Ears Commission and lieutenant governor of the Pueblo of Zuni, said in a statement.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Our readers have given us some great suggestions and advice for Jonathan’s Landline reporting trip, currently in progress. So far, Jonathan and his trusty Nissan Sentra steed have toured a disaster zone — er, an oil field — in northwestern New Mexico that could be the poster child for the plague of abandoned and orphaned wells, except that no one seems to want to admit that these facilities, many of which are not maintained and haven’t produced for years, are abandoned. Jonathan also headed up to Silverton, Colorado, to check out progress on the Gold King Mine and the associated Bonita Peak Superfund site. </p>
+          <p>Jonathan is documenting his trip, and among his collection is this quirky photo … which inspires our request for Landline readers this week:</p>
+            </mj-text>
+            <mj-text mj-class="body-text"><strong>Caption this!</strong></mj-text>
+        	<mj-image src="https://media.whatcounts.com/hcn/layout_images/landline_062322_caption.jpg" alt="A person's hand with an extended finger covered in oil from a pipe protruding from the ground"></mj-image>
+        	<mj-text mj-class="body-text">
+            <p>Meanwhile, as Jonathan continues westward, he’d love to hear more suggestions for places to see, news tips, advice and pointers on where to get the best green chile cheeseburgers.</p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email with your caption ideas to <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

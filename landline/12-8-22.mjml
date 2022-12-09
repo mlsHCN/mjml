@@ -1,0 +1,373 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 20px"></mj-class>
+      <mj-class name="pullout" padding="0px"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px" padding="10px 20px" container-background-color="#FAC1A8"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="credit-text" font-family="GT-America-Standard, Arial" align="right" font-size="10px" color="#A8A8A8" text-transform="uppercase" padding="0px 25px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: We’ve got thoughts on overpopulation
+</mj-title>
+    <mj-preview>Is overpopulation the environmental elephant in the room?&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">December 8, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Should we worry about 8 billion people?  </h1>
+          <h2>Breaking down population’s role in the environmental impact equation</h2>
+          <p>Last month, the United Nations <a href="https://reliefweb.int/report/world/world-population-prospects-2022-summary-results" target="_blank" rel="noopener">announced</a> that the Earth&rsquo;s population had reached 8 billion. The organization&rsquo;s leaders don&rsquo;t see all those humans as something to fear, but rather as, in the words of Secretary General Ant&oacute;nio Guterres, &ldquo;an occasion to celebrate diversity and advancements while considering humanity&rsquo;s shared responsibility for the planet.&rdquo;&nbsp;</p>
+<p>But judging from the letters I get after almost every environment-related piece I write, I suspect that some readers would disagree.&nbsp;</p>
+<p>&ldquo;I am an avid &lsquo;environmentalist,&rsquo;&rdquo; a reader recently wrote. &ldquo;Simple, plain truth fact: Whether it is climate change, wildlife habitat, immigration, and yes, even gun violence. We will NEVER make much progress &hellip; until we make significant gains in stabilizing and ultimately reducing the cancer of human population growth.&rdquo;&nbsp;</p>
+<p>This note echoes hundreds of other responses I&rsquo;ve received over the last couple decades. The basic idea is that all aspects of environmental degradation &mdash; along with traffic congestion and the housing crisis &mdash; are rooted in overpopulation. And, the argument goes, not mentioning this in environmental stories is irresponsible, verging on dishonest. &ldquo;Population growth is the environmentalists&rsquo; &lsquo;elephant in the room,&rsquo;&rdquo; another reader wrote. &ldquo;We ignore the issue at our peril.&rdquo;</p>
+<p>We at <em>Landline</em> would like to use the 8-billion benchmark as an opportunity to stop ignoring population. But, fair warning: You might not like what we have to say.&nbsp;</p>
+<p>No, I&rsquo;m not going to tell you to stop worrying about population growth. Even as the U.N. celebrates the advances in medicine and nutrition that make it possible for billions of people to exist on Earth, it acknowledges the <a href="https://www.latimes.com/world-nation/story/2022-11-15/world-earth-population-hits-8-billion" target="_blank" rel="noopener">challenges presented by rapidly growing numbers</a> in places like Nigeria. And no, I&rsquo;m not going to deride every overpopulationist as a <a href="https://www.theguardian.com/cities/2018/mar/19/overpopulation-cities-environment-developing-world-racist-paul-ehrlich" target="_blank" rel="noopener">racist </a>or eco-fascist or eugenicist. While it&rsquo;s true that fear of overpopulation is often used<a href="https://www.hcn.org/issues/52.4/west-obsessed-the-road-to-ecofascism-is-paved-with-green-intentions" target="_blank" rel="noopener"> to justify racism or eco-fascist views</a> or <a href="https://www.hcn.org/issues/50.14/letter-from-california-immigrants-arent-the-real-threat-to-public-lands" target="_blank" rel="noopener">xenophobia</a>, there are plenty of folks who are genuinely concerned about the planet&rsquo;s ability to sustain 8 billion people, no matter where or who or what color those people may be.</p>
+<p>But I will suggest that you&rsquo;re barking up the wrong tree.&nbsp;</p>
+<p>Most folks would agree that the real worry here is not the sheer numbers, but their collective impact on the environment. We &mdash; the planet&rsquo;s human inhabitants &mdash; are clearing land, leveling forests and mountains, mining and drilling minerals and burning fossil fuels in order to sustain ourselves and our lifestyles. That, in turn, is diminishing biodiversity, driving <a href="https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/conl.12868" target="_blank" rel="noopener">species to extinction</a> and stretching the planet&rsquo;s carrying capacity to a snapping point, thereby imperiling our own species&rsquo; survival. The problems are exacerbated as planet-warming greenhouse gas emissions soar, further diminishing freshwater stores and hurting food production.&nbsp;</p>
+<p>And the environmental impacts, put simply, are the product of population multiplied by per capita consumption. It would stand to reason that with every added unit of humanity comes a corresponding and proportional increase in environmental impact. The thing is, per capita consumption varies widely across the globe and the demographic spectrum, vastly outweighing simple population numbers in our impact equation.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>14</h4>
+Percent by which total global energy consumption has increased over the last decade.
+ </mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>11</h4>
+         Percent by which total global population increased during that same period.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>6</h4>
+Percent by which total global carbon emissions from energy use increased over the decade.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+      <p>That is to say, the affluent consume far more than everyone else and therefore have a <a href="https://www.nature.com/articles/s41467-020-16941-y" target="_blank" rel="noopener">much greater environmental impact</a>, throwing the aforementioned equation into disarray. The richest 10% of the globe&rsquo;s population are responsible for nearly half of all <a href="https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/file_attachments/mb-extreme-carbon-inequality-021215-en.pdf" target="_blank" rel="noopener">&ldquo;lifestyle consumption emissions,&rdquo;</a> according to Oxfam, while the poorest half is responsible for just 10% of those emissions. Another way to look at this is that each person at the top of the global wealth ladder <a href="https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2022-full-report.pdf" target="_blank" rel="noopener">emits about 10,625 metric tons of carbon</a> dioxide from energy use each year, while each of the globe&rsquo;s poorest 50% emits about 425 tons of CO2. That&rsquo;s because folks in the so-called &ldquo;developed&rdquo; world burn through a heck of a lot more fossil fuels, food, water, minerals, Big Macs &mdash; you name it &mdash; than those in less-affluent, rapidly growing regions.&nbsp;</p>
+<p>Increases in population still result in increases in overall environmental impact. But per capita consumption plays a far bigger role. It&rsquo;s runaway consumption, not unhindered population growth, that is most responsible for the habitat loss, land-use changes and resource exploitation that most threaten biodiversity and cause the runaway greenhouse gas emissions that are altering the climate.</p>
+    </mj-text>
+      </mj-column>
+    </mj-section>
+   <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>4.7 billion</h4>
+Metric tons of carbon dioxide emitted from energy use in the United States in 2021.
+ </mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>3.8 billion</h4>
+         Metric tons of carbon dioxide emitted by Europe energy use in 2021.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>1.3 billion</h4>
+Metric tons of carbon dioxide emitted by Africa from energy use in 2021.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+      <p>This equation &mdash; combined with the disproportional influence of consumption over sheer population numbers &mdash; holds true even at a regional level.&nbsp;</p>
+<p>Perhaps the most prominent example of a system in the West that has exceeded the carrying capacity is the Colorado River. The population has dramatically increased in the seven Colorado River Basin states over the last few decades. And, during that same time, demand for the river&rsquo;s water has come to vastly exceed the supply.&nbsp;</p>
+<p>At first glance, it would appear that a larger population has resulted in greater consumption, thereby draining the reservoirs. But the data doesn&rsquo;t back this up. While Colorado River consumption climbed along with population for decades after the Colorado River Compact was signed a century ago, that demand <a href="https://www.inkstain.net/2022/08/how-we-got-into-this-mess-on-the-colorado-river/" target="_blank" rel="noopener">leveled</a> over the last couple of decades, even as the population exploded. Yes, consumptive use of the Colorado River&rsquo;s waters <a href="http://www.apple.com" target="_blank" rel="noopener">held steady or even dropped</a> as the population climbed, as counterintuitive as that may seem.</p>
+    </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>750,000</h4>
+Amount by which the Las Vegas metro area population increased between 2002 and 2021.
+ </mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>26 billion gallons</h4>
+         Amount by which the Las Vegas metro area <a href="https://www.lvvwd.com/conservation/measures/index.html" target="_blank" rel="noopener">overall water use decreased</a> during that same period.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>500,000 acre-feet</h4>
+Estimated <a href="https://www.landdesk.org/p/data-mega-dump-alfalfa-part-ii" target="_blank" rel="noopener">amount</a> of Colorado River water used to irrigate alfalfa fields in a single California irrigation district per year, or nearly twice the Las Vegas area&rsquo;s total annual consumption.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+      <p>Meanwhile, the West&rsquo;s wealthiest <a href="https://lasvegassun.com/news/2019/sep/22/las-vegas-water-use-dropped-prominent-residents/" target="_blank" rel="noopener">guzzle more and more water</a> and energy and resources with every new pile of cash (or cryptocurrency or stocks or yachts) they amass, from the Kardashians using <a href="https://www.latimes.com/california/story/2022-08-22/kim-kardashian-kevin-hart-california-drought-water-waste" target="_blank" rel="noopener">hundreds of thousands of gallons of water</a> per month to keep their Los Angeles-area estate verdant during the most severe drought in 1,200 years, to Drake <a href="https://www.theguardian.com/environment/2022/jul/29/drake-defends-short-private-jet-flights" target="_blank" rel="noopener">burning through jet fuel</a> to take a 14-minute trip in his custom 767, to an LA mansion <a href="https://www.latimes.com/california/story/2022-09-30/cost-electric-utility-bill-la-biggest-house-heat-wave" target="_blank" rel="noopener">with a $50,000 monthly electricity bill.</a> Yes, $50k for electricity to keep the monstrosity&rsquo;s 105,000 square feet, or <a href="https://shrinkthatfootprint.com/how-big-is-a-house/" target="_blank" rel="noopener">217 average-sized Hong Kong homes</a>, cool during the increasingly hot California summers.</p>
+<p>It&rsquo;s not just the billionaires. Americans in general tend to favor relatively <a href="https://www.consumerreports.org/car-safety/the-hidden-dangers-of-big-trucks/" target="_blank" rel="noopener">giant automobiles</a> and lawns and houses &mdash; the <a href="https://www.visualcapitalist.com/cp/average-home-size-every-american-state-2022/#:~:text=Over%20the%20last%20century,%20the,up%20to%202,480%20square%20feet." target="_blank" rel="noopener">average home size</a> in Colorado Springs is almost 2,800 square feet. These, in turn, require more energy, wider roads, more water and lead to residential sprawl, which gobbles up farmland and open space and wildlife habitat. Bigger physical footprints almost always have bigger environmental footprints.</p>
+<p>This isn&rsquo;t the result of 8 billion people on the planet or cross-border immigration. It&rsquo;s the natural outcome of the dominant culture, which values affluence, economic growth and corporate profit above all else. It&rsquo;s societal greed and an emptiness that always yearns for more, in part because corporate <a href="https://usa.streetsblog.org/2022/05/25/opinion-now-detroit-is-selling-75k-pickup-trucks-for-the-cappuccino-run/" target="_blank" rel="noopener">marketing schemes</a> have convinced us that the more we accumulate, the happier we are. But Americans don&rsquo;t have the highest quality of life, they just lead the most profligate lives, <a href="https://www.epa.gov/system/files/documents/2021-11/from-farm-to-kitchen-the-environmental-impacts-of-u.s.-food-waste_508-tagged.pdf" target="_blank" rel="noopener">throwing away enough food</a> each year, for example, to feed an entire nation.</p>
+    </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>161 to 335 billion tons</h4>
+Estimated amount of food wasted in the U.S. supply chain each year, which amounts to as much as 1,032 pounds per person.
+ </mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>140 million</h4>Acres of land required to grow food that is wasted each year in the U.S.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text mj-class="pullout-text">
+          <h4>5.9 trillion</h4>Gallons of water used to grow food that is wasted each year in the U.S.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+      <p>Trying to control the population &mdash; whatever that might look like &mdash; isn&rsquo;t going to solve those problems. Only a rejiggering of the system, a suppression of the collective capitalist appetite, a debunking of the belief that all growth is good and that more is more, will right the sinking ship we&rsquo;re on.&nbsp;</p>
+<p>As for the 8 billion, most experts say the best way to stabilize the global population is to <a href="https://populationconnection.org/why-population/girls-and-womens-empowerment/" target="_blank" rel="noopener">empower and educate women</a>, increase <a href="https://drawdown.org/solutions/family-planning-and-education" target="_blank" rel="noopener">access to birth control</a>, ensure that women have <a href="https://populationfoundation.in/who-we-are/#OurPeople3" target="_blank" rel="noopener">reproductive freedom</a> and tackle wealth inequality.&nbsp;</p>
+<p>Meanwhile, policymakers and thinkers and environmentalists should focus more on reducing consumption and changing what is consumed, especially by the affluent. Because when it comes to the environment, that&rsquo;s the real elephant weighing down the planet.</p>
+    </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>The <em>Washington Post</em>&rsquo;s Dan Michalski&nbsp;<a href="https://www.washingtonpost.com/climate-environmnet/2022/11/30/avi-kwa-ame-monument-nevada/" target="_blank" rel="noopener">reported last week</a>&nbsp;that the Biden administration plans to establish the&nbsp;<a href="https://honorspiritmountain.org/" target="_blank" rel="noopener">Avi Kwa Ame National Monument</a>&nbsp;on 450,000 acres of Mojave Desert in southern Nevada. The land flows out from Avi Kwa Ame, or Spirit Mountain, and is held sacred by Yuman-speaking tribes as well as the Hopi and Chemehuevi Paiute people. It is home to desert bighorns&nbsp;and Gila monsters and desert tortoises and brilliant wildflowers and, of course, thousands of big anthropoid Joshua trees gesturing at the wide-open sky. And it has been targeted for utility-scale wind and solar power development in the past, as well as for mining. A national monument designation would put the federal land off-limits to new mining claims and energy leases. | <strong><em>Washington Post</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>For <em>ICT</em> and <em>Center for Public Integrity</em>, Yvette Cabrera writes a moving story about Earl Tulley, a Din&eacute; environmentalist who has spent much of his life advocating for victims of uranium mining and milling on and around the Navajo Nation. And about how Tulley himself was stricken by lymphoma, but continues his fight to clean up the legacy of the Cold War. We liked the story so much, <a href="https://www.hcn.org/articles/pollution-radioactive-waste-sickened-his-community-then-it-caught-up-with-him" target="_blank" rel="noopener">we republished it for our readers here</a>. | <strong><em>ICT, Center for Public Integrity</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p><em>High Country News&rsquo;</em> Kylie Mohr accompanied scientists in Montana&rsquo;s mountains in search of &hellip;  glacial blood? Yes, that&rsquo;s one name given to algal blooms on snow, which has a pink hue. The algae reduces the snow&rsquo;s albedo &mdash; or reflectivity &mdash; thereby causing it to absorb more heat from the sun and melt more quickly. Mohr <a href="https://www.hcn.org/issues/54.12/north-water-pink-snow-is-a-red-flag-for-the-wests-water" target="_blank" rel="noopener">tells a fascinating story</a> about how scientists hope to learn more about the algae&rsquo;s role as the climate changes. | <strong><em>High Country News</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Your news tips, comments, ideas and feedback are appreciated and often shared. Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-11-24-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

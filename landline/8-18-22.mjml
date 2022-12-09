@@ -1,0 +1,308 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The climate bill’s blind spot
+</mj-title>
+    <mj-preview>A closer look at the good and the bad at specific provisions in the historic climate bill, the Inflation Reduction Act. &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">August 18, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Carbon tunnel vision</h1>
+          <h2>The climate bill is historic and worth celebrating — but its drawbacks must be acknowledged</h2>
+          <p><span class="dropCap">O</span>n Aug. 7, when the U.S. Senate finally passed its landmark climate bill, the Inflation Reduction Act of 2022, the environmental community’s initial reaction was a burst of elation, a sense of unbridled joy that Congress — a powerful yet dysfunctional, do-nothing institution — would actually take meaningful action on climate change.</p>
+<p>There is plenty in the 755-page bill for climate hawks to celebrate, including $369 billion for wind and solar tax credits, clean energy innovation, electric vehicle incentives and methane leak mitigation. But there’s also a buzzkill or two, with page 669 receiving the most ire: Before the federal government can issue a renewable energy right of way on public lands, it must offer at least 2 million acres per year for onshore oil and gas leasing. While the concession was necessary to get Sen. Joe Manchin, D-W.V., on board, it also directly contradicted the bill’s myriad emissions-cutting measures.</p>
+<p>And so, the initial love fest quickly devolved into a cacophony of <a href="https://www.hcn.org/articles/analysis-climate-change-climate-game-changer-or-suicide-pact?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">wildly divergent takes</a> from across the climate advocacy spectrum. To some, like the analysts at the independent research organization Rhodium Group, the bill is a “game changer for U.S. decarbonization.” To others, such as Brett Hartl of the Center for Biological Diversity, it’s a “climate suicide pact.” And still other environmentalists fall somewhere in between.</p>
+          <p>But the debate over whether the bill will be good or not so good for the climate threatens to give us a case of carbon tunnel vision. By focusing exclusively on the climate impacts of a given policy or technology, one can overlook its on-the-ground effects on frontline communities and be blinded to the possible impacts on human rights and social justice as well as on ecosystems and public lands.</p>
+          <p>Now that the Inflation Reduction Act is law, it seems like a good time for even its most ardent supporters to step back and acknowledge its drawbacks, if for no other reason than to be ready to mitigate them when they begin to play out in the Western U.S. This is by no means a comprehensive list.</p>
+          <p><strong>The oil and gas leasing requirement</strong></p>
+          <ul>
+            <li>The Good: But it’s not as bad as it sounds. The administration must only offer 2 million acres for lease. Over the past couple of decades, the government has put an average of 4.1 million acres per year on the auction block, yet oil companies have only bid on about one-fourth of them. So this does not represent an escalation of leasing or fossil fuel extraction. Also, its impacts should be offset by hikes on oil and gas royalties, minimum leasing bid amounts, and the rent oil and gas companies pay to sit on leases without drilling them. Plus, the bill ends noncompetitive leasing and charges companies to nominate land for leasing.</li>
+            <li>The Bad: This makes it virtually impossible for the Interior Department to impose a leasing pause or ban.</li>
+          </ul>
+          <p><strong>Substantial increases in tax credits for carbon capture</strong></p>
+          <ul>
+            <li>The Good: It further incentivizes hard-to-decarbonize industries like cement manufacturing to install expensive equipment to capture emissions and pump them underground.</li>
+            <li>The Bad: It could keep coal power plants operating that would <a href="https://www.hcn.org/articles/energy-industry-will-carbon-capture-help-clean-new-mexicos-power-or-delay-its-transition?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">otherwise shut down</a> due to bad economics. Even if the carbon capture equipment were to reduce carbon dioxide emissions nearly to zero — <a href="https://ieefa.org/resources/carbon-captures-methane-problem?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">which is highly unlikely</a> — the plant would continue to burn coal, produce toxic coal combustion waste and spew harmful air pollution, all to the detriment of nearby communities. And the subsidies are paid even when the carbon is pumped into old oil fields to stimulate production.</li>
+          </ul>
+          <p><strong>Oil and gas companies will be charged up to $1,500 for every ton of methane they emit </strong></p>
+          <ul>
+            <li>The Good: It provides a hefty incentive for oil and gas companies to plug leaks and curb other emissions of methane and associated volatile organic compounds. It’s the federal government’s first-ever fee or tax on greenhouse gas emissions. The bill also requires oil and gas producers to pay royalties on all methane extracted from a well, not just on what is sold. </li>
+            <li>The Bad: The fee applies only to big producers that emit 25,000 metric tons of carbon dioxide equivalent or more per year, or an <a href="https://crsreports.congress.gov/product/pdf/R/R47206?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">estimated 40% of the industry’s emissions</a>. That leaves out thousands of oil and gas wells and other infrastructure owned by smaller operators, many of which leak methane and other harmful compounds and are located in or near underserved communities.</li>
+          </ul>
+          <p><strong>$7,500 credit for new electric vehicle purchases + tax break for “critical minerals” mining</strong></p>
+          <ul>
+            <li>The Good: It will make it a little bit easier for folks to ditch those dirty old internal combustion engines and buy more efficient, cleaner EVs. There’s also a $4,000 credit for buying used clean vehicles.</li>
+            <li>The Bad: The EV credit doesn’t extend to electric bicycles (or non-electric bikes, for that matter). Far more concerning is the requirement that a set percentage of the materials in the vehicles’ batteries be sourced domestically in order for the credit to apply. That will put pressure on companies to develop more <a href="https://www.hcn.org/issues/54.2/infographic-energy-industry-electric-vehicles-drive-up-demand-for-green-metals?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">“green metal” mines</a> in the West and encourage the government to expedite mining permits, while a 10% tax-break for lithium, cobalt and nickel production will incentivize those projects. Already several public-lands lithium projects are encroaching on Indigenous homelands in Nevada and Arizona. The Build Back Better Act would have included mining law reform to mitigate some of the impact; the Inflation Reduction Act does not.</li>
+          </ul>
+          <p><strong>A substantial tax credit for “clean hydrogen” production</strong></p>
+          <ul>
+            <li>The Good: Hydrogen is a clean-burning fuel that can be used for trains, planes, automobiles, industry and to generate electricity. It can be expensive to produce; this will help.</li>
+            <li>The Bad: <a href="https://www.hcn.org/issues/54.7/energy-industry-the-hydrogen-blues-and-greens-and-grays?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">Hydrogen production comes in different “colors.”</a> The credit would not only go to green hydrogen production (which uses renewable energy to extract the hydrogen from water), but also pink hydrogen (which uses nuclear power to extract it from water) and blue hydrogen (which extracts hydrogen from methane, using carbon capture to reduce emissions). So it would not only support nuclear power, but also methane — or natural gas — extraction, which affects frontline communities.</li>
+          </ul>
+          <p><strong>$30 billion in tax credits for existing nuclear reactors to prevent them from closing + $700 million for U.S. uranium fuel production</strong></p>
+          <ul>
+            <li>The Good: When a nuclear reactor — which generates electricity emissions-free — shuts down, utilities tend to compensate for the lost power by burning more natural gas or even coal, thereby increasing emissions. Keeping existing plants running can <a href="https://www.hcn.org/issues/50.21/nuclear-energy-a-new-generation-of-environmentalists-is-learning-to-stop-worrying-and-love-nuclear-power?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">avoid those added greenhouse gases</a>.</li>
+            <li>The Bad: Nuclear power proponents may be more deeply afflicted by carbon tunnel vision than any other climate advocacy group. They routinely discount the problems with radioactive waste, they scoff at the possibility of a meltdown or some other accident and, most egregious in my opinion, they completely ignore the damage the uranium mining and milling industry has already done to Western landscapes and communities, especially Indigenous communities.</li>
+          </ul>
+          <p>Still, taking the good and the bad together, this is a truly historic piece of legislation. The first and last time Congress actually did anything about climate, as far as I can tell, was in 1979, when a few lines were included in the massive, fossil fuel-friendly Energy Security Act, calling for a study of carbon dioxide emissions and their effects on the climate. The National Research Council completed its <em>Changing Climate</em> report in 1983, concluding that continuing to pump carbon into the atmosphere via fossil fuel combustion would cause global warming.</p>
+          <p>But science was not enough for Congress, which did nothing. So the legendary astronomer and planetary scientist Carl Sagan was brought in to testify. He patiently explained the greenhouse effect to a rapt bipartisan audience, and calmly implored them to act: “There is a tendency to say it’s not our problem,” he said, “but if you don’t worry about it now, it’s too late later on.” Did Congress listen? Nope. Well, a few people did: In the ensuing decades, Democratic lawmakers, and even a Republican or two, introduced climate bill after bill, each employing a different strategy to cut greenhouse gas emissions. They all flopped.</p>
+          <p>When the Build Back Better legislation failed to garner enough support, even as climate change-exacerbated heat waves and floods and fires ravaged the West, it seemed as if the run of congressional climate failure would continue for another 37 years. But then, at last, Manchin came around. The result is far from perfect, but it’s something, and, perhaps, it’s only the beginning of a great deal more.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>In June, Bureau of Reclamation Commissioner Camille Calimlim Touton called on the seven Colorado River Basin states to figure out how to cut 2 million to 4 million acre-feet of water consumption (and that’s a lot!) within 60 days to keep the whole system from collapsing. Well, the deadline has passed, and the states still haven’t reached a deal. Far from it. The Upper Basin states (Colorado, Utah and Wyoming) have basically taken a pass, saying they’ve reduced consumption enough, already. Utah even has plans to suck more water out of the system with it- proposed Lake Powell Pipeline. California has offered up about 500,000-acre feet of cuts, which just won’t cut it. So, on Aug. 16, the feds dipped their toes into the rapidly diminishing waters, so to speak, stopping well short of draconian cutbacks and saying they’d continue to work with the states. Ian James, of the <em>Los Angeles Times</em>, <a href="https://www.latimes.com/environment/story/2022-08-15/tensions-grow-in-colorado-river-negotiations?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">reports</a> on the states’ stalemate and on how federal mandates could get messy. But some help is on the way: The Inflation Reduction Act authorizes spending $4 billion on drought mitigation efforts, including paying farmers to stop irrigating. Since agriculture accounts for about 80% of the consumptive use of the Colorado River, that could go a long way. | <strong><em>Los Angeles Times</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>First came the fire, then the floods — flash floods, that is, along with river-choking, silt-filled debris flows. <em>High Country News</em>’ B. Toastie <a href="https://www.hcn.org/articles/wildfire-kills-klamath-fish-everything-thats-in-there-is-dead?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">reports on the McKinney Fire</a> in Northern California and the torrential rains that helped firefighters control the blaze but ultimately killed thousands of fish in the drought-plagued Klamath River. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>After a global mining corporation took control of a consortium of Nevada operations, workers noticed a swift change in the company culture, which came to prioritize production and profit over safety. Nick Bowlin of <em>High Country News</em> and the <em>Nevada Independent</em>’s Daniel Rothberg continue their <a href="https://www.hcn.org/articles/south-mining-workers-report-feeling-unsafe-at-nevadas-largest-gold-mining-corporation?utm_source=wc&utm_medium=email&utm_campaign=landline" target="_blank">deep-dive investigation</a> into Nevada Gold Mines and its operator, Barrick Gold Corp. | <strong><em>High Country News</em> in partnership with <em>The Nevada Independent</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>In 2016, the Obama administration suspended all coal leasing on federal lands over climate concerns. A year later, the Trump administration — hell-bent on achieving its elusive goal of “energy dominance” — rescinded the moratorium. But last Friday, a federal judge brought the coal-leasing ban <a href="https://apnews.com/article/donald-trump-barack-obama-rising-sea-levels-billings-bb02e2fc9753d5bfd71533b963039868?utm_source=HCN&utm_medium=email&utm_campaign=landline" target="_blank">back</a>. He also required the Interior Department to redo an environmental review, this time considering climate impacts, before selling any more coal mining rights. | <strong><em>Associated Press</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>The states that rely on the Colorado River just blew past the Bureau of Reclamation’s deadline for them to produce plans to drastically reduce their water consumption. <strong>What do you think should be done to cut water use and save the Colorado River?</strong></p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

@@ -1,0 +1,280 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: Will the Supreme Court gut the Clean Water Act?
+</mj-title>
+    <mj-preview>The justices could remove federal protection from 80% of the Southwest’s streams.&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">September 29, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Western arroyos go on trial</h1>
+          <h2>The Supreme Court is expected to define waters of the United States — with potentially huge implications for the Southwest’s streams.</h2>
+          <p>If you want to cross the Rillito River in Tucson, Arizona, anytime between October and July, you probably won&rsquo;t need a boat, a bridge, waders or even waterproof shoes. During most of the year, the river is an arroyo, a curvy strip of dry sand that holds no more than the memory of water: braided serpentine patterns in the sand, erosion-smoothed stones, debris wrapped around the trunks of the few hardy deciduous trees.&nbsp;</p>
+<p>But when the Rillito springs to life, as it did on multiple occasions this summer, it becomes a river like any other, swelling up to <a href="https://waterdata.usgs.gov/nwis/uv?cb_00060=on&amp;cb_00065=on&amp;format=gif_default&amp;site_no=09485700&amp;period=&amp;begin_date=2022-06-01&amp;end_date=2022-09-25" target="_blank" rel="noopener">5,000 cubic feet per second</a> or more, and rivaling the Southwest&rsquo;s largest, fastest streams. The river carries silt and stones and seeds, chunks of wood and leaves, bugs and animal carcasses, not to mention all the garbage and whatever else has been dumped into the arroyo, tumbling all the way down to the Santa Cruz River. Folks have been known to kayak the Rillito in waters so tempestuous that helicopters are occasionally needed to <a href="https://www.kvoa.com/weather/4warn-monsoon/video-kayaker-rescued-after-getting-stuck-in-rillito-river/article_e578d06e-1d58-5517-9d3c-6caf703e41e3.html?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">rescue</a> them.&nbsp;</p>
+<p>On Oct. 3, the Rillito River and thousands of other ephemeral or intermittent rivers, streams, arroyos, gullies, wetlands, marshes and prairie potholes are going to court &mdash; the Supreme Court. The justices will hear <a href="https://www.scotusblog.com/case-files/cases/sackett-v-environmental-protection-agency/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener"><em>Sackett vs. Environmental Protection Agency</em></a><em>,</em> and their decision could yank many of the Southwest&rsquo;s waterways out from under federal jurisdiction, ripping the guts out of the Clean Water Act just in time for its 50th birthday this year.&nbsp;</p>
+<p>The specific case dates back to 2007, when EPA officials ordered Chantell and Michael Sackett to stop backfilling their soggy half-acre lot on the shores of Idaho&rsquo;s Priest Lake, where they wanted to build a cabin. The EPA had determined the wetlands were &ldquo;waters of the United States,&rdquo; or WOTUS, and therefore protected by the Clean Water Act. The Sacketts disagreed and took the feds to court. As the case wound its way through the legal system, the Sacketts&rsquo; cabin site transformed into the front line of a 50-year ideological battle over the definition of what constitutes legally decreed &ldquo;waters.&rdquo; The court&rsquo;s decision &mdash; expected early next year &mdash; will have especially weighty implications for the arid West.&nbsp;</p>
+<p>For years, the Environmental Protection Agency and the U.S. Army Corps of Engineers &mdash; the agencies charged with enforcing the Clean Water Act &mdash; agreed that everything from arroyos to prairie potholes to sloughs to mudflats fell under the heading of WOTUS, as long as their destruction or degradation might ultimately affect the nation&rsquo;s traditionally navigable waters. It was a broad definition, and it gave the agencies latitude to &ldquo;restore and maintain the chemical, physical, and biological integrity of the Nation&rsquo;s waters,&rdquo; as Congress mandated when it passed the Clean Water Act in 1972.</p>
+<p>But developers, big agriculture, extractive industries and private property-rights ideologues have long pushed back, arguing that the definition is <em>too</em> broad.</p>
+<p><a href="https://www.hcn.org/articles/water-the-supreme-court-is-set-to-weigh-in-on-the-clean-water-acts-reach?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">SCOTUS has considered WOTUS</a> a handful of times over the decades, tinkering with the definition in ways that have sometimes only further muddied the waters. The EPAs of various presidential administrations made their own adjustments based on their political leanings: Industry-friendly folks tended to exclude as much as they possibly could, while greener ones took a more inclusive tack.</p>
+<p>Then, in 2006, the High Court handed down a divided, albeit landmark, decision in the <em>Rapanos v. United States</em>&nbsp;case, which started in 1989, when a Michigan developer drained and backfilled 22 acres of wetlands to build a shopping mall. He never applied for a permit and ignored federal and state officials&rsquo; cease-and-desist orders, arguing that the wetlands were immune from the Clean Water Act because they were not traditionally navigable waters.&nbsp;</p>
+<p>The High Court&rsquo;s 4-1-4 decision remanded the case back to the Appeals Court, so was not in itself definitive. But the late Justice Antonin Scalia&rsquo;s plurality opinion sent ripples throughout the water world. He wrote that it was &ldquo;beyond parody&rdquo; to include &ldquo;&lsquo;ephemeral streams,&rsquo; &lsquo;wet meadows&rsquo; &hellip; and dry arroyos in the middle of the desert&rdquo; under &ldquo;waters of the United States.&rdquo; He argued that WOTUS should only include &ldquo;geographic features that are described in ordinary parlance as streams, oceans, rivers, and lakes.&rdquo;&nbsp;&nbsp;</p>
+<p>Scalia&rsquo;s opinion not only confirmed his partiality towards the agriculture industry and real estate developers, many of who would gladly do away with the Clean Water Act altogether, but also his hostility toward what he called the &ldquo;immense arid wastelands&rdquo; of the Western U.S. His pronouncement was interpreted as meaning that scores of Southwestern rivers, streams and arroyos were not worthy of protection, even if they were as important to the communities and landscapes through which they ran as the mighty rivers of the Midwest or Northwest.&nbsp;&nbsp;</p>
+<p>Justice Anthony Kennedy worried that Scalia&rsquo;s arroyo-phobic definition would leave even major tributaries of the Los Angeles River without protection. He argued that a body of water needed only a &ldquo;significant nexus&rdquo; with a navigable stream to put it under federal jurisdiction. Justice John Paul Stevens noted&nbsp;that Scalia&rsquo;s interpretation would allow agencies to&nbsp;go after polluters that damaged year-round streams. But any polluter who dumped into such a stream&rsquo;s tributary&mdash; one that flowed only 290 days of the year, say &mdash; would get off scot-free, even if the pollution would affect the year-round stream equally.&nbsp;&nbsp;</p>
+<p>Still, the anti-regulation crowd took Scalia&rsquo;s definition and ran with it. George W. Bush&rsquo;s EPA issued a rule excluding most ephemeral streams and isolated wetlands. The Obama administration later replaced it with a broader rule, but in 2020, the Trump administration released <a href="https://eelp.law.harvard.edu/2019/10/section-401-water-quality-certification/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">its own rule</a>, which reverted to Scalia&rsquo;s reading of WOTUS. Most significantly, it excluded ephemeral features, such as arroyos that &ldquo;contain water only during or in response to rainfall,&rdquo; as well as isolated wetlands and groundwater &mdash; thereby removing up to 94% of Arizona&rsquo;s and 66% of California&rsquo;s streams and rivers from federal oversight. Now the Biden administration is working on <a href="https://www.epa.gov/wotus/current-implementation-waters-united-states?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">a new rule</a> to replace Trump&rsquo;s, even as the court decision looms.&nbsp;&nbsp;</p>
+<p>The plaintiffs in&nbsp;<em>Sackett</em>, represented by the far-right <a href="https://pacificlegal.org/case/sackett-v-environmental-protection-agency/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">Pacific Legal Institute</a>, want Scalia&rsquo;s definition to be set in stone, leaving it up to the states to decide whether to stop industry and developers like the Sacketts from dredging, filling and polluting arroyos and wetlands. Given the Supreme Court&rsquo;s recent rulings, there&rsquo;s a good chance it will follow Scalia&rsquo;s lead &mdash; and maybe even go further. That kind of ruling would make it far easier to build the sprawling housing developments planned for the Arizona desert, such as <a href="https://www.superstition-vistas.org/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">Superstition Vistas</a> outside of Phoenix or the <a href="https://extension.arizona.edu/sites/extension.arizona.edu/files/attachment/nrulpc-the-water-report-196.pdf" target="_blank" rel="noopener">Villages at Vigneto</a> in the southeastern corner of the state, allowing developers to fill in or pave over arroyos, gullies and washes without even bothering to apply for a permit.&nbsp;</p>
+<p>From the <a href="https://trout.maps.arcgis.com/apps/webappviewer/index.html?id=fccd9286c4b94da78cfbdb4f3298c1e6&amp;extent=-17831122.2915,10393496.0445,-7264467.5014,17829290.1561,102100" target="_blank" rel="noopener">air</a>, the arroyo networks of the West resemble circulatory systems, with tiny capillaries leading to veins and arteries, and all of it <a href="https://www.epa.gov/sites/default/files/2015-03/documents/ephemeral_streams_report_final_508-kepner.pdf" target="_blank" rel="noopener">carrying lifeblood</a> to the great body of the desert, even when they are temporarily dry. After the rains, the Rillito carries water and nutrients and elements through a riverside park in northern Tucson to the Santa Cruz River. The Santa Cruz, which drains 8,200 square miles in Arizona and Mexico, was once a <a href="http://repository.azgs.az.gov/sites/default/files/dlio/files/nid824/ofr-99-13_santa_cruz_river.pdf" target="_blank" rel="noopener">year-round stream</a>, the land along its banks lush and shaded by towering leafy trees and mesquite forests, the waters sustaining the Hohokam people for millennia. Then the white settlers arrived, drilled groundwater wells and bled the river dry. Now, the often-dusty arroyo no longer makes it to its mother river, the Gila, thanks to all the diversions and development and depleted aquifers.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>The salmon of the Klamath River are in crisis. Dams and irrigation diversions have diminished and altered the river, climate change has warmed its waters and fostered diseases, and this summer, debris flows from wildfire scars choked the river and its salmon with thick sediment and soot. The situation is so dire, <a href="https://www.hcn.org/articles/indigenous-affairs-fish-salmon-are-nosing-at-the-riverbanks-trying-to-escape-the-klamath-river?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">writes B. Toastie for <em>High Country News</em></a>, that in some cases the fish have even tried to escape from the river. The good news is that federal regulators recently gave the greenlight to remove four dams over the next two years. That should substantially improve the river&rsquo;s health and the salmon&rsquo;s prospects. The question is whether it will happen soon enough. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>And from the vicious-cycle department: It&rsquo;s become clear in recent years that wildfires are burning at higher elevations due to climate change-exacerbated drought and warmer temperatures. Researchers are now finding that the snow in those wildfire scars is <a href="https://www.hcn.org/articles/north-wildfire-wildfires-are-burning-away-the-wests-snow?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">melting 18 to 24 days earlier</a> than average, which affects water supplies downstream. <em>HCN</em>&rsquo;s Kylie Mohr reports on the new study. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>A century after the states in the Colorado River Basin excluded the most senior water-rights holders, tribal nations, from negotiations to divvy up the river, six tribes and four states are <a href="https://www.watereducationcolorado.org/fresh-water-news/tribal-breakthrough-four-states-six-tribes-announce-first-formal-talks-on-colorado-river-negotiating-authority/?utm_source=HCN&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank" rel="noopener">sitting down at the water-negotiation table</a>. Jerd Smith of <em>Fresh Water News</em> reports that about 60% of the water the tribes legally possess has never been developed or integrated into the region&rsquo;s hierarchy of water rights. &ldquo;The policy process has been left up to the seven basin states and the federal government,&rdquo; Jicarilla Apache Nation Water Administrator Daryl Vigyl told a conference in Colorado this month. &ldquo;We want to speak on behalf of our own water.&rdquo; | <strong><em>Fresh Water News</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Tell us about your favorite arroyo or intermittent or ephemeral stream. What makes it special? Poetry and haikus welcome and encouraged.</p>
+          <p>Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/Bistiwaterway_1200.jpg"></mj-image>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="16px" line-height="20px"><em>An arroyo in the Bisti/De-Na-Zin Wilderness Area in northwestern New Mexico, where water and wind have worn away the terrestrial vestments, laying bare the geological soul of the landscape and sculpting it into Dali-esque forms.</em> | <em>Photo by Jonathan Thompson</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+  </mj-body>
+  <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+</mjml>

@@ -1,0 +1,289 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="credit-text" font-family="GT-America-Standard, Arial" align="right" font-size="10px" color="#A8A8A8" text-transform="uppercase" padding="0px 25px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: Not In My Bighorn’s Backyard
+</mj-title>
+    <mj-preview>Endangered species pitted against each other in Vail.&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">November 10, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Bighorn-lovers butt heads with Vail Resorts’ affordable housing</h1>
+          <h2>The ski industry giant wants to build workforce housing in wild sheep habitat.</h2>
+          <p>These are rough times for the world&rsquo;s wildlife and its habitat. The latest <a href="https://livingplanetindex.org/latest_results" target="_blank" rel="noopener">Living Planet Index</a> shows that over the last couple of decades the number of North American vertebrate species and their populations are in decline. And according to <a href="https://www.stateofthebirds.org/2022/western-forest-birds/" target="_blank" rel="noopener">State of the Birds 2022</a>, our feathered friends aren&rsquo;t faring so well, either: Tipping point species such as the once-abundant <a href="https://www.hcn.org/articles/climate-desk-birds-the-pinyon-jays-predicament" target="_blank" rel="noopener">pi&ntilde;on jay</a> and rufous hummingbird have lost half of their Western populations since the 1970s, mostly thanks to habitat loss.</p>
+<p>Of the many troubled species, perhaps one of the most beleaguered in the West is the bighorn sheep. Their numbers have declined substantially over the past century and a half, as they&rsquo;ve succumbed to disease, hunting, dried-up watering holes, backcountry recreation and &hellip; affordable housing?</p>
+<p>It&rsquo;s beginning to look that way.</p>
+<p>Vail Resorts wants to build workforce-housing in the upscale Colorado ski town. But there&rsquo;s one problem: The five-acre parcel happens to be on the edge of the local bighorn herd&rsquo;s winter range. Concerned residents have teamed up with the town of Vail to block the development in the name of the herd, sparking a years-long battle that is now headed for court. And so it is that two of the Mountain West&rsquo;s most hard-pressed species &mdash; the bighorn, whose habitat has been industrialized, and the service worker who can&rsquo;t afford a home &mdash;&nbsp; are unwittingly pitted against one another.</p>
+<p>Rocky Mountain bighorns and their slightly smaller desert cousins once may have numbered in the millions in the Interior West, from the high Tetons to the lowlands of Death Valley to the crinkled landscape that is now Canyonlands National Park. They and their distinctive horns are ubiquitous in Indigenous<a href="https://www.landdesk.org/p/looking-at-the-land-through-the-eyes" target="_blank" rel="noopener"> rock art panels</a>. Archaeologists excavating Fremont and Ancestral Puebloan sites in Utah&rsquo;s Glen Canyon before it was drowned by Lake Powell found seven times more bighorn bones than those of deer.</p>
+<p>But colonization, along with an invasion of rifles, livestock and extractive ways, killed off entire herds, both intentionally, via hunting &mdash; the rams&rsquo; heads made impressive trophies &mdash; and unintentionally, <a href="https://www.hcn.org/issues/50.15/wildlife-agricultural-interests-steer-colorados-wildlife-management" target="_blank" rel="noopener">by way of domestic sheep grazing</a><span style="text-decoration: underline;"> spreading disease to their wild cousins</span>. In the 1930s, geologist Fritiof Fryxell observed huge flocks of domestic sheep in the Grand Tetons of Wyoming, where &ldquo;they leisurely fatten, moving through the flowery alpine meadows like a blight that destroys all in its path,&rdquo; including the summer range of deer, elk and bighorn. &ldquo;Better than any other animals, the bighorns typify the Tetons,&rdquo; Fryxell concluded grimly, &ldquo;yet they must inevitably soon disappear unless steps are taken to exclude their domestic brethren&rdquo; from the range.</p>
+<p>Then came the barbed-wire fences and highways, housing and energy developments and ski slopes, fragmenting habitat and cutting off migratory routes. More than a century of aggressive fire-suppression has allowed forests to displace forage. As if that weren&rsquo;t all bad enough, bighorn must also compete with mountain goats &mdash; which are not native to Colorado, Utah and Wyoming &mdash; and a recent study found that the <a href="https://newsmediarelations.colostate.edu/2022/10/17/mountain-goats-and-bighorn-sheep-battle-in-climate-crisis-new-study-shows/" target="_blank" rel="noopener">goats usually win</a>. And finally, the human descendants of the domesticated sheep &mdash; <a href="https://www.hcn.org/issues/52.3S/special-recreation-when-the-love-of-skiing-endangers-wildlife" target="_blank" rel="noopener">outdoor recreationists</a> &mdash; encroach further into the backcountry in search of fresh powder, solitude or an adrenalin fix. Even so-called quiet recreation can stress out bighorns, pushing them to avoid places frequented by human hikers, skiers or mountain bikers.</p>
+<p>There are just about 20,000 bighorns left in the U.S. They are separated into genetically isolated herds that are having a tougher and tougher time finding good, quiet breeding and foraging grounds, and unobstructed migratory paths. Wildlife agencies have stepped in to help, removing non-native mountain goats from bighorn habitat, launching reintroduction programs and <a href="https://www.nps.gov/grte/learn/news/working-group-asks-skiers-to-avoid-teton-range-bighorn-sheep-winter-zones.htm" target="_blank" rel="noopener">controversially proposing limits</a> to backcountry recreation in winter ranges.</p>
+<p>In spite of these efforts, Colorado bighorn numbers have been on the decline over the last two decades. The Gore Range herd, which is endemic to the Vail area, had about 100 sheep in 2005, but that number has fallen to around 50 now. While the herd has ample room to roam in the summer, its low-elevation winter range has been invaded by mansions, condos, ski runs and a busy interstate highway, leaving a relatively meager patch of slopes and cliffs adjacent to Vail.</p>
+          </mj-text>
+        <mj-image src="https://www.hcn.org/articles/bighorn-lovers-butt-heads-with-vail-resorts-affordable-housing/bighorn-colo-jpg/image" alt="A male bighorn sheep grazes along I-70"></mj-image>
+        <mj-text mj-class="credit-text">James Van Gundy/CC via Flickr</mj-text>
+        <mj-text mj-class="body-text">
+<p>It&rsquo;s in this patch of crucial habitat that the resort wants to build affordable housing to help ease a shortage of habitat for workers and non-millionaires in general.</p>
+<p>All over the Western U.S., especially in amenity-rich, public lands gateway towns, already rising housing prices skyrocketed during the pandemic, forcing that other beleaguered species &mdash; the community&rsquo;s workers &mdash; to live in cars, commute ungodly distances to relative affordability or set up camp on public lands and in wildlife habitat.</p>
+<p>The housing crunch has been especially acute in Vail and other high-end, recreation-oriented communities. The average home in the Vail Valley will <a href="https://www.vaildaily.com/opinion/eagle-county-real-estate-market-report-a-changed-market-yields-opportunities/" target="_blank" rel="noopener">run you about $2 million</a> these days. The most affordable property in Vail is a timeshare: two weeks a year in a condo for $295,000. Even a hefty commute won&rsquo;t get you much for under a half-million bucks, and renting isn&rsquo;t much better: a minuscule studio fetches about $1,800 a month. Vail Resorts &mdash; owner of several ski resorts around the West and one of the largest ski conglomerates in the world&mdash; has been having a tough time <a href="https://coloradosun.com/2021/12/31/labor-shortage-vail-resorts-ski-areas-understaffed-omicron/" target="_blank" rel="noopener">adequately staffing</a> operations at its flagship ski area, in part because of high housing costs.</p>
+<p>So, several years ago the company proposed to put a dent in the valley&rsquo;s <a href="https://static1.squarespace.com/static/5e4aa4c870139842dc315ab6/t/5fb56bec3c02f469f9dc1579/1605725168419/2018+Eagle+Valley+Housing+Needs+and+Solutions+FINAL.pdf%252520(.)" target="_blank" rel="noopener">6,000-unit shortfall</a> by building 61 units, 80% of which would be deed restricted, on about five acres of its 23-acre property in the bighorn herd&rsquo;s winter range. An environmental analysis prepared by an independent contractor found that the &ldquo;paramount wildlife concern on this project is the potential for inappropriate recreational use&rdquo; and dogs straying out of the development area into the bighorn&rsquo;s vital habitat, but that the threat could be allayed with fencing, regulations and other mitigation measures.</p>
+<p>But a study by three wildlife biologists commissioned by the town found that mitigation measures might not be enough: &ldquo;Due to the already limited winter and transitional range for bighorn sheep and the relatively small number of sheep in this herd, our collective view is that finding another location for this development would offer the best mitigation for this sheep herd.&rdquo; They went on to suggest their own mitigation measures, with this caveat: &ldquo;&hellip; the impacts to this already struggling bighorn sheep herd as a result of this development might not be able to be mitigated.&rdquo;</p>
+<p>Nevertheless, in 2019 the Vail town council narrowly approved the plan with contingencies: The resort would put a conservation easement on 18 acres adjacent to the development in bighorn habitat, spend $100,000 on mitigation measures and alter the structures to have less impact.</p>
+<p>But in April of this year, the town council &mdash; now with different members than in 2019 &mdash; set out to block the project due to its potential impact on the bighorn herd, which the town has adopted as its own. They are backed by the new Vail Bighorn Sheep Initiative, which argues the development and associated activity could push the sheep out of their severe-winter foraging ground, starving the herd.</p>
+<p>In a May 2022 letter to the town, Colorado Parks and Wildlife official Devin Duval encouraged the parties to find an alternative development site because if the bighorns lose access to &ldquo;the specific set of biological conditions&rdquo; of its already &ldquo;extremely limited&rdquo; winter range, &ldquo;they simply won&rsquo;t exist.&rdquo;</p>
+<p>Project proponents, meanwhile, say the housing is desperately needed and accuse opponents of the <a href="https://coloradosun.com/2022/02/18/colorado-resort-housing-affordability-density-nimby-opinion/" target="_blank" rel="noopener">same strain of NIMBYism</a> that halted planned prescribed burns intended to improve bighorn habitat in the same area a couple of decades ago. They note that the workforce housing would sit between two other high-end developments that are also in the bighorn&rsquo;s range and less than 200 feet from Interstate-70, which sees tens of thousands of vehicles daily.</p>
+<p>The town offered to buy the property for $12 million or to swap it out for other land on which Vail Resorts could build workforce housing. But the ski area behemoth turned down the offer and said an exchange would force it to scrap its plans and restart the development process from scratch, delaying construction on the project for five years or more.</p>
+<p>So, the town pulled out the big gun: condemnation. In mid-October the town <a href="https://www.vailgov.com/home/showpublisheddocument/3208/638017042430070000" target="_blank" rel="noopener">petitioned</a> the Eagle County Court to exercise its eminent domain powers to pay a &ldquo;reasonable amount&rdquo; to seize the land in order to &ldquo;preserve the town&rsquo;s open spaces, wildlife and natural resources for the public welfare.&rdquo;</p>
+<p>That leaves the fate of the development in the hands of the court. Meanwhile, workers still struggle to find housing as another ski season commences, and the Gore Range bighorn continue to cling to existence as humanity closes in.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>Good news from the conservation world can be hard to come by these days, so when we run into some, we get a bit giddy. The <a href="https://www.hcn.org/issues/54.11" target="_blank" rel="noopener">November print edition of <em>High Country News</em></a>, which focuses on the future of conservation, is a real treat in this respect, chock-full of current successes and optimism. It includes a story on an effort to <a href="https://www.hcn.org/issues/54.11/agriculture-in-colorado-a-storied-valley-blooms-again" target="_blank" rel="noopener">spur a cultural reawakening</a> in the San Luis Valley in southern Colorado by Marissa Ortega-Welch; Sarah Trent delves into a successful method of <a href="https://www.hcn.org/issues/54.11/extremism-how-to-prevent-an-anti-government-revolution" target="_blank" rel="noopener">inoculating communities</a> against extremism; and Jaclyn Moyer writes a lovely <a href="https://www.hcn.org/issues/54.11/north-wildlife-how-a-rare-butterfly-returned" target="_blank" rel="noopener">piece</a> on the recovery of Fender&rsquo;s blue, a rare Oregon butterfly. &ldquo;Recovery takes three things,&rdquo; biology professor Cheryl Schultz tells Moyer. &ldquo;Science, time and partnerships.&rdquo; | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Recovering the Northwest&rsquo;s salmon and steelhead populations will take those three things and a lot more, according to a <a href="https://www.noaa.gov/news-release/rebuilding-salmon-and-steelhead-in-columbia-river-basin" target="_blank" rel="noopener">new report</a> from the Biden administration. The document calls for bold and comprehensive action to bring the fish &mdash; which are of critical importance to Columbia River basin tribes &mdash; back from the brink. This includes reintroducing the fish to places from which it has been extirpated, improving passage through dams, improving water quality and &mdash; perhaps boldest of all &mdash; breaching four dams on the lower Snake River. While merely a recommendation, it is likely to propel a growing movement to dismantle the dams and replace the hydroelectricity generation with wind and solar power. | <strong>National Oceanographic and Atmospheric Association</strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>It&rsquo;s getting a lot more difficult for Wyoming ungulates to move around, thanks to various sorts of development sprouting in their migratory paths. A new study out of the University of Wyoming finds that oil and gas development causes mule deer to pause their spring migration, where they then miss dining on forage when it&rsquo;s at its nutritional peak. One of the paper&rsquo;s authors <a href="https://www.wyomingpublicmedia.org/natural-resources-energy/2022-10-19/energy-development-affects-mule-deers-ability-to-forage" target="_blank" rel="noopener">told Wyoming Public Radio</a> that the research confirms the importance of minimizing development in migration corridors. But Sublette County commissioners must have missed the memo, given that they&rsquo;ve recently approved three major developments that could disrupt mule deer and pronghorn migrations, <a href="https://wyofile.com/development-wildlife-collide-along-iconic-wyo-migration-paths/" target="_blank" rel="noopener">according to <em>WyoFile</em></a>. | <strong><em>Wyoming Public Radio, WyoFile</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p><strong>What is your community doing about the affordable housing crisis, and what kind of hurdles are housing advocates running up against?</strong></p>
+          <p>Your news tips, comments, ideas and feedback are appreciated and often shared. Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

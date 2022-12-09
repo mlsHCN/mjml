@@ -1,0 +1,380 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 10px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:vGT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: Unprecedented fire, wind and snowmelt in the Southwest
+</mj-title>
+    <mj-preview>Examining the tricky nature of describing the Southwest’s extraordinary climate as “unprecedented.”</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Landline, a newsletter about public lands of the Western U.S." padding="10px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">May 26, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Our unprecedented — yes, unprecedented — climate</h1>
+          <h2>This may not be the driest winter, the worst fire season or even the warmest spring on record, but taken together the conditions truly are superlative.</h2>
+          <p><span class="dropCap">I</span>t is mid-May, and a couple of days ago, the Hermits Peak Fire in northern New Mexico reached 299,565 acres in size, surpassing the 2012 Whitewater-Baldy Fire as the state’s largest wildfire on record. At roughly the same time, on the other side of the state, the Black Fire ballooned from about 5,000 acres to 42,000 acres in a matter of hours. Within a few days, it had more than doubled again.</p>
+<p>It is mid-May, and a dozen other fires have already charred tens of thousands of acres across the West, from the Marshall Fire at the end of December, which destroyed 1,000 homes on Colorado’s Front Range, to the Tunnel Fire near Flagstaff, which burned through Sunset Crater Volcano National Monument, to the McBride Fire, which obliterated 200 homes on the outskirts of Ruidoso, New Mexico.</p>
+<p>It is mid-May, and the spring winds have been relentless, howling across the Southwest and the Great Plains, picking up desert dust from the Colorado Plateau and depositing it on the already marginal snowpack, hastening its disappearance. It is mid-May, and the temperature in Phoenix has reached 105 degrees Fahrenheit two days in a row. The snowpack feeding the headwaters of the Rio Grande has already vanished, two weeks earlier than it did last year, and spring runoff on many Rocky Mountain streams has already peaked. The entire West, save for a smidgeon of the Pacific Northwest, is in some stage of drought.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>120 degrees Fahrenheit</h4>
+Temperature at Antelope Lake, Nevada, on May 16, 2022, shattering the previous May record of 94 degrees Fahrenheit. </mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>468,199</h4>
+Acres burned in major 2022 New Mexico wildfires as of May 20, nearly four times the amount burned in the state during all of 2021. </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>419,533</h4>
+Acres burned in major New Mexico wildfires during 2002. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Watching it all unfold on social media, in the news, on satellite-captured time-lapse images of smoke clouds and dust clouds racing across the land is both heartbreaking and baffling — it isn’t even summer yet. But perhaps it’s even more baffling to come across this line in a <a href="https://www.npr.org/2022/05/16/1098779996/new-mexico-wildfires-southwest-not-unprecedented?utm_source=HCN&utm_medium=email&utm_campaign=landline">news story</a>: “But experts caution about calling this current crisis … unprecedented.” It makes me want to scream. And then I remember: I was once that guy, too.</p>
+          </mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/LL_noaa-sat-5-2022.gif" alt="A 5 second clip of satellite images showing smoke and dust moving across the Southwest."></mj-image>
+        <mj-text mj-class="body-text">
+          <p>Twenty years ago, my wife and I sat in our backyard with some friends while our toddlers frolicked in the green grass. That, in itself, was somewhat remarkable: We were in Silverton, Colorado, elevation 9,318 feet, where Memorial Day blizzards were almost routine, and where, during a “normal” year, we would most likely have been chilling our drinks in the snowbanks that invariably lingered at the base of our neighbor’s north-facing wall.</p>
+<p>But that year, 2002, the snows had been scant; by mid-May, I could already mountain bike to the summit of backcountry passes, and we could even swim in the murky, milky green waters of the Animas River below town without contracting instant hypothermia. It was glorious. Until that afternoon in the backyard.</p>
+<p>We were getting the grill ready when someone noticed a huge thunderhead rising up into the otherwise cloudless blue sky. Only it wasn’t a cloud. It was smoke. A few hours earlier, as we hiked on an ominously dry forest trail near town, something had sparked a blaze in dry brush about 30 miles south of Silverton. By that evening, the blaze had grown to more than 6,000 acres, sending a pyro-cumulonimbus cloud, a billowing gray monster, towering into the blue. The Missionary Ridge Fire would burn for another month and char 73,000 acres. It was, at that point, the state’s largest fire on record, far surpassing the Lime Creek Burn of 1879, the previous record-holder. But even as it was setting that record, the Hayman Fire had begun to consume nearly twice as much forest up on Colorado’s Front Range, quickly relegating the Missionary Ridge blaze to second place.</p>
+<p>I would like to say that was the moment when I truly became aware of the changes afoot — that I knew we were entering a different era, climatically, and that our concept of “normal” precipitation and temperatures and fires was getting thrown out of whack. But I’m afraid that’s not what happened. In fact, when readers of the newspaper I published warned that the dry winter and the fire and Silverton-swimming were all signs of climate change, I scoffed. When sources said it was unprecedented, I cited old newspaper stories about the gargantuan wildfires of yore. I pointed to past dry years — ’31, ’34, ’77 — and how each had been followed by unusually wet years. It’s just a cycle, I said, and we’d soon be on the favorable side of it. Don’t be alarmed. We’ll be OK.</p>
+<p>I got a few things right: The Southwest hasn’t experienced another snowpack quite as slim as 2002’s — at least, not yet. I was correct about the cyclical nature of the weather: There have been a handful of whopper snow years since then, including 2005 (big avalanche year), 2008 (serious spring runoff), 2011 (Lake Powell rebounded from an all-time low) and 2019 (record avalanche cycle). Researchers looking at tree rings, silt or other natural archives have found that megafires even bigger than the ones we’re seeing now were somewhat normal a few hundred years ago. It’s probably true that no single fire, weather event or even season — no matter how extreme — is absolutely unprecedented.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>Aridity Factoid</h4>
+          Prior to 2002, Colorado’s largest wildfire on record was the 1879 Lime Creek Burn, at 26,000 acres. Twenty years later, the Lime Creek Burn doesn’t even crack the state’s top 20 largest fires. The current record holder is the Cameron Peak Fire, which scorched 208,913 acres in 2020.</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>May 16, 2022</h4>
+Date the snow water equivalent in the Rio Grande Headwaters snowpack monitoring stations reached zero, the earliest date on record (tied with 2002).
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>16</h4>
+Number of “red flag warnings” — when heat, low humidity and strong winds combine to produce high fire risk — the Boulder office of the National Weather Service issued in April 2022, the most ever issued in a single month. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="body-text">
+          <p>So, yeah, I was right about some things. But I was wrong in thinking that we’d be OK, that a few big snow years would rescue the region from an increasingly dire situation. The dry-wet cycles are still occurring, but they do so within a long-term warming trend triggered by human-caused climate change. That dries out the soil, accelerates evaporation, desiccates vegetation and even depletes groundwater stores. It has all added up, researchers say, to the longest, most severe drought of the last 1,200 years. The whole ecosystem is so dehydrated that even a big gulp of moisture isn’t enough to replenish the parched earth and vegetation or fill up the streams and reservoirs or kill the forest-munching beetles or stifle the megafires.</p>
+          <p>It’s enough to flummox farmers, water managers and boaters trying to use winter snowpack levels to forecast the spring runoff. Last spring, I talked to Darrin Parmenter, who runs the state agricultural extension office in my hometown. “It didn’t feel like a low winter to me,” he said. He had been skiing on natural snow throughout the winter, and the stats showed the snowpack levels were around 80% of median, which is more or less normal. But then, when it melted, “it just didn’t run off.” It was as if something had been lost in evapotranspiration<sup>1</sup>. So all that snow never made it to the reservoirs or farmers’ ditches, leading to one of the worst summers for southwest Colorado agriculture since 2002.</p>
+<p>This year looks like it will be more of the same. Again, snowpack levels were good in midwinter — a hell of a lot better than 20 years ago, at least. And yet, by the middle of May, far earlier than in the past, the snow had pretty much vanished from southern Colorado, most of Arizona and New Mexico, and parts of California. So, no, the winter wasn’t drier than ever before, the rivers are not running at record low levels, and the amount of acreage burned this summer may not be unprecedented — although it’s early yet. But the big-picture situation that is already causing record-breaking fires in May following a pretty average water year? That really is unprecedented.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end--> 
+    <!--pullout section start-->
+    <mj-section mj-class="pullout-section">
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$6.50</h4>
+Average price per gallon of gasoline in Mono County, California, on March 15, 2022.</mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$7.5 billion</h4>
+BP’s 2021 profits.</mj-text>
+      </mj-column>
+      <mj-column mj-class="pullout">
+        <mj-text mj-class="pullout-text">
+          <h4>$2.4 billion</h4>
+Amount BP profited last year from its partnership with Rosneft, Russia’s state-owned oil company and one of Putin’s war machine’s primary sources of funds. BP says it divested from Rosneft after Russia invaded Ukraine.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--pullout section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>The <em>Arizona Republic</em>’s Debra Utacia Krol <a href="https://www.azcentral.com/story/news/local/arizona/2021/10/30/worship-site-oak-flat-vandalized-amid-copper-mine-fight/6185793001/?utm_source=HCN&utm_medium=email&utm_campaign=landline">reports</a> that vandals defaced an Apache alter at the site of Oak Flat in Arizona. Congress handed over Oak Flat to a global mining corporation in a swap so the company could go after a massive copper deposit underneath it. Apache land protectors have been fighting an increasingly heated battle to stop the trade and the project. This is the second time this alter has been vandalized. | <a href="https://www.azcentral.com/story/news/local/arizona/2021/10/30/worship-site-oak-flat-vandalized-amid-copper-mine-fight/6185793001/?utm_source=HCN&utm_medium=email&utm_campaign=landline"><em>Arizona Republic</em></a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p><em>HCN</em>’s Brian Oaster continues their lively chronicles of not-so-charismatic fauna with a lovely <a href="https://www.hcn.org/issues/54.6/indigenous-affairs-birds-the-yurok-tribe-is-bringing-condors-home-to-northern-california-skies?utm_source=wc&utm_medium=email&utm_campaign=landline">portrait</a> of the carcass-eating California condor, whose Yurok name is preygoneesh. The Yurok tribe is bringing the bird — which was nearly wiped out entirely — back to its lands in Northern California. | <a href="https://www.hcn.org/issues/54.6/indigenous-affairs-birds-the-yurok-tribe-is-bringing-condors-home-to-northern-california-skies?utm_source=wc&utm_medium=email&utm_campaign=landline"><em>High Country News</em></a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Utah lawmakers last week <a href="https://kutv.com/news/local/state-approves-bears-ears-land-swap-while-utah-lawmaker-blasts-the-deal?utm_source=HCN&utm_medium=email&utm_campaign=landline">somewhat reluctantly</a> green-lighted a land swap that transfers 161,000 acres of state-owned land within Bears Ears National Monument to federal management. In exchange, the Utah State Institutional Trust Land Administration will receive 164,000 acres of Bureau of Land Management parcels around the state. The Bears Ears parcels SITLA is giving up — and the American public is receiving — include significant cultural sites and will be closed to mining claims, oil and gas leasing or other development. The parcels SITLA obtains outside the monument will become like other state trust lands: open to leasing and development, without the federal protections they now have, raising concerns among environmentalists, who generally support the swap. SITLA executive director Michelle McConkie <a href="https://www.fox13now.com/news/local-news/utah-lawmakers-approve-bears-ears-land-swap?utm_source=HCN&utm_medium=email&utm_campaign=landline">told Fox13</a> that the Bears Ears parcels only bring in about $80,000 annually and the land it is acquiring should generate “tens of millions of dollars in the short term.” Congress must approve the deal, too. | <a href="https://kutv.com/news/local/state-approves-bears-ears-land-swap-while-utah-lawmaker-blasts-the-deal?utm_source=HCN&utm_medium=email&utm_campaign=landline">KUTV</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_03D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+          <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>A federal judge <a href="https://coloradosun.com/2022/05/23/fracking-western-slope-judge-orders-halt/?utm_source=HCN&utm_medium=email&utm_campaign=landline">shot down</a> a Trump-era approval of an oil and gas drilling plan targeting public lands in western Colorado’s North Fork of the Gunnison watershed, not far from <em>HCN</em>’s Paonia HQ. The judge said the administration failed adequately to account for the project’s climate impacts. | <a href="https://coloradosun.com/2022/05/23/fracking-western-slope-judge-orders-halt/?utm_source=HCN&utm_medium=email&utm_campaign=landline"><em>The Colorado Sun</em></a></p>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+        <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_01D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>Former Interior Secretary Bruce Babbitt has spoken the unspeakable, <a href="https://www.latimes.com/california/story/2022-05-19/former-interior-secretary-calls-for-revamping-colorado-river-compact?utm_source=HCN&utm_medium=email&utm_campaign=landline">reports Ian James of the <em>Los Angeles Times</em></a>: The time has come to rewrite the 1922 Colorado River Compact, which divvied up the river’s water between seven states and Mexico. The Compact’s framers handed out more water than was actually in the river, even back then. Now, with climate change further diminishing flows, the system has reached a breaking point. Thus far states and federal officials have preferred working within the existing “law of the river” to deal with aridification, but Babbitt now believes the time has come to update the pact. | <a href="https://www.latimes.com/california/story/2022-05-19/former-interior-secretary-calls-for-revamping-colorado-river-compact?utm_source=HCN&utm_medium=email&utm_campaign=landline"><em>Los Angeles Times</em></a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We want to hear from you!</h3>
+          <p>Last week, we asked readers to share their favorite running-out-of-gas stories; thanks for delivering! This week’s featured response comes from Bruce Hamilton in Berkeley, California, who concludes with advice you’d be wise to heed before you hit the road this summer.</p>
+          <p><em>It was winter, and the summer road over Ebbetts Pass in the Sierra Nevada was closed for the season. We were up cross-country skiing where the plowed highway ended, and afterward we were hanging out in the bar during the evening. Suddenly, a desperate motorist entered the bar. He was low on gas and checked his phone and was told the nearest gas was in Markleeville, so he turned down the dead-end road to Markleeville and barely made it to town on his vapors — only to learn that the town's gas station was closed for the season since there was little winter traffic. The bar patrons all compared notes and together located a spare gas can in town with enough fuel to allow the driver to get back to the main highway and down the road to an open gas station in Nevada in the nearest open town. Moral: Don't get so low you have to count on the next advertised and only gas station, and don't trust a map program to have seasonal information, particularly in winter.</em> —Bruce H. Hamilton</p>
+            <p><strong>And now, we’re passing the receiver back to you!</strong> This week, we want to get a glimpse of the signs of aridity that you’re witnessing in your own backyard. Tell us about a sign (literal or figurative) that shows that we’re living in unprecedentedly dry times.</p>
+          <p>To share your story, give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org?subject=A glimpse of the signs of aridity">landline@hcn.org</a>.</p>
+        </mj-text>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="14px" line-height="18px"><sup>1</sup> Evapotranspiration: When snow melts and quickly evaporates due to high temperatures, low humidity and wind. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_source=landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+      <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+  </mj-body>
+</mjml>

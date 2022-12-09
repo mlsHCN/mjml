@@ -1,0 +1,9 @@
+<!--sign up start-->
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text font-family="Arial" font-size="18px" line-height="24px" container-background-color="#eee">
+          Was this email forwarded to you? If you enjoy reading it,  <a href="https://www.hcn.org/enewsletter?utm_source=wc-forward">sign up to receive future editions</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--sign up end-->

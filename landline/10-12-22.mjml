@@ -1,0 +1,290 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Tiempos" href="https://media.whatcounts.com/hcn/tiempos.css
+"/>
+    <mj-font name="GT-America-Standard" href="https://media.whatcounts.com/hcn/GT-America-Standard.css
+"/>
+    <mj-font name="GT-America-Compressed" href="https://media.whatcounts.com/hcn/GT-America-Compressed.css
+"/>  
+
+    <mj-attributes>
+      <mj-text align="left" color="#000" font-family="Arial" font-size="16px" />
+      <mj-section background-color="#fff" padding="5px 0px"/>
+      <mj-class name="body-text" font-family="Tiempos, Times New Roman" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="button-1" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" background-color="#906E27" padding="20px" inner-padding="10px 45px" border-radius="0px" height="50px" text-decoration="underline"></mj-class>
+      <mj-class name="button-2" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" color="#906E27" background-color="#FFF" border="solid 3px #906E27" padding="20px 25px" inner-padding="10px 45px" border-radius="0px" height="50px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="button-3" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="18px" color="#000" background-color="#FFF" border="solid 3px #000" padding="20px 25px" inner-padding="10px 35px" border-radius="0px" height="40px" align="left" text-decoration="underline"></mj-class>
+      <mj-class name="pullout-section" padding="0px 25px"></mj-class>
+      <mj-class name="pullout" padding="10px" inner-background-color="#FAC1A8" width="100%"></mj-class>
+      <mj-class name="pullout-text" font-family="GT-America-Standard, Arial" font-size="15px" line-height="20px"></mj-class>
+      <mj-class name="disclaimer" container-background-color="#DE3610" color="#FFF" font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px;" padding="15px 25px"></mj-class>
+      <mj-class name="disclaimer-section" padding="10px 0px"></mj-class>
+      <mj-class name="pullquote" padding-left="20px"inner-border-left="solid #000 10px"></mj-class>
+      <mj-class name="pullquote-text" font-family="GT-America-Standard, Arial" font-weight="bold" font-size="20px" line-height="28px"></mj-class>
+      <mj-class name="pullquote-name" font-family="GT-America-Standard, Arial" font-weight="bold" align="right" font-size="18px"></mj-class>
+      <mj-class name="poll" ></mj-class>
+      <mj-class name="form-text" font-family="GT-America-Standard, Arial" font-size="18px" line-height="28px"></mj-class>
+      <mj-class name="footer-section" padding-top="10px" />
+      <mj-class name="footer-text" align="center" color="#fff" font-size="18px" font-weight="bold" font-family="GT-America-Standard, Arial"/>
+      <mj-class name="date-text" align="left" font-family="GT-America-Standard, Arial" font-size="14px" text-transform="uppercase"/>
+      <mj-class name="byline-text" font-family="Tiempos, Times New Roman" font-size="18px" align="left" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+      color: #906827;
+      font-weight: bold;
+      text-decoration: underline;
+      }
+      em {
+      font-style: italic;
+      }
+      strong {
+      font-weight: bold;
+      }
+      h1 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 34px;
+      line-height: 38px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      }
+      h2 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: normal;
+      margin-bottom: 30px;
+      }
+      h3 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 24px;
+      line-height: 28px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      }
+      h4 {
+      font-family: GT-America-Standard, Arial, Sans-serif;
+      font-size: 18px;
+      line-height: 20px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-top: 7px;
+      }
+      p {
+      margin-bottom: 20px;
+      }
+      blockquote {
+      font-style: italic;
+      margin-left: 10px;
+      margin-right: 0px;
+      }
+      ul {
+      padding-left: 20px;
+      }
+      input[type=button], input[type=submit], input[type=reset] {
+      border: none;
+      color: #FFF;
+      padding: 15px 25px;
+      text-decoration: underline;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-family:GT-America-Standard, Arial;
+      font-weight: bold; 
+      font-size: 16px;
+      background-color: #906E27;
+      }
+      .footerSection {
+      padding: 0px;
+      }
+      .footerButton a {
+      color:#FFF !important;
+      text-decoration:none !important;
+      }
+      .browserLink a {
+      color: #A8A8A8 !important;
+      font-weight: normal !important;
+      }
+      .dropCap {
+  float: left;
+  margin: 25px 10px 25px 10px;
+  font-size: 100px;
+      }
+    </mj-style>
+    <mj-style>
+      .contact a {
+      color: #906827 !important;
+      font-weight: bold !important;
+      text-decoration: underline !important;
+      }
+      a[href^="tel:"]:before {
+        content: "\260e";
+        margin-right: 10px;
+      }
+    </mj-style>
+    <mj-title>Landline: The Green Metal Mining Boom is on
+</mj-title>
+    <mj-preview>Now is not the time to loosen mining regulations.&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+     <mj-raw>%%set enc_email = {{urlencode $email}}%% %%nospace_concat nospaceQuery "?form.email=" $enc_email "&form.first_name=" $customString $first "&form.last_name=" $customString $last %%</mj-raw>
+     <mj-raw>%%if __VIEWMODE = "WEB" then includearticle "landline-signup"%%</mj-raw>
+    <!--header start-->
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="browserLink" align="center" font-family="GT-America-Standard, Arial" padding="5px 0px 10px 0px" font-size="12px" line-height="12px"><a href="%%DISPLAY_MSG%%">Read this email in a browser</a></mj-text>
+        <mj-image src="https://www.hcn.org/external_files/wc-files/HCN_Logo-Horizontal_Black_web.jpg" width="200px" alt="Logo: High Country News"></mj-image>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/1200x550_LandlineHeader.jpg" alt="Logo: Landline, a newsletter about public lands of the Western U.S." padding="10px 0px" href="https://www.hcn.org/topics/landline?utm_source=wcn1&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--header end-->
+    <!--disclaimer section start-->
+    <mj-section mj-class="disclaimer-section">
+    	<mj-column>
+        <mj-text mj-class="disclaimer">Welcome to the <em>Landline</em>, a fortnightly newsletter from <em>High Country News</em> about land, water, wildlife, climate and conservation in the Western United States.</mj-text>
+        </mj-column>
+    </mj-section>
+    <!--disclaimer section end-->
+    <!--body text section start-->
+    <mj-section>
+    	<mj-column>
+        <mj-text mj-class="date-text">October 13, 2022</mj-text>
+        <mj-text mj-class="date-text">By Jonathan Thompson
+        </mj-text>
+        <mj-text mj-class="body-text">
+          <h1>Green metal mining boom gathers strength</h1>
+          <h2>Demand for EVs fuels a surge in projects from Nevada to Arizona</h2>
+          <p>Southern Arizona&rsquo;s Patagonia Mountains, long inhabited by the Sobaipuri O&rsquo;odham and Hohokam people, occupy the nexus of several different biological provinces. They are home to hundreds of species of birds, bees, bats and butterflies, as well as the unique Madrean Pine-Oak Woodlands.</p>
+<p>It was here that, in 1877, a rancher named David Tecumseh Harshaw staked a couple of mining claims on stolen land that had been put in the public domain. The General Mining Law, passed by Congress five years earlier to encourage the settlement, privatization and exploitation of public land in the Western U.S., enabled him to do so. Harshaw did the obligatory &ldquo;improvements&rdquo; to the claims and obtained title to the property.&nbsp;</p>
+<p>Harshaw sold one of them to the Hermosa Mining Co. of New York, which hired 150 men to shovel the mountain&rsquo;s innards into something resembling Swiss cheese. Over the next few decades, the Hermosa Mine changed hands several times while reportedly producing some $1.5 million worth of manganese-silver ore &mdash; and paying zero royalties, thanks to the 1872 Mining Law. But a drop in silver prices in the late 1800s hit the mine hard, and in 1903, it puttered out and never fully recovered.&nbsp;</p>
+<p>Until now, that is. South32 Ltd, the Australian company that has owned Hermosa since 2018, <a href="https://www.bloomberg.com/news/articles/2022-10-03/ev-demand-sparks-revival-of-us-manganese-mining-after-decades?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">told<em> Bloomberg</em></a> that it&rsquo;s accelerating its plans to re-open and expand the mine in order to supply electric vehicle manufacturers, who are &ldquo;super keen&rdquo; to get their hands on the battery-grade manganese buried on the property. Its PR material includes a super-keen press release headlined: &ldquo;Putting Arizona in the driver&rsquo;s seat of clean transportation.&rdquo;</p>
+<p>The Hermosa Mine is just one of scores of mining projects sprouting across the West to feed the global hunger for the so-called <a href="https://www.hcn.org/issues/54.2/infographic-energy-industry-electric-vehicles-drive-up-demand-for-green-metals?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">green metals</a> used in clean energy technologies and electric vehicles, from the lithium, cobalt and nickel in EV and grid-scale batteries, to the rare earth elements in EV transmissions and solar panels.</p>
+<p>It&rsquo;s not just new projects that are getting a boost; decades-old proposals that withered in the face of environmental opposition are now being dusted off and given a new green sheen. What were once just gaping global corporate-profit machines are being reborn as essential to the push to decarbonize &mdash; with the added benefit of maybe showering oodles of cash on mining executives and shareholders.&nbsp;</p>
+<p>This any-minute-now boom will be fueled by federal enticements and incentives designed to spur domestic production of these critical minerals. The Inflation Reduction Act&rsquo;s $7,500 credit for electric vehicle purchases, for example, will apply only to cars with domestically mined battery materials. Plus, lithium, cobalt and nickel mine production will net mine operators a 10% tax credit, nothing to scoff at if you&rsquo;re a billion-dollar corporation, or even if you&rsquo;re not.</p>
+<p>Here&rsquo;s an update on few of the projects in the works:&nbsp;</p>
+<ul>
+<li>On Oct. 7, Australia-based Jervois Global, <a href="https://www.kivitv.com/news/cobalt-mine-near-salmon-opening-ceremony-marks-significant-day-for-the-domestic-supply-chain?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">officially launched operations</a> at its cobalt mine in a historic mining district a few miles outside Idaho&rsquo;s Frank Church Wilderness. It&rsquo;s the only cobalt mine in the U.S. so far, and it should be lucrative: Cobalt is currently trading for more than $50,000 per ton; earlier this year, it hit $80,000. Jervois expects to produce enough material for up to 7 million EVs over its eight-year lifespan.&nbsp;</li>
+<li>First, there was the Rosemont, a massive open-pit copper mine <a href="https://www.hcn.org/issues/42.20/hardrock-mining-showdown?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">proposed for the Santa Rita Mountains</a> south of Tucson, Arizona, on ancestral lands of the Tohono O&rsquo;odham Nation and Pascua Yaqui and Hopi tribes. The Forest Service was OK with letting Rosemont dump 1.9 billion tons of mine waste on public lands, but that plan was kiboshed after a federal court <a href="https://www.mining.com/hudbay-suffers-major-rosemont-setback/?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">upheld an earlier ruling</a> revoking the agency&rsquo;s approval. Now, Canada-based Hudbay has rebranded the proposal as the &ldquo;Copper World Complex,&rdquo; a three-pit mine that, according to the company, &ldquo;will support a stronger domestic supply of the copper we need to drive our green energy future.&rdquo; Its first phase will be on patented mining claims &mdash; i.e., private land acquired through the 1872 General Mining Law. Hudbay plans to expand onto Forest Service land at a later date. In the meantime, it&rsquo;ll need around 3 billion gallons of groundwater for the project. Good thing Tucson&rsquo;s not in a desert or anything.&nbsp;&nbsp;</li>
+<li>Resolution Copper, a subsidiary of global mining giants BHP and Rio Tinto, has been yearning to mine the <a href="https://www.hcn.org/issues/364/17513/?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">massive deposit of copper</a> buried deep beneath Ch&iacute;chʼil Bił Dagoteel, or Oak Flat, since before Tesla was even founded. The original goal was to profit from the high copper prices spurred by China&rsquo;s huge infrastructure push and the U.S. housing boom. But the project is fiercely opposed by the San Carlos Apache Tribe, which <a href="https://www.hcn.org/articles/indigenous-affairs-justice-at-oak-flat-courts-and-politicians-fail-tribes?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">holds Oak Flat sacred</a>. Now, Resolution&rsquo;s marketing material and <a href="https://twitter.com/resolutioncu/status/1572637966379655168" target="_blank" rel="noopener">Twitter feed</a> are abuzz with soundbites about how extracting that copper is necessary to achieve our <a href="https://www.hcn.org/articles/mining-evs-demand-for-copper-escalates-threat-against-apaches-oak-flat?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">green energy goals</a>. There&rsquo;s nary a word about the resulting destruction of Ch&iacute;chʼil Bił Dagoteel and <a href="https://eu.azcentral.com/story/news/local/arizona/2021/10/10/oak-flat-mines-opposition-water-consumption/6012369001/?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">the 250 billion or so gallons of water</a> the mine will guzzle over its lifetime.&nbsp;</li>
+<li>Energy Fuels&rsquo; White Mesa uranium mill in southeastern Utah fell on hard times once more and more uranium started coming from overseas. So, Energy Fuels has taken to running radioactive waste through the facility, then dumping it in its tailings ponds in return for &ldquo;recycling fees,&rdquo; effectively becoming a <a href="https://www.landdesk.org/p/when-history-repeats?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">nuclear waste dump for hire</a>. The Ute Mountain Ute Tribe, whose land is nearby, has fought <a href="https://www.hcn.org/issues/53.11/indigenous-affairs-nuclear-energy-the-nations-last-uranium-mill-plans-to-import-estonias-radioactive-waste?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">to hold the company accountable</a> for its shoddy waste storage practices and groundwater contamination. The company has responded with a major PR blitz touting its new endeavor: processing rare earth elements, which are used in EV transmissions. Energy Fuels&rsquo; <a href="https://www.energyfuels.com/?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">website</a> says the company is &ldquo;helping to produce in the U.S. the materials for many clean energy and advanced technologies.&rdquo;</li>
+<li>Several proposals for lithium mines are on the table, most notably the <a href="https://www.hcn.org/issues/53.3/indigenous-affairs-mining-nevada-lithium-mine-kicks-off-a-new-era-of-western-extraction?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">Thacker Pass project</a> on the Fort McDermitt Paiute Shoshone Tribes&rsquo; ancestral land in Nevada and the <a href="https://www.hcn.org/issues/53.7/indigenous-affairs-mining-for-lithium-at-a-cost-to-indigenous-religions?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">Big Sandy project</a> on land sacred to the Hualapai Tribe in western Arizona.&nbsp;</li>
+</ul>
+<p>Some mining is inevitable; if we want to clean up America&rsquo;s dirty power and transportation sectors, we&rsquo;ll need minerals. And minerals usually come from mines &mdash; though advances are being made in &ldquo;mining&rdquo; old EV batteries and solar panels for their critical minerals. But as things stand, this new wave of hardrock mining will be governed by the same old 1872 law under which Harshaw first staked the Hermosa claims 145 years ago. And yet there are those who, afflicted perhaps with &ldquo;carbon tunnel vision,&rdquo; would streamline the permitting process even further, simply because some of the metals these projects produce will be used for &ldquo;clean&rdquo; applications.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+    <!--Foward section start-->
+    <mj-section>
+      <mj-column>
+         <mj-divider></mj-divider>
+        <mj-text font-family="GT-America-Standard, Arial" font-size="18px" line-height="24px">
+          <p><strong>Liking Landline?</strong> <a href="mailto:?subject=Good read from HCN!&body=Thought you might like this newsletter from HCN. %%DISPLAY_MSG%%" target="_blank">Share this email with a friend</a>.</p>
+        </mj-text>
+         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--Foward section end-->
+    <!--body text section start-->
+    <mj-section>
+      <mj-column>
+        <mj-text color="#DE3610" padding-bottom="0px">
+          <h3>Hold the Line: Stories from HCN and elsewhere that are worth your time</h3>
+        </mj-text>
+        <mj-text mj-class="body-text" padding-top="0px">
+          <p>Last February, 33-year-old Marissa Hill died after accidentally backing a truck into a 60-foot-deep stope in an underground Nevada gold mine. Regulators probing the accident found that Nevada Gold Mines, the owner of the facility, had failed to follow safety laws and policies. Nick Bowlin of <em>High Country News</em> and Daniel Rothberg of <em>The</em><em>Nevada Independent</em> continue their ongoing investigation of Nevada Gold Mines and its culture of production and profit over safety with an <a href="https://www.hcn.org/articles/south-mining-exclusive-investigation-confirms-nevada-gold-mines-violated-safety-rules-contributing-to-miners-deat?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">exclusive look</a> into the factors that led to Hill&rsquo;s tragic death. | <strong><em>High Country News, Nevada Independent</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>The sagebrush sea is drying up, so to speak. That&rsquo;s the conclusion of a new report from a multi-agency group working to conserve the West&rsquo;s iconic ecosystem. <em>HCN</em>&rsquo;s Sarah Trent <a href="https://www.hcn.org/articles/north-sagebrush-the-west-is-losing-1-3-million-acres-of-sagebrush-steppe-each-year?utm_source=wcn1&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">writes about the report</a> and the disturbing trends it details &mdash; and their consequences. | <strong><em>High Country News</em></strong></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+     <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_02D.png" width="350px" alt="horizontal rule"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="body-text">
+          <p>One threat to the sagebrush &mdash; and other Western ecosystems &mdash; is energy infrastructure, including solar and wind power facilities. This can create rifts within the environmental community, with those wanting to decarbonize the power grid facing off against those protecting frontline communities and landscapes. But The Nature Conservancy has a new report out with a road map for avoiding such conflicts and easing them when they do occur. The researchers&rsquo; models determined that the West could meet its clean power needs with 21 million acres of solar and wind power, <a href="https://www.latimes.com/environment/newsletter/2022-10-06/solar-and-wind-farms-can-hurt-the-environment-a-new-study-offers-solutions-boiling-point?utm_source=hcn&utm_medium=email&utm_campaign=2022-20-13-Landline" target="_blank" rel="noopener">reports</a> Sammy Roth for the <em>Los Angeles Times</em>. And by putting those facilities on low-quality agricultural land &mdash; not to mention over parking lots and on commercial and residential rooftops &mdash; ecosystem impacts and resulting conflicts could be minimized. | <strong><em>Los Angeles Times</em></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--divider start-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://media.whatcounts.com/hcn/layout_images/BirdDivider_04D.png" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--divider end-->
+    <mj-section>
+      <mj-column>
+        	<mj-text mj-class="body-text">
+          <h3>We heard from you!</h3>
+          <p><strong>Last week we asked Landline readers for their stories about the arroyos near and dear to them. The response was terrific. Here&rsquo;s one of our favorites, as well as a haiku to get us through another week:&nbsp;</strong></p>
+<p><em>I once did a tour of many of the major parks of the American Southwest with my mother &mdash; Arches, Canyonlands, etc. While there was a sense of spectacle in these places, probably the fondest memory I had of the trip was along a dry riverbed south of the Vermilion Cliffs.&nbsp;</em></p>
+<p><em>My mother had asked me to stop, begging to get to walk around in the natal canyons along the highway. (She&rsquo;s a rockhound.)</em></p>
+<p><em>I remember thinking, </em>&ldquo;<em>Shouldn</em>&rsquo;<em>t we be getting to the real canyons? This is a scrubby creekbed in the middle of nowhere.&rdquo;</em></p>
+<p><em>But she just walked in circles, turning over stones, admiring the yucca plants, and getting lost in the little wonder 20 yards from the highway. She was so happy, and it really made my trip. I had just looked without seeing.&nbsp;</em></p>
+<p><em>Paul Busch<br>Moscow, Idaho</em></p>
+<p><em>~~</em></p>
+<p><em>Arroyo I love</em></p>
+<p><em>Rain brings you to life again</em></p>
+<p><em>Never go away</em></p>
+<p><em>&mdash;Gaylene Perkins</em></p>
+          <p>As always, comments, ideas and feedback are appreciated and often shared. Give Jonathan a ring at the <em>Landline</em>, <a href="tel:9706484472">(970)&nbsp;648&#8209;4472</a>, or send us an email at <a href="mailto:landline@hcn.org">landline@hcn.org</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--body text section end-->
+<!--divider --> 
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+           <mj-divider border-width="1px" padding="30px 10px 0px 10px" />
+      </mj-column>
+    </mj-section>
+<!--footer starts here -->
+    <mj-section css-class="footerSection">
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/support/support-our-work?utm_source=D019A000&utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank">Donate</a></mj-text>
+  </mj-column>
+  <mj-column css-class="footerButton" padding="10px" inner-background-color="#000">
+    <mj-text mj-class="footer-text"><a href="https://www.hcn.org/subscribe?utm_medium=email&utm_campaign=2022-09-29-Landline" target="_blank">Subscribe</a></mj-text>
+  </mj-column>
+</mj-section>
+ <mj-section padding-top="0px">
+   <mj-column>
+     <mj-social icon-size="30px" mode="horizontal">
+       <mj-social-element name="facebook-noshare" href="https://www.facebook.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/facebook-icon-2x.png"></mj-social-element>
+       <mj-social-element name="twitter-noshare" href="https://www.twitter.com/highcountrynews" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/twitter-icon-2x.png"></mj-social-element>
+       <mj-social-element name="instagram" href="https://www.instagram.com/highcountrynews/" background-color="white" src="https://media.whatcounts.com/hcn/layout_images/instagram-icon-2x.png"></mj-social-element>
+       <mj-social-element background-color="white" src="https://media.whatcounts.com/hcn/layout_images/tiktok-icon-2x.png" href="https://www.tiktok.com/@highcountrynews">
+</mj-social-element>
+     </mj-social>
+     <mj-text font-size="12px" line-height="14px" align="center"><p>&copy; 2022 <em>High Country News</em></p>
+       <p>PO Box 1090<br />Paonia, CO 81428<br />(800) 905-1155</p>
+       <p>This email was sent to %%$email%% because you selected to receive all email newsletters from <em>High Country News</em>. You can <a href="https://www.hcn.org/@@email-prefs%%STOP%%?sid=%%base64encode $nospaceQuery %%">update your email preferences</a> at any time.</p>
+     </mj-text>
+   </mj-column>
+    </mj-section>
+  </mj-body>
+    <mj-raw>
+        <style data-ignore-inlining>@media (prefers-color-scheme: dark) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rd&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?rl&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} @media print{ #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?p&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%');}} div.OutlookMessageHeader {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} table.moz-email-headers-table {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} blockquote #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')} #MailContainerBody #_t {background-image:url('https://1v2tnoao.emltrk.com/v2/1v2tnoao?f&i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%')}</style><div id="_t"></div>
+<img src="https://1v2tnoao.emltrk.com/v2/1v2tnoao?i=%%SUBSCRIBER_ID%%&t=%%$__campaign_id%%" width="1" height="1" border="0" alt="" />
+      </mj-raw>
+</mjml>
